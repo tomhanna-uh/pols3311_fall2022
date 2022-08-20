@@ -1,0 +1,56 @@
+---
+title: "Course Introduction"
+author: "Tom Hanna"
+format: revealjs
+editor: visual
+---
+
+## First Week Agenda
+
+-   Today
+
+                  - Introductions
+                  - Course topic overview
+                  - Course policies
+                  - Questions
+
+-   No class Wednesday
+
+                  - Sign up for assignment dates
+                  - Pre-class survey
+                  - Reading and Discussion Post in Blackboard
+
+## Introductions
+
+-   Name
+-   Major/minor
+-   Something interesting about you - hobby, favorite movie/TV show/band/comedian/organized crime figure (politician)/fictional character
+
+## Course Topic Overview
+
+-   What is politics?
+
+-   What is political science?
+
+                  - Difference between political science and political theory (philosophy)
+                  - Difference between political science and economics
+                  - Difference between political science and sociology, social psychology
+
+-   What is the comparative method of political science?
+
+## Course Topic Overview - Subtopics
+
+-   Institutions: Electoral Systems, Party Systems, Constraints on the Executive
+-   Types of Governments: Democracy, Dictatorship, Hybrid Regimes
+-   Democratization and Democratic Backsliding
+-   Economic Development and Modernization
+-   Regional/National, Cultural Explanations
+-   Conflict, Trade, and Globalization
+-   Corruption and Repression
+
+## Course Policies
+
+<iframe src="https://tom-hanna.org/teaching/pols3316-syllabus/" width="1400" height="600">
+</iframe>
+
+
