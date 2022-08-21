@@ -51,6 +51,23 @@ editor: visual
 ## Course Policies
 
 <iframe src="https://tom-hanna.org/teaching/pols3316-syllabus/" width="1400" height="600">
+
 </iframe>
 
+## Course Policy Notes {.smaller}
+
+#### Full email inboxes - not an excuse, may impact Professionalism Grade
+
+If your email inbox is full and you do not receive course announcements, you are still responsible for the material. It may be a courtesy notice I've sent as today. Sometimes it may be more important.
+
+If you have an **icloud.com email address** tied to your school email, I suggest finding an alternative email.
+
+If I receive more than one notice like this for your email address, **it may affect your Professionalism Grade**:
+
+Delivery has failed to these recipients or groups:
+
+username_redacted@icloud.com
+The recipient's mailbox is full and can't accept messages now. Please try resending your message later, or contact the recipient directly.
+
+The following organization rejected your message: mx01.mail.icloud.com.
 
