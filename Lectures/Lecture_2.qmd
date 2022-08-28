@@ -9,6 +9,7 @@ editor: visual
 + Announcements:
                 
         + Paper topics
+        + Pre-class survey: wide range of experience
         + Upcoming assignment: From your discussion post answer, what would be an appropriate scientific question you could ask? 
                 
         + Discussion posts and class discussion ground rules
