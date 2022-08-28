@@ -6,26 +6,33 @@ editor: visual
 
 ## Today
 
-+ Announcements:
-                
-        + Paper topics
-        + Pre-class survey: wide range of experience
-        + Upcoming assignment: From your discussion post answer, what would be an appropriate scientific question you could ask? 
-                
-        + Discussion posts and class discussion ground rules
-        
-                + Respectful disagreement
-                + Understand the assignment: i.e. how did politics impact **you**
-                + Eye on the goal: not a philosophy class. Not about right and wrong.
-                + Eye on the goal: understanding why things happen
+-   Announcements:
 
+          + Paper topics
+          + Pre-class survey: wide range of experience
+          + Upcoming assignment: From your discussion post answer, what would be an appropriate scientific question you could ask? 
 
-+ What is comparative politics?
-                
-                + What is politics?
-                + What is the state?
-                + What is comparative politics?
+          + Discussion posts and class discussion ground rules
 
+                  + Respectful disagreement
+                  + Understand the assignment: i.e. how did politics impact **you**
+                  + Eye on the goal: not a philosophy class. Not about right and wrong.
+                  + Eye on the goal: understanding why things happen
+
+-   What is comparative politics?
+
+                  + What is politics?
+                  + What is the state?
+                  + What is comparative politics?
+                  
+## Quiz 1
+
+**Instructions: If you stay for the entire class, you can change your answers for full credit, but don't erase them! Leave room to change them.**
+
+                1. What is the primary concern of politics? What is the thing that politics addresses that other things don't? (This should be no more than three or four words)
+                2. What makes "the state" different from other organizations or institutinos?
+                3. Did the readings or discussion post raise any scientific questions for you? If so, write the question. 
+                4. How did you get to campus today? (Or do you live on campus?)
 
 ## What is Politics
 
@@ -38,19 +45,19 @@ editor: visual
         "I believe that the last time politics impacted my life directly was four days ago, on August 24. Indeed, that day, President Joe Biden announced that he plans to forvige the debts of some student loan borrowers. As a student, this clearly impacts me because if I am eligible for this student loan forgiveness, it could be a big help!"
         "Sleepy Joe's Debt Forgiveness - Politics has impacted my life every step of the way yet I have only recently been made aware of it. On August 24th President Bidens three-part plan was announced to relieve student debt up to $20,000 for pell grant borrowers. As a pell grant recipient, this directly encourages me to be more optimistic about my just started, yet costly, undergrad education. Seeking further education is never simple, especially when originating from low-income areas, yet decisions such as this encourage students like me to complete our undergrad and perhaps go beyond, thus fundamentally changing our future job prospects, areas of knowledge, world influence, and potential."
         
+
 ## What is Politics: Discussion Posts
 
                 "I believe that the last time politics impacted my life directly was four days ago, on August 24. Indeed, that day, President Joe Biden announced that he plans to forvige the debts of some student loan borrowers. As a student, this clearly impacts me because if I am eligible for this student loan forgiveness, it could be a big help!"
                 "Sleepy Joe's Debt Forgiveness - Politics has impacted my life every step of the way yet I have only recently been made aware of it. On August 24th President Bidens three-part plan was announced to relieve student debt up to $20,000 for pell grant borrowers. As a pell grant recipient, this directly encourages me to be more optimistic about my just started, yet costly, undergrad education. Seeking further education is never simple, especially when originating from low-income areas, yet decisions such as this encourage students like me to complete our undergrad and perhaps go beyond, thus fundamentally changing our future job prospects, areas of knowledge, world influence, and potential."
         
+
 **Expensive or involves large amounts of money**
 
 **Distant - normally**
 
 **Involves politicians or campaigns**
 
-
-
 ## What is Politics: Discussion Posts
 
         "The most recent impact politics has had on me is on a much smaller scale than it has been for me in the past. Since this semester started I have been very active in the Mock Trial organization as a team leader, and my colleagues and I have been making crucial decisions for the group. We somewhat operate as a small democracy, taking votes from our team members to see what would be best for us as a whole."
@@ -59,6 +66,7 @@ editor: visual
 
         "The most recent impact politics has had on me is on a much smaller scale than it has been for me in the past. Since this semester started I have been very active in the Mock Trial organization as a team leader, and my colleagues and I have been making crucial decisions for the group. We somewhat operate as a small democracy, taking votes from our team members to see what would be best for us as a whole."
         
+
 **involves voting or decision making**
 
 **BIG!!!!**
@@ -75,11 +83,11 @@ editor: visual
                  "The last time politics impacted my life directly was this summer. In my search for employment over the break political policies like that which restricts international students from seeking non-CPT or OPT employment outside of campus determined the types of jobs, I could work before the search even began. It determined how many hours I could work and ultimately how much I would be paid."
                 "Visa Application process..."
                 
+
 **Involves rights**
 
 **National borders**
 
-
 ## What is politics: Discussion Post
 
                 "The last time politics directly impacted my life was when abortion was declared a felony in the state of Texas."
@@ -87,15 +95,17 @@ editor: visual
                 "There are so many trans men (with completely functional uteruses) who are affected by this as well."
                 
                 
+
 ## What is politics: Discussion Post
 
                 "The last time politics directly impacted my life was when abortion was declared a felony in the state of Texas."
                 "The last time politics impacted my life directly was when the US Supreme Court overturned Roe v. Wade. I'm a woman so for me this impacted me in a way that completely lowers my  choices I have over my own body."
                 "There are so many trans men (with completely functional uteruses) who are affected by this as well."
+
 **Controversial**
 
 **Involves rights**
-                
+
 ## What is politics: Discussion Post
 
 Just note several posts on:
@@ -107,14 +117,12 @@ Just note several posts on:
                 + cultural issues
                 + healthcare
                 
+
 ## What is politics: Discussion Post
 
+![Metro rail](metrorail.jpg){width="55%"} ![PGH Hall at University of Houston](pgh-hall.jpg){width="40%"}
 
-![Metro rail](metrorail.jpg){width=55%}
-![PGH Hall at University of Houston](pgh-hall.jpg){width=40%}
-
-![Houston Public Works](houston-public.png){width=65%}
-
+![Houston Public Works](houston-public.png){width="65%"}
 
 ## What is politics: Discussion Post
 
@@ -123,6 +131,7 @@ Just note several posts on:
                 + I rode Metrorail from downtown to the campus
                 + I walked from the Metro stop to my desk in the taxpayer funded, University of Houston campus
                 
+
 **immediate**
 
 **touches everything**
@@ -149,6 +158,7 @@ From the Sleepy Joe post - **"Politics has impacted my life every step of the wa
         + Other ideas?
         + Common thread?
         
+
 ## What is politics?
 
                 + "...the subset of human behavior that involves the use of power" (Clark, Foundations of Comparative Politics)
@@ -161,12 +171,11 @@ Not state as in Texas - state as in government at any level
 
 **The organized, coercive use of phyisical force commonly accepted as legitimate**
 
-Do our findings apply to other behavior (the firm, markets, voluntary organizations, churches)? 
+Do our findings apply to other behavior (the firm, markets, voluntary organizations, churches)?
 
 Can non-state organizations provide examples to understand the state?
 
 What about the interaction between the state and non-state entities?
-
 
 ## What is Comparative Politics?
 
@@ -179,16 +188,17 @@ What about the interaction between the state and non-state entities?
                 + Compare the same state at different times
 
 ![John Stuart Mill](mill.jpg)
-                
+
 ## What is Comparative Politics? Method of Difference and Method of Similarity
 
-**Method of Difference** 
+**Method of Difference**
 
                 + Starts with states that differ in the dependent variable result (the outcome)
                 + They should be as similar in everything else as possible
                 + Find the one other thing that is different
                 + That is the cause
                 
+
 **Method of Similarity**
 
                 + Starts with states with the same dependent variable result (outcome)
@@ -198,6 +208,7 @@ What about the interaction between the state and non-state entities?
                 
                           
                 
+
 ## References
 
 Metro Rail photo - By XxTrillvillexX9 at English Wikipedia - Transferred from en.wikipedia to Commons by Sreejithk2000 using CommonsHelper., CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=18064439
