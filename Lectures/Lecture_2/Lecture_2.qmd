@@ -8,8 +8,10 @@ editor: visual
 
 -   Announcements:
 
+          + Free books in PGH 426
           + Paper topics
           + Pre-class survey: wide range of experience
+          + First week assignments
           + Upcoming assignment: From your discussion post answer, what would be an appropriate scientific question you could ask? 
 
           + Discussion posts and class discussion ground rules
@@ -24,7 +26,7 @@ editor: visual
                   + What is politics?
                   + What is the state?
                   + What is comparative politics?
-                  
+
 ## Quiz 1
 
 **Instructions: If you stay for the entire class, you can change your answers for full credit, but don't erase them! Leave room to change them.**
