@@ -1,0 +1,31 @@
+---
+title: "Lecture 3: What is Science? A Science of Politics?"
+format: revealjs
+editor: visual
+---
+
+## Today
+
+                + Announcements
+                + what is science?
+                + Applying science to human behavior
+                + More on the comparative method
+
+
+
+## What is science?
+
+## Applying science to human behavior
+
+                +
+
+## More on the comparative method
+
+## More on the comparative method: Method of Difference          
+A B C D occur together with w x y z
+B C D occur together with x y z
+——————————————————
+Therefore A is the cause, or the effect, or a part of the cause of w.
+
+
+
