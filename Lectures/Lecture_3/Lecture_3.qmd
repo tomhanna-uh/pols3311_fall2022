@@ -10,8 +10,7 @@ editor: visual
                 + what is science?
                 + Applying science to human behavior
                 + More on the comparative method
-
-
+                + Assignment & Questions
 
 ## What is science?
 
@@ -21,11 +20,41 @@ editor: visual
 
 ## More on the comparative method
 
-## More on the comparative method: Method of Difference          
-A B C D occur together with w x y z
-B C D occur together with x y z
-——————————————————
-Therefore A is the cause, or the effect, or a part of the cause of w.
+## More on the comparative method: Method of Difference
+
+A B C D occur together with w x y z B C D occur together with x y z ------------------------------------------------------ Therefore A is the cause, or the effect, or a part of the cause of w.
+
+## Assignment and questions
+
+**Provide 3 to 4 scientific questions related to your discussion post topic**
+
+        + You are not expected to answer the question
+        + You don't need to provide a lot of background
+        + One clearly worded sentence for each question
+        + You should not need to write more than 4 sentences total to complete this assignment
+        + The sentences should be clearly written, with good grammar and spelling
+        + Copy your discussion post to the the page. You may want to edit it for grammar and spelling. 
+        + There will be further assignments using your discussion post as a basis. If you want to change topics, you may do so now. 
 
 
 
+## Assignment and questions
+**Example: Many discussion posts responded to the repeal of Roe v. Wade**
+
+**Non-scientific questions:**
+**In other wordes, these sorts of questions will get zero credit. Not because they are not worthwhile questions, but because they are not susceptible to scientific resolution.**
+
+        + Did the decision violate rights?
+        + Was this case properly decided legally?
+        + Is there a right to abortion in the Constitution?
+        + When does life begin?
+        + Should Samuel Alito be impeached?
+        + Should Harry Blackmun be canonized?
+
+## Assignment and questions
+
+**Good scientific question:**
+
+Does the gender of litigators (lawyers) affect judicial decisions? 
+
+<iframe src="https://elizabethalane.com/" width="1000" height="400"></iframe>
