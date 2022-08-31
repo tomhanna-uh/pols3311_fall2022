@@ -125,17 +125,7 @@ editor: visual
 + 
 
 
-## Credits
 
-Karl Popper photo - By LSE library - https://www.flickr.com/photos/lselibrary/3833724834/in/set-72157623156680255/, No restrictions, https://commons.wikimedia.org/w/index.php?curid=9694262
-
-gear icon - https://commons.wikimedia.org/wiki/File:GEAR.png
-
-Socrates icon - Sting, CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons
-=======
-## More on the comparative method: Method of Difference
-
-A B C D occur together with w x y z B C D occur together with x y z ------------------------------------------------------ Therefore A is the cause, or the effect, or a part of the cause of w.
 
 ## Assignment and questions
 
@@ -171,7 +161,13 @@ A B C D occur together with w x y z B C D occur together with x y z ------------
 Does the gender of litigators (lawyers) affect judicial decisions? 
 
 <iframe src="https://elizabethalane.com/" width="1000" height="400"></iframe>
-<<<<<<< HEAD:Lectures/Lecture_3/Lecture_3.qmd
 >>>>>>> 84e794092fc01b60535f2e22adda238a29fdf7a2
+
+## Credits
+
+Karl Popper photo - By LSE library - https://www.flickr.com/photos/lselibrary/3833724834/in/set-72157623156680255/, No restrictions, https://commons.wikimedia.org/w/index.php?curid=9694262
+
+gear icon - https://commons.wikimedia.org/wiki/File:GEAR.png
+
+Socrates icon - Sting, CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons
 =======
->>>>>>> 5e13dc494dd9f037bacff127f298ba3e96e06bea:Lectures/Lecture_3/assignment.qmd
