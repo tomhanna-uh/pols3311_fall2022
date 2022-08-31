@@ -6,7 +6,6 @@ editor: visual
 
 ## Today
 
-<<<<<<< HEAD
 + Announcements
                      
                 + Schedule change - paper due dates
@@ -20,36 +19,25 @@ editor: visual
 + More on the comparative method
 
 
-=======
-                + Announcements
-                + what is science?
-                + Applying science to human behavior
-                + More on the comparative method
-                + Assignment & Questions
->>>>>>> 84e794092fc01b60535f2e22adda238a29fdf7a2
-
-## What is science?
+## What is science? 
                 
-                + Based on proof
-                + Scientific Method
-                + Falsifiability
++ Based on proof
++ Scientific Method
++ Falsifiability
                 
                 
 ## What is science? Based on proof
                 
-**Based on proof**
-
 + *Positive* not *normative*
                 
-        + Based on physical proof that can be empirically tested
-        + About explaining the world as it is
-        + Not based on ideas about what "should be"
++ Based on physical proof that can be empirically tested
++ About explaining the world as it is
++ Not based on ideas about what "should be"
                 
 
                 
-## What is science?
+## What is science? Scientific Method
 
-**Scientific Method**
 
 1. Define a *research question*
 2. Make predictions - *hypothesis*
@@ -108,7 +96,7 @@ editor: visual
 
 ## More on the comparative method
 
-<<<<<<< HEAD
+
 **Types of research**
 
 + Experiment
@@ -120,11 +108,9 @@ editor: visual
 
 [More on the four approaches](https://socialsci.libretexts.org/Bookshelves/Political_Science_and_Civics/Book%3A_Introduction_to_Comparative_Government_and_Politics_(Bozonelos_et_al.)/02%3A_How_to_Study_Comparative_Politics-_Using_Comparative_Methods/2.02%3A_Four_Approaches_to_Research)
 
-##Research questions - the first step
-
-+ 
 
 
+## Research Questions: The First Step
 
 
 ## Assignment and questions
@@ -161,7 +147,7 @@ editor: visual
 Does the gender of litigators (lawyers) affect judicial decisions? 
 
 <iframe src="https://elizabethalane.com/" width="1000" height="400"></iframe>
->>>>>>> 84e794092fc01b60535f2e22adda238a29fdf7a2
+
 
 ## Credits
 
