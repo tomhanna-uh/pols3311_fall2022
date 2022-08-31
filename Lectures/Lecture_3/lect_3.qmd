@@ -106,11 +106,9 @@ editor: visual
 
 ## Research Questions: The First Step
 
-**Example: Many discussion posts responded to the repeal of Roe v. Wade**
+**Non-scientific questions:** 
 
-**Non-scientific questions:** **In other wordes, these sorts of questions will get zero credit. Not because they are not worthwhile questions, but because they are not susceptible to scientific resolution.**
-
-        + Did the decision violate rights? (Political Philosophy - POLS 3310, 3349, 4344)
+        + Did the decision repealing Roe v Wade violate rights? (Political Philosophy - POLS 3310, 3349, 4344)
         + Was this case properly decided legally? (Law - POLS 3356,3357)
         + Is there a right to abortion in the Constitution? (Law - POLS 3356,3357)
         + When does life begin? (Philosopy/Theology - PHIL 1301, PHIL3351)
@@ -119,20 +117,34 @@ editor: visual
 
 ## Research Questions: The First Step
 
+**Good scientific questions**
+
+1. About cause and effect
+
+                + "Does X cause Y?" 
+                + "What causes Y?"
+                + NOT "What is the value of Y?" - just measurement
+
+2. Should be measurable
+3. It should be specific at least as to the outcome (Y, dependent variable)
+4. "Why" questions are most interesting: "Why do different countries adopt a different policy with regard to Y?"
+
+
+## Research Questions: The First Step
+
 **Good scientific question:**
 
 Does the gender of litigators (lawyers) affect judicial decisions?
 
-<iframe src="https://elizabethalane.com/" width="1000" height="400">
+<iframe src="https://elizabethalane.com/" width="1000" height="300">
 
 </iframe>
-
-
 
 ## Assignment and questions
 
 **Provide 3 to 4 scientific questions related to your discussion post topic**
 
+        + Non-scientific questions will receive zero credit. This isn't flexible and it isn't a matter of agreement or disagreement. 
         + You are not expected to answer the question
         + You don't need to provide a lot of background
         + One clearly worded sentence for each question
@@ -140,7 +152,6 @@ Does the gender of litigators (lawyers) affect judicial decisions?
         + The sentences should be clearly written, with good grammar and spelling.
         + Copy your discussion post to the the page or write a new short topic post. You may need to edit it for grammar and spelling. 
         + There will be further assignments using your discussion post or your new topic "post" as a basis. If you want to change topics, you may do so now. 
-
 
 ## Credits
 
