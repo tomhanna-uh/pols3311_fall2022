@@ -24,7 +24,7 @@ editor: visual
                   + What is politics?
                   + What is the state?
                   + What is comparative politics?
-                  
+
 ## Quiz 1
 
 **Instructions: If you stay for the entire class, you can change your answers for full credit, but don't erase them! Leave room to change them.**
