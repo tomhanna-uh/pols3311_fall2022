@@ -82,9 +82,7 @@ The sentence for Prisoner B is after the comma.
 
 Prisoner A considers his options for each of Prisoner B's possible options, choosing the best option for each outcome. 
 
-We represent this byunderlining his best outcome for either of Prisoner B's actions. 0 years in column 1 beats 1 year; 2 years in column 2 beats 3 years. 
-
-No matter which action Prisoner B takes, Prisoner A is better off talking. This is called a **dominant strategy**. 
+We represent this byunderlining his best outcome for either of Prisoner B's actions. 0 years in column 1 beats 1 year; 2 years in column 2 beats 3 years. No matter which action Prisoner B takes, Prisoner A is better off talking. This is called a **dominant strategy**. 
 
 
 ## The Prisoner's Dilemma: Finding the Outcome
@@ -96,9 +94,7 @@ No matter which action Prisoner B takes, Prisoner A is better off talking. This 
 | **Prisoner A Talks**  	| 0 years, 3 years      	| 2 years, <u>2 years</u>     	|
 
 
-Meanwhile in Interrogation Room B, Prisoner B considers his choices. Again, we underline his best outcome for either of Prisoner A's actions. 0 years in row 1, beats 1 year; 2 years in row 2 beats 3 years.
-
-No matter what Prisoner A does, Prisoner B is better off by talking. Talking is a **dominant strategy** for Prisoner B as well.
+Meanwhile in Interrogation Room B, Prisoner B considers his choices. Again, we underline his best outcome for either of Prisoner A's actions. 0 years in row 1, beats 1 year; 2 years in row 2 beats 3 years. No matter what Prisoner A does, Prisoner B is better off by talking. Talking is a **dominant strategy** for Prisoner B as well.
 
 
 ## The Prisoner's Dilemma: Finding the Outcome
