@@ -1,0 +1,342 @@
+---
+title: "Lecture_5: Failures of Collective Action"
+format: revealjs
+editor: visual
+---
+
+## Failures of Collective Action
+
+
++ Collective action, or more specifically failure of collective action, is the "core justification for the state" (Ostrom)
++ There are three solutions to collective action problems in collective action theory: Government regulation, private ownership, community self-organizing (norms)
++ The idea here is that the state is necessary in cases where there is a need for collective action but it doesn't occur.
++ This raises questions: Why does collective action fail? Why can't the other solutions serve? Can collective action fail with a state?
+
+## Failures of Collective Action
+
++ We will look at an example of failure of collective action that is commonly used as a model for other failures: The Prisoner's Dilemma
++ We will also look at an example of failure of collective action in a democratic state: Arrow's Impossibility Theorem
++ Think about common threads between the two 
+
+## The Prisoner's Dilemma
+
+Any fan of crime dramas has seen a similar scenario:
+
+The police arrest two suspects in a large jewel theft for a minor crime. They are taken to separate interrogation rooms. Each is presented with the evidence and told that the other is preparing to confess. The police have sufficient evidence to easily convict each of the minor crime with a small sentence, but not enough evidence to convict either for the more serious crime. They offer each a deal:
+
+## The Prisoner's Dilemma: The Deal
+
++ If neither confesses, each will be convicted of the minor crime and get 1 year in prison
++ If both confess, each will get 2 years in prison
++ If one confesses and the other does not, the one who confesses will go free and the other will get 3 years.
+
+
+*We'll assume the police have already recovered the jewels, so there is no other value at issue.*
+
+## The Prisoner's Dilemma: The Dilemma
+
+The partner's are better off if neither confesses, each getting 1 year in prison, a total of 2 years between them. Any other outcome results in more total prison years - 4 if both confess, 3 if only one confesses.
+
+Cooperating with the partner yields the best combined outcome. Defecting can save at most 1 year of prison time, but if the partner also defects results in 2 extra years prison time. 
+
+What's worse (for the prisoners) is that solving the problem shows they will each end up serving two years. 
+
+
+## The Prisoner's Dilemma: Finding the Outcome
+
+The Prisoner's Dilemma is one of the simplest examples of **Game Theory**, which in political science we call **formal modeling**. 
+
++ Oskar Morgenstern, John von Neumann, John Nash early game theorists
++ A solution to a problem like the Prisoner's Dilemma is  called **Nash Equilibrium** (plural equilibria)
++ What is the solution, the equilibrium?
+
+
+
+## The Prisoner's Dilemma: Finding the Outcome
+
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+
+|                       	| **Prisoner B Silent** 	| **Prisoner B Talks** 	|
+|-----------------------	|-----------------------	|----------------------	|
+| **Prisoner A Silent** 	| 1 year, 1 year        	| 3 years, 0 years     	|
+| **Prisoner A Talks**  	| 0 years, 3 years      	| 2 years, 2 years     	|
+
+The sentence for Prisoner A is before the comma.
+
+The sentence for Prisoner B is after the comma. 
+
+
+
+## The Prisoner's Dilemma: Finding the Outcome
+
+
+
+|                       	| **Prisoner B Silent** 	| **Prisoner B Talks** 	|
+|-----------------------	|-----------------------	|----------------------	|
+| **Prisoner A Silent** 	| 1 year, 1 year        	| 3 years, 0 years     	|
+| **Prisoner A Talks**  	| <u>0 years</u>, 3 years      	| <u>2 years</u>, 2 years     	|
+
+Prisoner A considers his options for each of Prisoner B's possible options, choosing the best option for each outcome. 
+
+We represent this byunderlining his best outcome for either of Prisoner B's actions. No matter which action Prisoner B takes, Prisoner A is better off talking. This is called a **dominant strategy**. 
+
+
+## The Prisoner's Dilemma: Finding the Outcome
+
+
+|                       	| **Prisoner B Silent** 	| **Prisoner B Talks** 	|
+|-----------------------	|-----------------------	|----------------------	|
+| **Prisoner A Silent** 	| 1 year, 1 year        	| 3 years, <u>0 years</u>     	|
+| **Prisoner A Talks**  	| 0 years, 3 years      	| 2 years, <u>2 years</u>     	|
+
+
+Meanwhile in Interrogation Room B, Prisoner B considers his choices. Again, we underline his best outcome for either Prisoner B's actions. No matter what Prisoner A does, Prisoner B is better off by talking. Talking is a **dominant strategy** for Prisoner B as well.
+
+
+## The Prisoner's Dilemma: Finding the Outcome
+
+|                       	| **Prisoner B Silent** 	| **Prisoner B Talks** 	|
+|-----------------------	|-----------------------	|----------------------	|
+| **Prisoner A Silent** 	| 1 year, 1 year        	| 3 years, <u>0 years</u>     	|
+| **Prisoner A Talks**  	| <u>0 years</u>, 3 years      	| <u>2 years</u>, <u>2 years</u>     	|
+
+
+Now we combine the two to find the equilibrium, the outcome where each prisoner follows a dominant strategy. 
+Both prisoners talk and both serve two years, even though they could each have saved a year in prison if they could have cooperated and stayed silent. Each is objectively worse off than if they had cooperated by remaining silent rather than defecting, but each will defect.
+
+## The Prisoner's Dilemma: Video resources
+
+[Check out this animation](https://www.youtube.com/watch?v=TJCGTNIwmv8)
+
+
+For a bit more in depth explanation, check out William Spaniel's [Game Theory 101](https://www.youtube.com/watch?v=iZKErrvVMaY&list=PL76B0EB6DDFC42D02)
+
+Dr. Spaniel also offers some Game Theoretic explanations of a topic many of you are interested in: [The Russia Ukraine War](https://www.youtube.com/watch?v=pBwT-5z9R5A)
+
+## The Prisoner's Dilemma: Applications
+
++ [The US Debt deadlock in Congress](https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp)
++ [Nuclear brinksmanship and arms races](https://www.baselpeaceoffice.org/article/nuclear-bombs-cooperative-games-and-prisoners%E2%80%99-dilemma) (security dilemmas)
++ [International environmental agreements](https://www.e-ir.info/2018/06/14/the-prisoners-dilemma-in-environmental-politics-one-model-to-rule-them-all/)
++ [Peace in Afghanistan](https://www.cfr.org/blog/overcoming-prisoners-dilemma-reach-peace-afghanistan)
+
++ and many others
+
+## The Prisoner's Dilemma: Solutions
+
++ Talk
+
+                + A seemingly obvious solution is for the prisoners to somehow communicate their intentions.
+        
+
+## The Prisoner's Dilemma: Solutions
+
++ Talk
+
+                + A seemingly obvious solution is for the prisoners to somehow communicate their intentions.
+                + After all a really basic part of the scenario is keeping the prisoner's separate, unable to communicate.
+                
+## The Prisoner's Dilemma: Solutions
+
++ Talk
+
+                + A seemingly obvious solution is for the prisoners to somehow communicate their intentions.
+                + After all a really basic part of the scenario is keeping the prisoner's separate, unable to communicate.
+                + But does it solve the problem?
+                
+## The Prisoner's Dilemma: Solutions
+
++ Talk
+
+                + A seemingly obvious solution is for the prisoners to somehow communicate their intentions.
+                + After all a really basic part of the scenario is keeping the prisoner's separate, unable to communicate.
+                + But does it solve the problem?
+                
+<style>
+h4{
+  font-size: 36pt;
+}
+h6{
+  font-size: 72pt;
+}</style>
+
+<h6>NO!</h6>
+
+## The Prisoner's Dilemma: Finding the Outcome
+
+All it actually does is create new categories such as: "Prisoner B Promises Not to Talk, But Talks" and "Prisoner B Promises Not to Talk, And Stays Silent" but the values don't change!
+
+
+The promise, with nothing to back it up, has no value - it is **cheap talk**. 
+
+As you can see on the next slide, the values with the promise are exactly the same as the values without the promise.
+
+## The Prisoner's Dilemma: Finding the Outcome
+
+|                       	| **Prisoner B Promises Silent, Stays Silent** 	| **Prisoner B Promises Silent, Talks** 	|
+|-----------------------	|-----------------------	|----------------------	|
+| **Prisoner A Promises Silent, Stays** 	| 1 year, 1 year        	| 3 years, <u>0 years</u>     	|
+| **Prisoner A Promises Silent, Talks**  	| <u>0 years</u>, 3 years      	| <u>2 years</u>, <u>2 years</u>     	|
+
+
+
+
+
+## The Prisoner's Dilemma: Solutions
+
++ Talk 
++ Consequences - Enforcement!
+
+                + If talk is cheap, then consequences and enforcement are key to solving the dilemma.
+                + Consequences can also come from an outside enforrcer: a mob boss, social norms, or the state
+                
+<h4>It is this idea of enforcement that makes collective action the core justification for the coercive physical power of the state</h4>
+
+
+
+
+## The Prisoner's Dilemma: Solutions
+
++ Talk 
++ Consequences - Enforcement!
++ Are there other solutions?
+
+## The Prisoner's Dilemma: Solutions
+
++ Talk 
++ Consequences - Enforcement!
++ Are there other solutions?
+
+                + One solution is a repeated prisoner's dilemma game, a long term alliance. If our criminal pair know they will work together again, the equation changes because the consequences of breaking trust gives their words value.
+                
+                
+## The Prisoner's Dilemma: Solutions
+
++ Talk 
++ Consequences - Enforcement!
++ Are there other solutions?
+
+                + One solution is a repeated prisoner's dilemma game, a long term alliance. If our criminal pair know they will work together again, the equation changes because the consequences of breaking trust gives their words value.
+                + This has relevance for political situations where groups forego their short term interest because they are invested in a long term compromise. This is important for the idea of 
+                
+**self-enforcing institutions**
+
+
+## Collective Action Problems and the State
+
+So does the state solve all collective action problems?
+
+Does democracy solve all collective action problems?
+
+<h6>NO!</h6>
+
+One example, of many, is Arrow's Impossibility Theorem
+
+## Arrow's Impossibility Theorem
+
+When voters have 3 or more options, no ranked voting system can convert the individual preferences of voters in a *rational way* with a *meaningful vote*
+
+## Arrow's Impossibility Theorem
+
+Rationality and meaningful vote are defined by 4 criteria:
+
++ Pareto optimality (R)
++ independence of irrelevant alternatives (R)
++ non-dictatorship (M)
++ unrestricted domain (M)
+
+R - relates to rationality;
+M - relates to meaningfulness of votes
+
+
+## Arrow's Impossibility Theorem
+
+**Pareto optimality** is the condition where one person can not be made better off without making someone else worse off
+
+## Arrow's Impossibility Theorem
+
+**Pareto optimality** example
+
+Two people have 100 apples and 100 bananas.
+
+Person 1 likes apples and dislikes bananas. (The more bananas she has, the unhappier she is.)
+
+Person 2 likes bananas and dislikes apples. (The more apples she has, the unhappier she is.)
+
+Under Pareto optimality, Person 1 will have 100 apples and Person 2 will have 100 bananas.
+
+Changing the distribution lowers both their happiness.
+
+## Arrow's Impossibility Theorem
+
+**Pareto optimality** example 2
+
+Two people have 100 apples and 100 bananas.
+
+Person 1 likes apples and dislikes bananas. (The more bananas she has, the unhappier she is.)
+
+Person 2 likes bananas and apples equally. 
+
+Under Pareto optimality, Person 1 will have 100 apples and Person 2 will have 100 bananas.
+
+Taking one banana from Person 2 in exchange for an apple will not affect Person 2, but will make Person 1 worse off.
+
+
+## Arrow's Impossibility Theorem
+
+**independence of irrelevant alternatives** means that a voter will not change their vote preference from A to B because C joins the mix. If they prefer A to B, they will still prefer A to B even if there are other options.
+
+## Arrow's Impossibility Theorem
+
+**independence of irrelevant alternatives** 
+
+Example: 
+
+Bob prefers apples to oranges.
+Bob is offered a radish.
+Regardless of how Bob feels about radishes, his preference for apples over oranges doesn't change.
+
+## Arrow's Impossibility Theorem
+
+**non-dictatorship** means that there is no one individual whose preference always wins. 
+
+## Arrow's Impossibility Theorem
+
+**Unrestricted domain** means that all preferences of all voters are considered. 
+
+
+## Arrow's Impossibility Theorem
+
+Put differently, no rank order voting system satisfies these requirements:
+
++ If all voters prefer apples to oranges, the group should prefer apples to oranges
++ If every voters preference between apples and organges is unchanged, the group preference should remain unchanged even if the preference between radishes and apples or radishes and oranges changes.
++ There is no dictator.
+
+## Arrow's Impossibility Theorem: Solutions
+
++ Accept a dictator
++ Accept less than Pareto optimal solution
++ Accept a voting system that is less than perfect
+
+Other than emergency situations, we tend to reject the first option.
+
+When might we accept one of the others even if it's against out short term interest?
+
+## Arrow's Impossibility Theorem: Solutions
+
+When might we accept one of the others even if it's against out short term interest?
+
+Answer: when the long run - the repeated game - makes it in our interest.
+
+This brings us back to compromises that create **self-enforcing institutions**.
+
+As we discuss Democracy, we'll see that it requires self-enforcing institutions to avoid breaking down into violence. 
+
+## Democracy as self-enforcing institution
+
+Democracy itself is perhaps the ultimate self-enforcing institution, where we accept legal limits not because of a grand social contract or threat of punishment but because we gain more from the system overall than we lose in any one encounter with the system. 
