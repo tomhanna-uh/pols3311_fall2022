@@ -338,7 +338,7 @@ Put differently, no rank order voting system satisfies these requirements:
 
 Other than emergency situations, we tend to reject the first option.
 
-When might we accept one of the others even if it's against out short term interest?
+When might we accept one of the others even if it's against our short term interest?
 
 ## Arrow's Impossibility Theorem: Solutions
 
