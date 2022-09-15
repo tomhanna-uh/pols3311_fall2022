@@ -106,7 +106,18 @@ Meanwhile in Interrogation Room B, Prisoner B considers his choices. Again, we u
 
 
 Now we combine the two to find the equilibrium, the outcome where each prisoner follows a dominant strategy. 
-Both prisoners talk and both serve two years, even though they could each have saved a year in prison if they could have cooperated and stayed silent. Each is objectively worse off than if they had cooperated by remaining silent rather than defecting, but each will defect.
+## The Prisoner's Dilemma: Finding the Outcome
+
+|                       	| **Prisoner B Silent** 	| **Prisoner B Talks** 	|
+|-----------------------	|-----------------------	|----------------------	|
+| **Prisoner A Silent** 	| 1 year, 1 year        	| 3 years, <u>0 years</u>     	|
+| **Prisoner A Talks**  	| <u>0 years</u>, 3 years      	| <u>2 years</u>, <u>2 years</u>     	|
+
+
++Both prisoners talk and serve two years.
++ They could each have saved a year in prison if they had cooperated and stayed silent. 
++ Each is objectively worse off than if they had cooperated by remaining silent rather than defecting
++ Despite this each will defect (talk).
 
 ## The Prisoner's Dilemma: Video resources
 
