@@ -116,7 +116,7 @@ Now we combine the two to find the equilibrium, the outcome where each prisoner 
 | **Prisoner A Talks**  	| <u>0 years</u>, 3 years      	| <u>2 years</u>, <u>2 years</u>     	|
 
 
-+Both prisoners talk and serve two years.
++ Both prisoners talk and serve two years.
 + They could each have saved a year in prison if they had cooperated and stayed silent. 
 + Each is objectively worse off than if they had cooperated by remaining silent rather than defecting
 + Despite this each will defect (talk).
