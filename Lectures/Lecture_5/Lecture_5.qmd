@@ -105,7 +105,9 @@ Meanwhile in Interrogation Room B, Prisoner B considers his choices. Again, we u
 | **Prisoner A Talks**  	| <u>0 years</u>, 3 years      	| <u>2 years</u>, <u>2 years</u>     	|
 
 
-Now we combine the two to find the equilibrium, the outcome where each prisoner follows a dominant strategy. 
+Now we combine the two to find the equilibrium, the outcome where each prisoner follows a dominant strategy.
+
+
 ## The Prisoner's Dilemma: Finding the Outcome
 
 |                       	| **Prisoner B Silent** 	| **Prisoner B Talks** 	|
