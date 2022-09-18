@@ -1,0 +1,184 @@
+---
+title: "Lecture 6"
+format: revealjs
+editor: visual
+---
+
+## Democracy and Dictatorship
+
+-   Definition and key features of democracy
+-   Definition of Dictatorship
+-   Types of democracy and dictatorship
+-   Data driven definitions
+
+## What is democracy?
+
+-   More than a "list of good things"
+
+                  + According to Przeworski et al, looking at various definitions of democracy you easily end up with a long list of "normatively desirable aspects of political life." This maximal definition is so extensive that no democracies fill all the requirements.
+
+-   More than elections
+
+                  + On the other extreme a true minimalist definition would define democracy as any system in which elections are decided by majorities, with no other considerations.
+
+-   Minority rights
+
+                  + Even the "minimalist" definition outlined by Przeworski et al requires a degree of protection for the rights of political minorities because, without protection following an election loss the minority loses the ability to meaningfully contest future elections. 
+
+## Minority rights and election outcomes
+
+-   Without meaningful organized opposition, elections are meaningless
+-   Without protection for minority rights that allow political organization, the minority can not have confidence in future elections and has reason to reject election outcomes
+-   Without protection for minority rights between elections, the stakes are too high and a minority has reason to reject election outcomes in favor of violent resistance
+
+## Key features of Democracy
+
+-   Contestation
+
+                  + Contestation requires a meaningful election with a nonzero (or nontrivial) probability that the governing party will lose. 
+                  + This requires a legal, organized political opposition. In other words, protection of rights of political minorities.
+                  + This is "ex ante" or before the election
+
+-   Irreversability
+
+                  + The governing party must accept the results even if the result is a loss. They can not overturn the results of an election. 
+                  + This is "ex post" or after the election
+
+-   Repeatability
+
+                  + There must be a possibility of future contestable elections no matter who wins. 
+                  + The winning party can not use the power of office to eliminate opposition.
+                  + Rights of political minorities have to be protected for repeatability.
+                  
+## Key features of Democracy: Rules
+
+- The chief executive must be elected
+
+                +The election can be direct or indirect. They may be elected by an elected legislature or by some other body elected by the people.
+                
+- The legislature must be elected.
+
+                + This has to be a meaningful legislature with power to pass laws. 
+                + There can be an un-elected upper house/chamber, but there has to be an elected chamber. 
+
+- There must be more than one party.
+
+                + There must be an organized opposition that competes in elections.
+                + The opposition can not be eliminated after the election. It must continue for future elections.
+                
+-  There must have been an alternation in power.
+                
+                + After the founding of the regime, there has to have been an election where power transferred peacefully from one party to another. 
+
+
+
+## Definition of dictatorship: Historical
+
+-   Roman dictators
+
+                  + The term dictator comes from Latin.
+                  + I the Roman Republic during times of crisis a dictator was appointed by the two ruling consuls for a limited term to serve a specific purpose. 
+                  + A consul could not appoint himself.
+                  + The term of office, was six months or until the crisis ended, whichever came first. 
+                  + Cincinnatus resigned his dictatorship after 15 days.
+                  + After the term of office, the dictator could expect to retire honorably to normal life. 
+                  + The dictator had absolute power in one area, usually winning a war.
+                  + The dictator had no power outside that one area. 
+                  + Before Sulla (138-78 BC) and Caesar (100-44 BC), dictators were not tyrants
+
+## Definition of dictatorship: Historical
+
+-   Roman dictators
+
+                  + Sulla defeated the ruling consuls in a civil war and threatened the Senate 
+                  + He had himself appointed, dictator "for reforming the constitution of the Republic" with no limit to his term (81 BC)
+                  + He ruled as a tyrant, killing thousands and seizing property.
+                  + Even Sulla resigned (80 BC) and retired to his country estates
+                  + Julius Caesar entered Rome at the head of his legions in 49 BC during a civil war
+                  + Caesar had himself repeatedly appointed dictator or elected consul from 49 to 44 BC
+                  + In 46 BC, he was appointed dictator for 10 years
+                  + In February, 44 BC Caesar was appointed dictator in perpetuity
+                  + On March 15, 44 BC Julius Caesar was assassinated on the floor of the Senate
+                  +  sic semper tyrannis - thus always to tyrants
+
+## Definition of dictatorship: Historical
+
+-   Roman dictators
+
+                  + Today our thinking about dictators is related more to the last two examples, Sulla and Caesar, than to the earlier examples like Cincinnatus
+                  + The power of Roman dictators traditionally was severely limited in duration and in scope
+                  + The power of Sulla was unlimited in scope
+                  + The power of Caesar before his assassination was unlimited in duration and scope
+                  + We typically think of a dictator as a Caesar - ruling with absolute authority until he is forcibly removed
+                  + Our meaning is closer to the Greek term tyrant than the Roman office of dictator
+
+## Definition of dictatorship: Semantic
+
+Dictatorship: "form of government in which one person or a small group possesses absolute power without effective constitutional limitations."
+
+Autocracy: "a form of government in which a country is ruled by a person or group with total power"
+
+Tyranny: "a government in which absolute power is vested in a single ruler; especially : one characteristic of an ancient Greek city-state. Oppressive power; especially : oppressive power exerted by government"
+
+Definitions from Encyclopedia Brittanica
+
+## Definition in practice: Non-democracy
+
+-   Traditionally: Dictatorship and autocracy is "rule by one" or very few and typically "absolute rule"
+
+-   Realistically: "No leader is monolithic...no emperor, no king, no sheikh, no tyrant, no chief executive officer (CEO), no family head, no leader whatsoever can govern alone." (de Mesquita and Smith, The Dictator's Handbook)
+
+                  + In practice, we divide regimes into democracies and non-democracies which we often call dictatorships or autocracies.
+                  + Among non-democracies there are regimes with some democratic characteristics, sometimes called "hybrid regimes" or "anocracies."
+
+## Dictatorship, elections, and institutions
+
+-   We know that elections alone don't define democracies
+-   Dictatorships can and do have elections
+-   Elections in dictatorships are not entirely meaningless, though they are usually less free, fair, and effectively contested than in democracies.
+-   Elections in dictatorships are often reversible.
+-   Dictatorships may have legislatures with real powers
+-   Dictatorships may have independent judiciaries that exercise real power
+
+## Data driven definitions
+
+In research, it is more precise to distinguish regime types on the basis of empirical measurements of specific features of the government - data driven definitions. 
+
+                + This doesn't mean the earlier definitions aren't important. These data driven definitions are ways of objectively measuring the concepts in the definitions previously discussed.
+                + Most data driven definitions distinguish liberal democracy or, "Western style democracy," from systems with elections that include electoral democracies and competitive authoritarian regimes.
+                + This is in the classical sense of the term liberal indicating respect for rule of law, free enterprise, individual rights, property rights, civil liberties, and democracy.
+                + The data sets include varying degrees of measurement of minority political rights and civil liberties
+                + The data sets measure the degree to which elections are "free and fair" or contestable
+                + The data sets measure continuous scales. The precise dividing line between regime types is somewhat arbitrary.
+                
+## Data driven definitions
+
+-   Polity Score from the [Center for Systemic Peace](http://www.systemicpeace.org/)
+
+-   The VDem Indexes from the [Varieties of Democracy Project](https://www.v-dem.net/), broad and specific
+- VDem has more specific distinctions between types of democracy
+- Polity has more focus on aggregating measures to show level of democracy and dictatorship
+- Both include all nations for the time period covered including non-democracies
+
+
+
+## Polity Score
+
+                + "The Polity conceptual scheme is unique in that it examines concomitant qualities of democratic and autocratic authority in governing institutions, rather than discreet and mutually exclusive forms of governance. This perspective envisions a spectrum of governing authority that spans from fully institutionalized autocracies through mixed, or incoherent, authority regimes (termed "anocracies") to fully institutionalized democracies."
+                + "The "Polity Score" captures this regime authority spectrum on a 21-pont scale ranging from -10 (hereditary monarchy) to +10 (consolidated democracy). The Polity scores can also be converted into regime categories in a suggested three part categorization of "autocracies" (-10 to -6), "anocracies" (-5 to +5 and three special values: -66, -77 and -88), and "democracies" (+6 to +10)."
+                + "The Polity scheme consists of six component measures that record key qualities of of executive recruitment, constraints on executive authority and political competition. It also records changes in the institutionalized qualities of governing authority."
+                
+
+## Varieties of Democracy (VDem)
+
++ The broadest measure
+
++ 483 V-Dem indicators and indices
+
++   "a multidimensional and disaggregated dataset that reflects the complexity of the concept of democracy as a system of rule that goes beyond the simple presence of elections."
+
++   "measures five aspects of democracy: electoral, liberal, participatory, deliberative, and egalitarian."
+
+## Freedom House Index
+
+-   The [Freedom House Index](https://freedomhouse.org/report/freedom-world), a broader index of political rights and civil liberties, is worth mentioning. It does not measure democracy specifically, but its measurement of minority rights is useful. 
