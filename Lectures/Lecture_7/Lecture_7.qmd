@@ -6,6 +6,7 @@ editor: visual
 
 ## Today
 
++ Q&A/examples for Collective Action
 + Reading academic articles (even when the methods are beyond your current level)
 + Writing a short, thesis driven paper
 + Democracy as protector of rights
