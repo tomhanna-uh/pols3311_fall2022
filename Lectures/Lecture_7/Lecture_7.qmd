@@ -4,12 +4,98 @@ format: revealjs
 editor: visual
 ---
 
+## Today
+
++ Reading academic articles (even when the methods are beyond your current level)
++ Writing a short, thesis driven paper
++ Democracy as protector of rights
+
+
+
+## Democracy as Protector of Rights
+
++ James Madison's Democracy and Republic versus today's liberal democracy
++ Democracy as protector of rights
++ Democracy as protector of property rights
+
+
 ## James Madison on Democracy
 
-“The essence of Government is power; and power, lodged as it must in human hands, will ever be liable to abuse.” – 1787
++ Common thread today is "The United States is a Republic not a Democracy." 
 
-“Place three individuals in a situation wherein the interest of each depends on the voice of the others, and give to two of them an interest opposed to the rights of the third. Will the latter be secure? The prudence of every man would shun the danger. The rules & forms of justice suppose & guard against it. Will two thousand in a like situation be less likely to encroach on the rights of one thousand?” – 1821
+                + This is mostly a result of 18th century (1780s) terminology
+                + It's also a result of people taking seriously the (important) writings of one person - James Madison who was concerned with preventing mob rule
+                + Accurate scientific understanding requires definition
+                + Even accurate philosophical consideration of the topic requires accurate definition
+                
+Is modern democracy Madison's mob rule or Madison's Republic?
+
+Is modern democracy a good protector of rights?
+
+## James Madison on Democracy
+
+"The essence of Government is power; and power, lodged as it must in human hands, will ever be liable to abuse." -- 1787
+
+"Place three individuals in a situation wherein the interest of each depends on the voice of the others, and give to two of them an interest opposed to the rights of the third. Will the latter be secure? The prudence of every man would shun the danger. The rules & forms of justice suppose & guard against it. Will two thousand in a like situation be less likely to encroach on the rights of one thousand?" -- 1821
+
+## Madison's Republic
+ 
++ Representative government
++ Limited franchise 
++ Protection of political minorities
++ Opposition to one party rule - protection agains party domination
++ Protection of basic civil liberties (Madison - Bill of Rights)
++ Protection of property rights
++ Fragmentation of parties to divide their power
+
+## Modern Western or liberal democracy
+
++ representative democracy
++ Universal franchise (or near)
++ Protection of political minorities
++ Opposition to one party rule - protection against party domination
++ Protection of basic civil liberties
++ Protection of property rights
++ Fragmenation of parties to divide their power
+
+                + US and Westminster systems - no (Duverger's Law) 
+                + Proportional representation systems - yes
+
 
 ## Democracy as protector of rights
 
++ The evolution of democracy from monarchy
+
+                + Establishment of parliaments
+                + Limits on the power of kings
+                + Guarantees of rights for subjects
+                
++ English example:
+
+                + The Witan
+                + Magna Carta
+                + Parliament
+                + The Commonwealth
+                + The return of Monarchy
+                
+
+
+
 ## Democracy as protector of property rights
+
++ Demands almost exclusively involved the king's demands on the property of the subjects
++ Kings were forced to get the consent of subjects to taxation
++ The price of taxation was often representation in a parliament
+
+                + Magna Carta
+                + 1776 - No taxation without representation
+                
+                
+## Is democracy an effective protector of rights?
+
++ Historically, representative government was a protection against abuses by the king
++ Democracy evolved to guarantee the rights of an ever expanding group of people
++ The scientific question: Is democracy an effective protector of rights?
+
+
+
