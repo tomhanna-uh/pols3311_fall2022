@@ -1,0 +1,17 @@
+---
+title: "Lecture 8"
+format: revealjs
+editor: visual
+---
+
+## Democracy
+
+Democracy's defining characteristic is *contestability* which requires certain features of elections and certain protections for political minorities
+
+Wide variety *institutions* - political rules of the game
+
+Distinguish types by institutions: Presidential, parliamentary, and semi-presidential (Today)
+
+Study effects of different institutions (Monday)
+
+
