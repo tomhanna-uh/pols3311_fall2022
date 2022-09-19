@@ -49,28 +49,26 @@ editor: visual
                   + There must be a possibility of future contestable elections no matter who wins. 
                   + The winning party can not use the power of office to eliminate opposition.
                   + Rights of political minorities have to be protected for repeatability.
-                  
+
 ## Key features of Democracy: Rules
 
-- The chief executive must be elected
+-   The chief executive must be elected
 
-                +The election can be direct or indirect. They may be elected by an elected legislature or by some other body elected by the people.
-                
-- The legislature must be elected.
+                  +The election can be direct or indirect. They may be elected by an elected legislature or by some other body elected by the people.
 
-                + This has to be a meaningful legislature with power to pass laws. 
-                + There can be an un-elected upper house/chamber, but there has to be an elected chamber. 
+-   The legislature must be elected.
 
-- There must be more than one party.
+                  + This has to be a meaningful legislature with power to pass laws. 
+                  + There can be an un-elected upper house/chamber, but there has to be an elected chamber. 
 
-                + There must be an organized opposition that competes in elections.
-                + The opposition can not be eliminated after the election. It must continue for future elections.
-                
--  There must have been an alternation in power.
-                
-                + After the founding of the regime, there has to have been an election where power transferred peacefully from one party to another. 
+-   There must be more than one party.
 
+                  + There must be an organized opposition that competes in elections.
+                  + The opposition can not be eliminated after the election. It must continue for future elections.
 
+-   There must have been an alternation in power.
+
+                 + After the founding of the regime, there has to have been an election where power transferred peacefully from one party to another. 
 
 ## Definition of dictatorship: Historical
 
@@ -142,7 +140,7 @@ Definitions from Encyclopedia Brittanica
 
 ## Data driven definitions
 
-In research, it is more precise to distinguish regime types on the basis of empirical measurements of specific features of the government - data driven definitions. 
+In research, it is more precise to distinguish regime types on the basis of empirical measurements of specific features of the government - data driven definitions.
 
                 + This doesn't mean the earlier definitions aren't important. These data driven definitions are ways of objectively measuring the concepts in the definitions previously discussed.
                 + Most data driven definitions distinguish liberal democracy or, "Western style democracy," from systems with elections that include electoral democracies and competitive authoritarian regimes.
@@ -151,16 +149,18 @@ In research, it is more precise to distinguish regime types on the basis of empi
                 + The data sets measure the degree to which elections are "free and fair" or contestable
                 + The data sets measure continuous scales. The precise dividing line between regime types is somewhat arbitrary.
                 
+
 ## Data driven definitions
 
 -   Polity Score from the [Center for Systemic Peace](http://www.systemicpeace.org/)
 
 -   The VDem Indexes from the [Varieties of Democracy Project](https://www.v-dem.net/), broad and specific
-- VDem has more specific distinctions between types of democracy
-- Polity has more focus on aggregating measures to show level of democracy and dictatorship
-- Both include all nations for the time period covered including non-democracies
 
+-   VDem has more specific distinctions between types of democracy
 
+-   Polity has more focus on aggregating measures to show level of democracy and dictatorship
+
+-   Both include all nations for the time period covered including non-democracies
 
 ## Polity Score
 
@@ -171,14 +171,14 @@ In research, it is more precise to distinguish regime types on the basis of empi
 
 ## Varieties of Democracy (VDem)
 
-+ The broadest measure
+-   The broadest measure
 
-+ 483 V-Dem indicators and indices
+-   483 V-Dem indicators and indices
 
-+   "a multidimensional and disaggregated dataset that reflects the complexity of the concept of democracy as a system of rule that goes beyond the simple presence of elections."
+-   "a multidimensional and disaggregated dataset that reflects the complexity of the concept of democracy as a system of rule that goes beyond the simple presence of elections."
 
-+   "measures five aspects of democracy: electoral, liberal, participatory, deliberative, and egalitarian."
+-   "measures five aspects of democracy: electoral, liberal, participatory, deliberative, and egalitarian."
 
 ## Freedom House Index
 
--   The [Freedom House Index](https://freedomhouse.org/report/freedom-world), a broader index of political rights and civil liberties, is worth mentioning. It does not measure democracy specifically, but its measurement of minority rights is useful. 
+-   The [Freedom House Index](https://freedomhouse.org/report/freedom-world), a broader index of political rights and civil liberties, is worth mentioning. It does not measure democracy specifically, but its measurement of minority rights is useful.

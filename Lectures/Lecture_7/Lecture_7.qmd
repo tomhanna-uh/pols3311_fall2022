@@ -6,6 +6,8 @@ editor: visual
 
 ## Today
 
+-   Information on paper assignment in Blackboard
+-   There will be a quiz Wednesday over major points from "lecture" materials posted last week
 -   Q&A/examples/wrap-up for Collective Action
 -   Reading academic articles (even when the methods are beyond your current level)
 -   Writing a short, thesis driven paper
