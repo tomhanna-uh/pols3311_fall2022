@@ -15,30 +15,54 @@ editor: visual
 
 ## Collective Action Major Points
 
-+ Collective action without enforcement suffers from problems (illustrated by prisoner's dilemma)
-+ Enforcement of collective action is core justification for the state
-+ Existence of a state doesn't solve all collective action problems
-+ Democracy suffers collective action problems (such as Arrow's Impossibility)
+-   Collective action without enforcement suffers from problems (illustrated by prisoner's dilemma)
+-   Enforcement of collective action is core justification for the state
+-   Existence of a state doesn't solve all collective action problems
+-   Democracy suffers collective action problems (such as Arrow's Impossibility)
 
 ## Collective Action Major Points
 
-+ Issues with collective goods have three proposed solutions:
+-   Issues with collective goods have three proposed solutions:
 
-                + Government regulation
-                + Private ownership
-                + Community organization
+                  + Government regulation
+                  + Private ownership
+                  + Community organization
+                  
+## Reading academic articles
 
-## Democracy 
+- Go in with questions you want to answer. When they are answered, put it away.
+- Start with the abstract
+- Read the conclusion 
+- Read the introduction
+- The literature review is good for background
+- Read the other sections to clarify points you don't understand : theory, methods/results, research design
 
-+ Major characteristic is contestation
+## Writing a thesis driven paper
 
-                + ex ante - chance governing party will lose
-                + ex post - irreversability
-                + Repeatability
+A thesis is an argument! 
 
-+ This requires protection for political minorities during and between elections
-+ So democracy as we define it is not unlimited majoritarianism, it includes limits on government power
+"This paper is about" is **NOT** a thesis
 
+- Have a thesis - make a scientific argument or case
+- The introduction should mirror the organization of the paper
+- Intro - short version of argument
+- Paragraphs - step by step long version of argument with evidence
+- Conclusion - recap. Restate thesis with summary of evidence.
+
+
+                  
+
+## Democracy
+
+-   Major characteristic is contestation
+
+                  + ex ante - chance governing party will lose
+                  + ex post - irreversability
+                  + Repeatability
+
+-   This requires protection for political minorities during and between elections
+
+-   So democracy as we define it is not unlimited majoritarianism, it includes limits on government power
 
 ## Democracy as Protector of Rights
 
