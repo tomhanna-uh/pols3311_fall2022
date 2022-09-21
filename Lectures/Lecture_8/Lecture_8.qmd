@@ -37,19 +37,19 @@ Scientific questions:
 
 ## Presidentialism and Parliamentarism
 
-+ Not defined by:
+-   Not defined by:
 
-                + Presence of a parliament - Presidential systems have legislatures and some are called parliaments
-                + Presence of a President - Parliamentary systems may have a head of state called a President
-                
-+ Defined by the source and accountability of executive power
+                  + Presence of a parliament - Presidential systems have legislatures and some are called parliaments
+                  + Presence of a President - Parliamentary systems may have a head of state called a President
 
-                + In a parliamentary system, executive power is a parliamentary power
-                + Parliamentary systems are characterized by a lack of separation of powers
-                + In a presidential system, executive power rests in an executive (a President) elected by the people
-                + Presidential systems are characterized by a separation of powers with a strong, independent executive
-                
-## Presidentialism and Parliamentarism: Examples    
+-   Defined by the source and accountability of executive power
+
+                  + In a parliamentary system, executive power is a parliamentary power
+                  + Parliamentary systems are characterized by a lack of separation of powers
+                  + In a presidential system, executive power rests in an executive (a President) elected by the people
+                  + Presidential systems are characterized by a separation of powers with a strong, independent executive
+
+## Presidentialism and Parliamentarism: Examples
 
 Presidential systems:
 
@@ -57,6 +57,7 @@ Presidential systems:
                 + Mexico
                 + Brazil
                 
+
 Parliamentary systems:
 
                 + The United Kingdom
@@ -64,6 +65,7 @@ Parliamentary systems:
                 + Japan
                 + The Netherlands
                 
+
 Semi-parliamentary/Semi-Presidential systems:
 
                 + Portugal
@@ -71,35 +73,33 @@ Semi-parliamentary/Semi-Presidential systems:
                 + Russia
                 + Taiwan
 
-
 ## Parliamentarism: Definitions & Characteristics
 
-+ Prime minister/premier: head of government
-+ PM and cabinet members of parliament
-+ PM and cabinet hold executive power
-+ PM answerable to parliament (no confidence votes)
-+ President or other head of state is largely ceremonial
-+ President may have duties around calling elections
-+ Characterized by lack of separation of powers
-
+-   Prime minister/premier: head of government
+-   PM and cabinet members of parliament
+-   PM and cabinet hold executive power
+- PM selected parliament - governing party/coalition leader
+-   PM answerable to parliament (no confidence votes)
+-   President or other head of state is largely ceremonial
+-   President may have duties around calling elections
+-   Characterized by lack of separation of powers
 
 ## Presidentialism: Definitions & Characteristics
 
-+ President: directly or indirectly elected by people
-+ President: not subject to parliament [^1]
-+ President holds executive power
-+ Parliament holds legislative power
-+ Characterized by separation of powers
+-   President: directly or indirectly elected by people
+-   President: not subject to parliament [^1]
+-   President holds executive power
+-   Parliament holds legislative power
+-   Characterized by separation of powers
 
-   [^1]: other than exceptional circumstances such as criminal acts. Example: Impeachment for high crimes and misdemeanors in US system.
+[^1]: other than exceptional circumstances such as criminal acts. Example: Impeachment for high crimes and misdemeanors in US system.
 
 ## Semi-presidentialism
 
-+ Head of state: elected
-+ Head of state: more than ceremonial power
-+ Prime minister: answers to parliament
-+ Prime minister: has executive power 
-+ Split executive power
+-   Head of state: elected
+-   Head of state: more than ceremonial power
+-   Prime minister: answers to parliament
+-   Prime minister: has executive power
+-   Characterized by: split executive power, incomplete separation of powers
 
 
-## 
