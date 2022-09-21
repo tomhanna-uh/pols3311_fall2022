@@ -4,6 +4,13 @@ format: revealjs
 editor: visual
 ---
 
+## Announcements
+
++ No office hours from 4 to 4:30 today
++ I will be a little slower to answer emails the next several days
++ Quiz over last week's material will be in Blackboard, will be posted this weekend, will be due next week and is open note. There will be no further announcement - just look for it no later than Sunday.
+
+
 ## Democracy
 
 Democracy's defining characteristic is *contestability* which requires certain features of elections and certain protections for political minorities
