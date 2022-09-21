@@ -8,10 +8,68 @@ editor: visual
 
 Democracy's defining characteristic is *contestability* which requires certain features of elections and certain protections for political minorities
 
-Wide variety *institutions* - political rules of the game
+Wide variety *institutions* - political rules of the game - provide contestability
 
-Distinguish types by institutions: Presidential, parliamentary, and semi-presidential (Today)
+Distinguish types by the location of executive power: Presidential, parliamentary, and semi-presidential - description and definition (Today)
 
-Study effects of different institutions (Monday)
+Study effects of different types (Wednesday)
+
+## Questions about Presidential, Parliamentary and Semi-parliamentary labels
+
+Descriptive questions (definition):
+
+                + What do the distinctions capture?
+
+                +What do they miss?
+
+Scientific questions:
+
+                + What differences can we observe in choice of system?
+                
+                + What differences can we observe in results of the systems?
+
+                + What type produces the most stable democracy?
+
+                + What type is most responsive to popular sentiment?
+
+                + What type best protects minority rights?
+                
+
+## Presidentialism and Parliamentarism
+
++ Not defined by:
+
+                + Presence of a parliament - Presidential systems have legislatures and some are called parliaments
+                + Presence of a President - Parliamentary systems may have a head of state called a President
+                
++ Defined by the source and accountability of executive power
+
+                + In a parliamentary system, executive power is a parliamentary power
+                + Parliamentary systems are characterized by a lack of separation of powers
+                + In a presidential system, executive power rests in an executive (a President) elected by the people
+                + Presidential systems are characterized by a separation of powers with a strong, independent executive
+                
+## Presidentialism and Parliamentarism: Examples    
+
+Presidential systems:
+
+                + The United States
+                
+Parliamentary systems:
+
+                + The United Kingdom
+                
+Semi-parliamentary systems:
+
+                + 
+
+
+## Parliamentarism: Definitions
+
+
+## Presidentialism: Definitions
+
+
+## Semi-presidentialism
 
 
