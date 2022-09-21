@@ -54,22 +54,52 @@ Scientific questions:
 Presidential systems:
 
                 + The United States
+                + Mexico
+                + Brazil
                 
 Parliamentary systems:
 
                 + The United Kingdom
+                + Italy
+                + Japan
+                + The Netherlands
                 
-Semi-parliamentary systems:
+Semi-parliamentary/Semi-Presidential systems:
 
-                + 
+                + Portugal
+                + France
+                + Russia
+                + Taiwan
 
 
-## Parliamentarism: Definitions
+## Parliamentarism: Definitions & Characteristics
+
++ Prime minister/premier: head of government
++ PM and cabinet members of parliament
++ PM and cabinet hold executive power
++ PM answerable to parliament (no confidence votes)
++ President or other head of state is largely ceremonial
++ President may have duties around calling elections
++ Characterized by lack of separation of powers
 
 
-## Presidentialism: Definitions
+## Presidentialism: Definitions & Characteristics
 
++ President: directly or indirectly elected by people
++ President: not subject to parliament [^1]
++ President holds executive power
++ Parliament holds legislative power
++ Characterized by separation of powers
+
+   [^1]: other than exceptional circumstances such as criminal acts. Example: Impeachment for high crimes and misdemeanors in US system.
 
 ## Semi-presidentialism
 
++ Head of state: elected
++ Head of state: more than ceremonial power
++ Prime minister: answers to parliament
++ Prime minister: has executive power 
++ Split executive power
 
+
+## 
