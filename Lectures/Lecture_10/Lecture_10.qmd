@@ -42,9 +42,13 @@ editor: visual
 + What causes countries to adopt presidential or parliamentary systems?
 + What effects do presidential and parliamentary systems have?
 
+## Pres v Parl: What do the distinctions miss?
 
+"As Linz acknowledges, the simple dichotomy, presidentialism versus parliamentarism, while useful as a starting point, is not sufficient to assess the relative merits of different constitutional designs." [^2]
 
-## What do the distinctions miss?
+[^2]: Shugart and Mainwaring. Presidentialism, Parliamentarism, and Democracy: A Critical Appraisal.
+
+## Pres v Parl: What do the distinctions miss?
 
 The broad middle:
 
@@ -106,10 +110,4 @@ Science can't answer this.
 + 2-3 country comparisons
 + Multi-country comparisons
 + Large-n (statistical) studies
-
-## Pres v Parl
-
-"As Linz acknowledges, the simple dichotomy, presidentialism versus parliamentarism, while useful as a starting point, is not sufficient to assess the relative merits of different constitutional designs." [^2]
-
-[^2]: Shugart and Mainwaring. Presidentialism, Parliamentarism, and Democracy: A Critical Appraisal.
 
