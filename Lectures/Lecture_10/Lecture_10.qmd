@@ -1,0 +1,114 @@
+---
+title: "Lecture 10"
+format: revealjs
+editor: visual
+---
+
+## Intro
+
++ Questions and comments from Monday (Rasha Khayat lecture)
++ Blackboard
+
+## Discussion basics
+
++ Evidence based - "bad" requires definition
++ Be specific - in definitions and evidence
++ Names
+
+## Recap of last Wednesday
+
++ Presidential and Parliamentary systems are defined by?
+
++ Presidential system 
+
+            + Executive elected by people
+            + Parliament passes laws
+            + Parliamentary power over executive very limited
+            + Seperation of powers
+        
++ Parliamentary system
+        
+                + Prime minister and cabinet come from parliament
+                + PM subject to parliament (vote of no confidence)
+                + Parliament holds executive and legislative power
+                + lack of separation of powers (judicial may be independent)
+
+
+## Questions: General
+
++ What do the distinctions between parliamentary and presidential systems miss?
++ What about? - Is a presidential system "good" or "bad"?
++ What causes countries to adopt presidential or parliamentary systems?
++ What effects do presidential and parliamentary systems have?
+
+
+
+## What do the distinctions miss?
+
+The broad middle:
+
+"The concept of ‘semi-presidentialism’ is rejected in
+favour of more meaningful labels: presidential systems, parliamentary systems with presi-
+dential dominance, parliamentary systems with a presidential corrective and parliamentary
+systems with figurehead presidents."[^1]
+
+[^1]: Siaroff, Alan. Comparative presidencies: The inadequacy of the presidential,
+semi-presidential and parliamentary distinction.
+
+## What about "good" and "bad"?
+
+How can we answer "which system is better?"
+
+## What about "good" and "bad"?
+
+How can we answer "which system is better?"
+
+Science can't answer this.
+
+        + We have to define good and bad
+        + If we know what is "bad," science can tell us what might make that more likely
+        + There are likely to be trade-offs - science can help identify them
+
+
+## Questions: Effects
+
++ What type of system produces the most stable democracy?
+
+                + Least unexpected turnover of democratic governments
+                + Least deterioration of democracy
+                
+## Questions: Effects
+
++ Is stability a direct or indirect effect?
++ What other non-political factors may be involved? 
+
+        + X = system type (pres or parl)
+        + Y = stability 
+        + X -> Y
+        + X -> something else -> Y
+        + X + something else -> Y
+
+## Questions: Other institutional factors
+
++ Independence of judiciary
++ Independence of military
++ Countermajoritarian institutions (contestation protection)
++ Electoral system 
+        
+        + (Shugart - fixed terms) 
+        + (Linz - winner take all vs coalition building)
++ Party system
++ Civil Society
+        
+## How do we answer these questions?
+        
++ 2-3 country comparisons
++ Multi-country comparisons
++ Large-n (statistical) studies
+
+## Pres v Parl
+
+"As Linz acknowledges, the simple dichotomy, presidentialism versus parliamentarism, while useful as a starting point, is not sufficient to assess the relative merits of different constitutional designs." [^2]
+
+[^2]: Shugart and Mainwaring. Presidentialism, Parliamentarism, and Democracy: A Critical Appraisal.
+
