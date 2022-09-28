@@ -13,6 +13,7 @@ editor: visual
 
 + Evidence based - "bad" requires definition
 + Be specific - in definitions and evidence
++ Respectful
 + Names
 
 ## Recap of last Wednesday
