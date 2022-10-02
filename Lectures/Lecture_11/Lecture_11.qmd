@@ -4,21 +4,212 @@ format: revealjs
 editor: visual
 ---
 
-## Overview
+## Recap and comments
+
++ More informatino on Academic Help
+
+                + [Student Help for Blackboard](https://uh.edu/blackboard/help/)
+                + [Computer labs](https://libraries.uh.edu/spaces-tech/computer-labs/) (BlackBoard doesn't play well with phones!)
+                + [Laptop Checkout - 2 hours in library](https://libraries.uh.edu/spaces-tech/equipment/)
+                + [Undergradate Student Success Center](https://ussc.uh.edu/lss/tutoring.aspx) - tutoring
+                + [UH Writing Center](http://writingcenter.uh.edu/)
+                
+## Recap and comments
+
++ *Democracy* - *contestability*, *dictatorship* - no contestability
+                
+                + Contestable elections have MULTIPLE PARTIES
+                + Governing party has significant CHANCE TO LOSE
+                + Contestable elections are IRREVERSIBLE
+                + Political MINORITY RIGHTS are central because
+                + Contestable elections are REPEATABLE
+                
+
++ Democracy categories (1) *Presidential* or *Parliamentary*
+
+                + This is a starting point
+                + There is a broad middle that doesn't fit either perfectly
+                + Presidential systems do have parliaments; parliamentary systems often have Presidents
+                + Defined by: LOCATION OF EXECUTIvE POWER
+
++ Democracy categories (2 - today) *Electoral Systems* - *Majoritarian* versus *Proportional Representation* 
+                
+
+## Overview: Types of electoral and party systems
+
++ Why measure it? What might we be measuring?
++ Simple models of outcomes (Hotelling, Downs, Duverger)
+
+                + What is a model? Why use simple models?
+                
++ Dimensions of electoral systems
+
+                + Majoritarian vs Proportional
+                + Types of Proportional
+                
++ Outcomes of different systems (Wednesday)
 
 
+## Normative concerns
 
-## Normative concerns: Broad representation and avoiding extremism
+**Broad representation and avoiding extremism**
 
 **Powell**: "This work is explicitly driven by a normative concern: the claim of democracies to be governments in which the people participate in policy making." **Broad proportional reprentation of all positions**
 
 **Cox**: "the degree to which they create either centripetal or centrifugal incentives. Centripetal incentives lead political parties (or candidates) to advocate centrist policies; centrifugal incentives, on the other hand, lead to the advocacy of more or less extreme positions." **Extremism versus centrism**
 
+## Major focus
 
-## Code
+**Given the broad normative concerns, the major focus:**
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
++ **is not** about individual parliamentary seats
++ **Is** about electing Head of Government
 
-```{r}
-1 + 1
-```
+                + About President in Presidential systems
+                + About Prime Minister in Parliamentary systems
+                
++ **Is** about total balance of power in parliament in both systems
+
+## What is a model? Why a simple model?
+
++ A model is an abstract way of conceptualizing behavior
++ A model ideally is measurable with real data
++ Simplest possible model - one effect a time
+
+## Hotelling's Main Street Model
+
+                + Model of two businesses used as analogy for two candidates/parties
+                + Important assumption: balanced geographic population distribution = balanced ideological distribution
+                + Important assumption: two businesses = two parties
+                + Important assumption: A single road (Main Street) = a single ideological dimension
+                + Principle of minimum differentiation or "Hotelling's law"
+                
+## Median Voter Theorem - Black 1948/Downs 1957
+
+**Assumptions:**
+
+1 - two candidates
+
+2 - a single dimension of ideology
+
+3 - Majority rule^[Technically the election is required to satisfy the *Condorcet winner criterion*. A simple majority system is one way to do this.]
+
+4 - "single peak" for individual voters ideological preferences
+                
+## Median Voter Theorem - Black 1948/Downs 1957
+
+**Any electoral system which meets the key assumptions will elect the candidate closest to the median voter.**
+
+Assumptions:
+
+1 - two candidates
+
+2 - a single dimension of ideology
+
+3 - majority rule
+
+4 - "single peak" for individual voters ideological preferences
+
+                
+## How do we end up on Main Street?
+
+**How do we end up in an election that is comparable to Hotelling's description of Main Street for businesses?**
+
+Alternately: How do we end up with two non-trivial parties/candidates to satisfy assumption 1 of Median Voter Theorem?
+
+
+
+## How do we end up on Main Street?
+
+**Duverger's Law**: Single ballot majoritarian systems^[The strongest form of these are First Past the Post systems which require only a plurality] with single member districts tend to produce strong two party systems. 
+
+                + Parties have incentive to concentrate effort
+                + Voters have incentive to vote for a likely winning second choice over a likely losing first choice
+                
+**de jure** - legal limits allowing only two candidates
+                
+## Dimensions of electoral systems: First Past The Post
+
+**First past the post** (FPTP) 
+
++ simplest system
++ voting by candidate, one candidate per district
++ one vote per voter
++ no runoff
++ highest vote getter wins
+
+## Dimensions of electoral systems
+
+1. Number of members in district (District magnitude)
+
+Examples:
+
++ District Magnitude 1 - voters choose a single seat. US House of Representatives, UK House of Commons
++ District magnitude 400 - South Africa. All voters select all 400 members of Parliament
++ District magnitude 150 - Netherlands. All voters select all 150 seats. 
+
+## Dimensions of electoral systems: Magnitude
+
++ US Electoral College - Texas (38 House Members)
++ US Electoral College - Alaska (1 House Member)
++ Northern Irish Assembly - all districts elect 5 members
++ US Senate
+
+
+## Dimensions of electoral systems
+
+1. Number of members in district (District magnitude)
+2. Ballot structure (Cox 1990)
+
+		1. Number of votes per voter
+		2. Partial abstention allowed?
+		3. Cumulative votes (in multiple member districts)
+		
+## Dimensions of electoral systems
+		
+1. Number of members in district (District magnitude)
+2. Ballot structure (Cox 1990)
+
+		1. Number of votes per voter
+		2. Partial abstention allowed?
+		3. Cumulative votes (in multiple member districts)
+		4. Runoff or no runoff, ranked choice
+
+## Dimensions of electoral systems
+
+1. Number of members in district (District magnitude)
+2. Ballot structure (Cox 1990)
+
+                1. Number of votes per voter
+                2. Partial abstention allowed?
+                3. Cumulative votes (in multiple member districts)
+                4. Runoff or no runoff, ranked choice
+                
+3. Number of competitors - *de jure* or *de facto* 
+
+## Major types
+
+Proportional representation
+
+                + Multiple member districts (magnitude 2+)
+                + Seats awarded proportional to vote received by the party
+                + Voters may choose parties (closed list) or may choose parties and candidates (open list)
+
+Majoritarian (Plurality Rule)
+
+                + Single member
+                + Seats awarded by majority rule (of some sort)
+                + May have runoffs, ranked choice, etc. or FPTP
+                + There are typically parties, but voters choose candidates
+                
+
+
+
+
+## Resources
+
+Great first step resource for those writing on the topic:
+
+[The Electoral Knowledge Network](https://aceproject.org/main/english/es/esh.htm) - Section on The Systems and Their Consequences 
+
+[UK voting](https://www.parliament.uk/about/how/elections-and-voting/voting-systems/)
