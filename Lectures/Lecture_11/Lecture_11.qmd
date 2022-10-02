@@ -1,0 +1,24 @@
+---
+title: "Lecture_11"
+format: revealjs
+editor: visual
+---
+
+## Overview
+
+
+
+## Normative concerns: Broad representation and avoiding extremism
+
+**Powell**: "This work is explicitly driven by a normative concern: the claim of democracies to be governments in which the people participate in policy making." **Broad proportional reprentation of all positions**
+
+**Cox**: "the degree to which they create either centripetal or centrifugal incentives. Centripetal incentives lead political parties (or candidates) to advocate centrist policies; centrifugal incentives, on the other hand, lead to the advocacy of more or less extreme positions." **Extremism versus centrism**
+
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
