@@ -16,12 +16,13 @@ editor: visual
                   
 + Midterm 
 
-                + will include material through today (October 5)
-                + Midterm review will be October 10, approximately thirty minutes
-                + I will post some key term definitions before October 10
-                + The Reading List has some notes on the readings that catch some key points
-                + You should look for italicized and bold face points in the lecture materials
-                + Also AT A MINIMUM (C level) understand the "recap" items from each lecture
+                + Midterm October 12
+                + material through today only (October 5)
+                + Midterm review October 10, approximately 30 minutes
+                + Key term definitions will be posted this week
+                + Reading List - has notes on key points
+                + Look for italicized and bold face points in the lecture materials
+                + AT A MINIMUM (C level) understand the "recap" items from each lecture
 
 ## Recap and comments
 
