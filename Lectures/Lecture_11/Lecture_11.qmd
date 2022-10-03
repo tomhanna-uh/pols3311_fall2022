@@ -49,7 +49,7 @@ editor: visual
 
 -   Simple models of outcomes (Hotelling, Downs, Duverger)
 
-                  + What is a model? Why use simple models?
+                  + What is a model? Why use simple models? Simple models in the real world?
 
 -   Dimensions of electoral systems
 
@@ -84,6 +84,7 @@ editor: visual
 -   A model is an abstract way of conceptualizing behavior
 -   A model ideally is measurable with real data
 -   Simplest possible model - one effect a time
+-   How can we test or examine a simple model in the real world?
 
 ## Hotelling's Main Street Model
 
