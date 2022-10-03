@@ -6,7 +6,7 @@ editor: visual
 
 ## Recap and comments
 
--   More informatino on Academic Help
+-   More informatino on Academic Help .
 
                   + [Student Help for Blackboard](https://uh.edu/blackboard/help/)
                   + [Computer labs](https://libraries.uh.edu/spaces-tech/computer-labs/) (BlackBoard doesn't play well with phones!)
