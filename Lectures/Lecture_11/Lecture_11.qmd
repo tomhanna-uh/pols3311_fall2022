@@ -89,9 +89,20 @@ editor: visual
 ## Hotelling's Main Street Model
 
                 + Model of two businesses used as analogy for two candidates/parties
-                + Important assumption: balanced geographic population distribution = balanced ideological distribution
-                + Important assumption: two businesses = two parties
+                + Important assumption: A single road (Main Street) 
+                + Important assumption: two businesses 
+                + Important assumption: balanced geographic population distribution 
+                
+                + Principle of minimum differentiation or "Hotelling's law"
+
+## Hotelling's Main Street Model
+
+                + Model of two businesses used as analogy for two candidates/parties
                 + Important assumption: A single road (Main Street) = a single ideological dimension
+                + Important assumption: two businesses = two parties
+                + Important assumption: balanced geographic population distribution = balanced ideological distribution
+                
+                
                 + Principle of minimum differentiation or "Hotelling's law"
                 
 
