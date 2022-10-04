@@ -1,0 +1,69 @@
+Recap
+
+Democracy - contestation
+
+	At least two parties
+	Contestation is opposing viewpoints each having some chance of winning
+	Clarify extremism viz democracy - extreme views, not resort to non-democratic methods (violence)
+
+Presidential vs Parliamentary
+
+	- Location of Executive Power
+	- existence of someone called a President doesn't matter
+	- the name of the legislature (Parliament, Congress, Diet, Dáil, Senate, Assembly) doesn't matter
+	
+Majoritarian vs Proportional Representation
+
+	- PR changes the operation of Parliamentary systems especially because of the way the head of government is selected!
+
+
+
+
+1. Proportional Representation
+
+	- apportioning seats
+
+2. Party systems
+
+1 - Nonpartisan (often very small countries or for specific offices)
+ 
+2 - One party (non-democratic)
+
+3 - Dominant party system (flawed democracy or non-democracy)
+
+4 - Two party system:
+
+	a. de jure - other parties prohibited (may be flawed democracy)
+	b. de facto - result of Duverger or similar effects (democratic)
+	
+5 - Multi-party system 
+
+
+
+
+
+3. Discussion
+
+	- 	Questions
+
+	- Latin America and Britain articles
+
+	- Primaries
+	
+	Heckelman, "Sequential elections and overlapping terms: voting for US Senate"
+	
+	"Contrary to the original median voter theorem, the main implications of this model are that: (i) convergence on platform positions is not achieved in the general election, and (ii) extremist candidates defeat moderates in the stable long-run equilibrium."
+	
+	-- primary elections produce ideological extremes
+	-- in the case of the US Senate, voters attempt to balance the extremes from one election to the next 
+	-- The result is extremist rather than centrist
+	
+	
+	Katrik and McAfee, "Signaling Character in Electoral Competition" 
+	
+	Voters care about ideology and candidate character. Concerns about character lead to divergence from the median voter theorem. (But remember that median voter theorem was based on one dimension of ideology, with no other consideration. So, this is an expansion or relaxation of the assumptions to include an additional point.)
+	
+	
+	- Electoral College
+	
+	- Gerrymandering

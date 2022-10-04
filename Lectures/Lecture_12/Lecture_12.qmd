@@ -1,0 +1,101 @@
+---
+title: "Lecture 12"
+format: revealjs
+editor: visual
+---
+
+## Quiz
+
+## Recap: Important for today
+
+Democracy - contestation
+
+                - competition
+                - chance of loss
+                - multiple competitors
+
+Another way of thinking about contestation: Differing viewpoints are able to *contest* the election and be represented.
+
+Presidential vs Parliamentary
+
+                + Location of executive power
+                + In parliamentary systm, the legislature chooses the head of government from its own members
+                
+
+
+## Recap
+
+Majoritarian vs Proportional Representation
+
+**Choice of electoral systam influences the selection of head of government in parliamentary system**
+
+Majoritarian 
+
+                + Single member districts
+                + Majority/plurality winner
+                + Voters choose specific candidates
+                + FPTP is a common, simple example
+
+Proportional Representation
+
+                + Multiple member districts (Magnitude 2+)
+                + Seats awarded proportional to party vote
+                + Closed list - vote by party, party chooses specific members
+                + Open lsit - vote by party, voters choose specific members
+                
+## What happens if?
+
+In parliamentary systems, the Parliament chooses a Prime Minister and Cabinet.
+
+What happens in a PR system if no party gets 50% of the seats in Parliament?
+
+## Apportionment of votes
+
++ May be a minimum vote threshhold
++ Different methods benefit different size parties
++ largest remainder method - example, Hare quota method
+
+Exceeding $\frac{total votes}{total seats}$ guarantees a seat
+                
++ Divisor methods - example, d'Hondt method
+                
+$quot = \frac{V}{s + 1}$
+
+V = total votes received by party; s = number of seats party received so far; Largest quotient gets the next seat
+
+
+## Apportionment
+
+Election outcome
+
+Green                           110 votes
+Orange                          221 votes
+Yellow                          73 votes
+Blue                            235 votes               
+Purple                          787 votes
+
+## Party systems
+
++ Nonpartisan (small countries, for specific offices, or nondemocratic)
++ One Party (non-democratic)
++ Dominant Party (flawed democracy or non-democratic)
++ Two Party 
+
+                + de jure (likely flawed democracy or non-democratic)
+                + de facto - Duverger or similar natural outcome (may be democratic)
+
++ Multiple party (may be democratic)
+
+                
+                
+
+
+
+
+
+
+
+
+                
+
+
