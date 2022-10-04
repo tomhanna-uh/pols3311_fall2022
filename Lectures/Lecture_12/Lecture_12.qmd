@@ -4,7 +4,14 @@ format: revealjs
 editor: visual
 ---
 
-## Quiz
+## Quiz (worth 5 points)
+
+                1. What is the main defining characteristic of democracy? (1 word) c_______
+                2. What determines if a country (or other political entity) is a Presidential or Parliamentary system? (best answer is four words)
+                3. First Past the Post is an example of what type of electoral system?
+                4. In what type of proportional representation does the party choose who fills the seats that are won based on their pre-election ranking on a party list?
+                5. In what type of proportional representation are the seats filled based on the voters preferred candidates from the party list?
+                6. What is the minimum number of viable parties required for a country to be considered democratic?
 
 ## Recap: Important for today
 
