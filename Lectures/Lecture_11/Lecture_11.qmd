@@ -13,16 +13,16 @@ editor: visual
                   + [Laptop Checkout - 2 hours in library](https://libraries.uh.edu/spaces-tech/equipment/)
                   + [Undergradate Student Success Center](https://ussc.uh.edu/lss/tutoring.aspx) - tutoring
                   + [UH Writing Center](http://writingcenter.uh.edu/)
-                  
-+ Midterm 
 
-                + Midterm October 12
-                + material through today only (October 5)
-                + Midterm review October 10, approximately 30 minutes
-                + Key term definitions will be posted this week
-                + Reading List - has notes on key points
-                + Look for italicized and bold face points in the lecture materials
-                + AT A MINIMUM (C level) understand the "recap" items from each lecture
+-   Midterm
+
+                  + Midterm October 12
+                  + material through today only (October 5)
+                  + Midterm review October 10, approximately 30 minutes
+                  + Key term definitions will be posted this week
+                  + Reading List - has notes on key points
+                  + Look for italicized and bold face points in the lecture materials
+                  + AT A MINIMUM (C level) understand the "recap" items from each lecture
 
 ## Recap and comments
 
@@ -148,19 +148,24 @@ Alternately: How do we end up with two non-trivial parties/candidates to satisfy
 
                 + Parties have incentive to concentrate effort
                 + Voters have incentive to vote for a likely winning second choice over a likely losing first choice
-                
 
 **de jure** - legal limits allowing only two candidates
 
 ## Dimensions of electoral systems: First Past The Post
 
-**First past the post** (FPTP)
+\*\*First past the post\*\* (FPTP)
 
--   simplest system
--   voting by candidate, one candidate per district
--   one vote per voter
--   no runoff
--   highest vote getter wins
+\- simplest system
+
+\- voting by candidate
+
+\- one seat per district (one winner is seated per district)
+
+\- one vote per voter
+
+\- highest vote getter wins (plurality)
+
+\- no runoff
 
 ## Dimensions of electoral systems
 
