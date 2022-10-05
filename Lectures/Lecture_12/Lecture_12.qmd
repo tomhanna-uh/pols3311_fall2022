@@ -29,14 +29,13 @@ Presidential vs Parliamentary
                 + In parliamentary systm, the legislature chooses the head of government from its own members
                 
 
-
 ## Recap
 
 Majoritarian vs Proportional Representation
 
 **Choice of electoral systam influences the selection of head of government in parliamentary system**
 
-Majoritarian 
+Majoritarian
 
                 + Single member districts
                 + Majority/plurality winner
@@ -48,8 +47,16 @@ Proportional Representation
                 + Multiple member districts (Magnitude 2+)
                 + Seats awarded proportional to party vote
                 + Closed list - vote by party, party chooses specific members
-                + Open lsit - vote by party, voters choose specific members
+                + Open list - vote by party, voters choose specific members
                 
+## Centrist vs Extremist
+
+**In a democratic context** - nondemocratic actions (kidnapping, political prisoners, terrorism, etc.) are not part of the discussion
+ 
+                + "...it should be emphasized that the notions of "center" and "extreme" are defined relative to the particular electorate in question, rather than to any absolute or broader standard. Thus, the extremism of a particular candidate is determined not by describing the content of his ideology (Marxist, liberal, etc.), but rather by describing what percentage of the electorate holds views further to the left (or further to the right). In an electorate in which 50% of the voters are to the left of Marx, and 50% to the right, Marx would be considered centrist." (Cox 1990)
+                + In 1850 in the United States House of Representatives, the Fugitive Slave Act passed by 48-7 with 14 abstentions (10% opposed). Opposing the Fugitive Slave Act in 1850 was relatively extremist.  
+                
+
 ## What happens if?
 
 In parliamentary systems, the Parliament chooses a Prime Minister and Cabinet.
@@ -58,51 +65,75 @@ What happens in a PR system if no party gets 50% of the seats in Parliament?
 
 ## Apportionment of votes
 
-+ May be a minimum vote threshhold
-+ Different methods benefit different size parties
-+ largest remainder method - example, Hare quota method
+-   May be a minimum vote threshhold
+-   Different methods benefit different size parties
+-   largest remainder method - example, Hare quota method
 
 Exceeding $\frac{total votes}{total seats}$ guarantees a seat
-                
-+ Divisor methods - example, d'Hondt method
-                
+
+-   Divisor methods - example, d'Hondt method
+
 $quot = \frac{V}{s + 1}$
 
 V = total votes received by party; s = number of seats party received so far; Largest quotient gets the next seat
-
 
 ## Apportionment
 
 Election outcome
 
-Green                           110 votes
-Orange                          221 votes
-Yellow                          73 votes
-Blue                            235 votes               
-Purple                          787 votes
+Green 110 votes Orange 221 votes Yellow 73 votes Blue 235 votes\
+Purple 787 votes
+
+## Party systems
+Which are democratic? Flawed democracy? Nondemocratic?
+
+-   Nonpartisan - party participation not allowed
+-   One Party - opposition parties banned 
+-   Dominant Party - opposition parties allowed but no prospect of success
+-   Two Party - minor parties have no prospect of succcess
+-   Multiple party - multiple parties allowed with some prospect of success
+
+
 
 ## Party systems
 
-+ Nonpartisan (small countries, for specific offices, or nondemocratic)
-+ One Party (non-democratic)
-+ Dominant Party (flawed democracy or non-democratic)
-+ Two Party 
+-   Nonpartisan (small countries, for specific offices, or nondemocratic)
 
-                + de jure (likely flawed democracy or non-democratic)
-                + de facto - Duverger or similar natural outcome (may be democratic)
+-   One Party (non-democratic)
 
-+ Multiple party (may be democratic)
+-   Dominant Party (flawed democracy or non-democratic)
 
-                
-                
+-   Two Party
+
+                  + de jure (likely flawed democracy or non-democratic)
+                  + de facto - Duverger or similar natural outcome (may be democratic)
+
+-   Multiple party (may be democratic)
+
+## Discussion
+
+1. General questions
+2. Latin America and Britain articles
+3. The US system 
+
+## Discussion - General questions
+
+1. Which system, majoritarian or PR, is most likely to lead to broad consensus building? Which is most likely to lead to stark partisan splits? Why?
+
+2. Which system, majoritarian or PR, is most likely to have broadly accepted legitimacy among the population? 
 
 
 
+## Discussion - Latin America and Britain articles
+
+Questions:
 
 
 
+## Discussion - The US System
 
+3. The US system: Broad representation or centrism? Median voter theorem? 
 
-                
-
-
+        + Primary elections
+        + Electoral college
+        + Gerrymandering
