@@ -12,6 +12,7 @@ editor: visual
                 4. In what type of proportional representation does the party choose who fills the seats that are won based on their pre-election ranking on a party list?
                 5. In what type of proportional representation are the seats filled based on the voters preferred candidates from the party list?
                 6. What is the minimum number of viable parties required for a country to be considered democratic?
+                
 
 ## Recap: Important for today
 
