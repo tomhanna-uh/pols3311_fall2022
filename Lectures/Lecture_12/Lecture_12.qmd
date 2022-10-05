@@ -33,7 +33,7 @@ Presidential vs Parliamentary
 
 Majoritarian vs Proportional Representation
 
-**Choice of electoral systam influences the selection of head of government in parliamentary system**
+**Choice of electoral system influences the selection of head of government in parliamentary system**
 
 Majoritarian
 
@@ -51,7 +51,7 @@ Proportional Representation
                 
 ## Centrist vs Extremist
 
-**In a democratic context** - nondemocratic actions (kidnapping, political prisoners, terrorism, etc.) are not part of the discussion
+**In a democratic context** - nondemocratic actions (kidnapping, political prisoners, terrorism, etc.) are not considered. They make the election flawed in any case.
  
                 + "...it should be emphasized that the notions of "center" and "extreme" are defined relative to the particular electorate in question, rather than to any absolute or broader standard. Thus, the extremism of a particular candidate is determined not by describing the content of his ideology (Marxist, liberal, etc.), but rather by describing what percentage of the electorate holds views further to the left (or further to the right). In an electorate in which 50% of the voters are to the left of Marx, and 50% to the right, Marx would be considered centrist." (Cox 1990)
                 + In 1850 in the United States House of Representatives, the Fugitive Slave Act passed by 48-7 with 14 abstentions (10% opposed). Opposing the Fugitive Slave Act in 1850 was relatively extremist.  
@@ -81,8 +81,14 @@ V = total votes received by party; s = number of seats party received so far; La
 
 Election outcome
 
-Green 110 votes Orange 221 votes Yellow 73 votes Blue 235 votes\
-Purple 787 votes
++ Orange 221 votes 
++ Green  123 votes 
++ Yellow 97 votes 
+
++ Total Votes: 441
+
++ Total seats: 25 
+
 
 ## Party systems
 Which are democratic? Flawed democracy? Nondemocratic?
@@ -126,7 +132,11 @@ Which are democratic? Flawed democracy? Nondemocratic?
 
 ## Discussion - Latin America and Britain articles
 
-Questions:
+Latin America - Presidential system (has to be  majoritarian vote) but with proportional representation in the legislature?
+
+- Linz idea about competing claims to democratic legitimacy vs Bello claims about consensus building?
+
+Britain - First Past the Post System: Advantages and disadvantages?
 
 
 
