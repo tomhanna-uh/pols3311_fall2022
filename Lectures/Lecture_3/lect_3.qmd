@@ -14,7 +14,7 @@ editor: visual
                   + September 26 - Rasha Khayat will teach a topic from her interest/experience
                   + New syllabus with this and TA information
 
-- Followup from Monday
+-   Followup from Monday
 
 -   what is science?
 
@@ -22,16 +22,16 @@ editor: visual
 
 -   More on the comparative method
 
--  Good Scientific questions
+-   Good Scientific questions
 
 ## Followup from Monday
 
-+ Politics main concern isn't the welfare of the people. Why do I emphasize this?
+-   Politics main concern isn't the welfare of the people. Why do I emphasize this?
 
-        + You can't assume the state is representative of all the people or even cares about "the people's interests"
-        + You can't assume the state is benevolent
-+ Scientific questions - will cover today
+          + You can't assume the state is representative of all the people or even cares about "the people's interests"
+          + You can't assume the state is benevolent
 
+-   Scientific questions - will cover today
 
 ## What is science?
 
@@ -119,7 +119,7 @@ editor: visual
 
 ## Research Questions: The First Step
 
-**Non-scientific questions:** 
+**Non-scientific questions:**
 
         + Did the decision repealing Roe v Wade violate rights? (Political Philosophy - POLS 3310, 3349, 4344)
         + Was this case properly decided legally? (Law - POLS 3356,3357)
@@ -132,16 +132,17 @@ editor: visual
 
 **Good scientific questions**
 
-1. About cause and effect
+1.  About cause and effect
 
-                + "Does X cause Y?" 
-                + "What causes Y?"
-                + NOT "What is the value of Y?" - just measurement
+                 + "Does X cause Y?" 
+                 + "What causes Y?"
+                 + NOT "What is the value of Y?" - just measurement
 
-2. Should be measurable
-3. It should be specific at least as to the outcome (Y, dependent variable)
-4. "Why" questions are most interesting: "Why do different countries adopt a different policy with regard to Y?"
+2.  Should be measurable
 
+3.  It should be specific at least as to the outcome (Y, dependent variable)
+
+4.  "Why" questions are most interesting: "Why do different countries adopt a different policy with regard to Y?"
 
 ## Research Questions: The First Step
 

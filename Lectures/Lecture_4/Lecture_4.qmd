@@ -6,90 +6,80 @@ editor: visual
 
 ## Today
 
-+ Announcements
+-   Announcements
 
-                + Paper topic assignemnts posted for those who responded
-                + Paper rubric and instructions posted
+                  + Paper topic assignemnts posted for those who responded
+                  + Paper rubric and instructions posted
 
-+ Collective choice 
+-   Collective choice
 
-                + Overview - why study it?
-                + Why is collective choice a problem?
-                + Types of goods - private and collective
-                + Problems in collective choice
-
-
-
+                  + Overview - why study it?
+                  + Why is collective choice a problem?
+                  + Types of goods - private and collective
+                  + Problems in collective choice
 
 ## Collective choice
 
-+ "core justification for the state" - Ostrom
-+ More *generalizable* than studying the state: includes state alternatives, entitites in failed states, competing states, non-state entities, quasi-state entities
-+ Irrational results of group action
+-   "core justification for the state" - Ostrom
+-   More *generalizable* than studying the state: includes state alternatives, entitites in failed states, competing states, non-state entities, quasi-state entities
+-   Irrational results of group action
 
-## Collective choice: 
+## Collective choice:
 
 ![](ostrom_E.jpg)
 
 **Elinor Ostrom 1933-2012**
 
-+ 2009 Nobel Prize in Economics "for her analysis of economic governance, especially the commons" 
-+ President of the American Political Science Association, 1996-1997
-+ President of the Public Choice Society
-
+-   2009 Nobel Prize in Economics "for her analysis of economic governance, especially the commons"
+-   President of the American Political Science Association, 1996-1997
+-   President of the Public Choice Society
 
 ## Collective choice
 
 ![](ostrom_a.jpg)
 
+**"...the theory of collective action is** \textbf{\textit{the}} central subject of political science."
 
- **"...the theory of collective action is \textbf{\textit{the}} central subject of political science."**
- 
 **"core justification for the state"**
-
 
 ## Why is collective choice a problem?
 
-+ Collective vs private goods
+-   Collective vs private goods
 
-                + Optimal use - externalities in private goods
-                + Efficient use - incentives in collective goods
-                
-+ Rational individual choices don't sum to rational group outcomes for either set of problems for different reasons
-+ Examples in collective goods:
+                  + Optimal use - externalities in private goods
+                  + Efficient use - incentives in collective goods
 
-                + Prisoner's dilemma 
-                + Condorcet Paradox
-                + Arrow's impossibility theorem
-                
-                
+-   Rational individual choices don't sum to rational group outcomes for either set of problems for different reasons
+
+-   Examples in collective goods:
+
+                  + Prisoner's dilemma 
+                  + Condorcet Paradox
+                  + Arrow's impossibility theorem
+
 ## Types of economic goods
 
 ![](types_of_goods.jpg)
 
 ## Types of economic goods
-                
+
 ![](examples.jpg)
 
 ## Types of economic goods: Examples
 
 ![](Goods.jpg)
-         
-         
+
 ## What was the first public good?
 
 ![](question_mark.jpg)
-
 
 ## What was the first public good?
 
 ![](security.jpg)
 
-
 ## Two problems with security: Who pays?
 
 ![Free riders](freeriders.jpg)
-
 
 ## Two problems with security: Who provides?
 

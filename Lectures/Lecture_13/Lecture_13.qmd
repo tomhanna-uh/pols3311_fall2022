@@ -1,0 +1,40 @@
+---
+title: "Lecture 13 - Midterm Review"
+format: revealjs
+editor: visual
+---
+
+## Discussion
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Midterm Review
+
+
+1. Topics
+
+                + What is politics? What is the state? What is comparative politics?
+                + Science - Scientific Method
+                + Comparative Method
+                + Collective Choice
+                + Types of government: Democracy vs Dictatorship
+                + Forms of Democratic Government: Presidential vs Parliamentary Systems
+                + Electoral Systems: Majoritarian vs Proportional Representation (PR)
+                + Party Systems
+                
+2. Review quizzes
+3. Review lecture materials
+
+                + Bold, italic, and capitalized words reflect major concepts 
+                + Repeated items are important
+                + Know the broad categories basic definitions 
+
+4. Know key distinctions - how do they differ?
+
+                + Political Science vs Political Theory (Postive/Empirical versus Normative/Philosophy)
+                + Types of goods - rival vs nonrival, excludable vs non-excludable
+                + Proportional Representation vs Majoritarian
+                + Closed list vs Open list
+                + Democracy vs Non-democracy
+                + Presidential vs Parliamentary
+
