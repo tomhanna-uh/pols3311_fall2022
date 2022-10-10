@@ -162,8 +162,6 @@ editor: visual
 
 <p style="margin-bottom:8cm;"></p>
 
-{{< pagebreak >}}
-
 ## Section 3: Bonus (10 points each)
 
 **Use the back of the page and the attached blank page to do your work. Please make sure your final answer is obvious by underlining, etc.**
@@ -174,7 +172,6 @@ Country A and Country B have a dispute over a resource rich area on their border
 
 <p style="margin-bottom:10cm;"></p>
 
-{{< pagebreak >}}
 
 Bonus 2. Allocation of seats in PR system
 
