@@ -4,37 +4,67 @@ format: revealjs
 editor: visual
 ---
 
-## Discussion
+## Brief recap of Electoral and Party Systems
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+Majoritarian vs Proportional Representation
+
+                + PR has multiple member districts; Majoritarian has single member districts
+                + PR is allocated according to the percent of vote the party receives; in M the winner gets the seat
+                + PR has two major subtypes - open list and closed list
+                + Closed list, the party picks which candidate is seated; open list, the voters choose the party and the candidate.
+                + Do not confuse open list with primaries which are a feature of Majoritarian systems
+                
+
+Electoral systems
+
+                + Range from nonpartisan to multiparty
+                + Minimum of two parties with chance of winning is required for democracy (some exceptions for nonpartisan offices)
+                + Dominant party system has multiple parties but only one has a chance of winning - this is nondemocratic
+                + Two party and multiple party systems may be democratic, but may be flawed democracies or nondemocratic
+
+## Discussion
 
 ## Midterm Review
 
+1.  Questions
 
-1. Topics
+    1.  20 multiple choice. 4 points each
 
-                + What is politics? What is the state? What is comparative politics?
-                + Science - Scientific Method
-                + Comparative Method
-                + Collective Choice
-                + Types of government: Democracy vs Dictatorship
-                + Forms of Democratic Government: Presidential vs Parliamentary Systems
-                + Electoral Systems: Majoritarian vs Proportional Representation (PR)
-                + Party Systems
-                
-2. Review quizzes
-3. Review lecture materials
+    2.  3 short answer questions - you will pick 2 to answer. 10 points each
 
-                + Bold, italic, and capitalized words reflect major concepts 
-                + Repeated items are important
-                + Know the broad categories basic definitions 
+    3.  2 bonus questions - 10 points each
 
-4. Know key distinctions - how do they differ?
+2.  Format
 
-                + Political Science vs Political Theory (Postive/Empirical versus Normative/Philosophy)
-                + Types of goods - rival vs nonrival, excludable vs non-excludable
-                + Proportional Representation vs Majoritarian
-                + Closed list vs Open list
-                + Democracy vs Non-democracy
-                + Presidential vs Parliamentary
+                + Scantron will be provided
+                + You can write short answers and bonus questions on the test paper
+                + You may fill one notecard (provided today) with handwritten notes, front and back
+                + No other notes, books, or electronic devices are allowed to be out during the test
 
+3. Topics
+
+                 + What is politics? What is the state? What is comparative politics?
+                 + Science - Scientific Method
+                 + Comparative Method
+                 + Collective Choice
+                 + Types of government: Democracy vs Dictatorship
+                 + Forms of Democratic Government: Presidential vs Parliamentary Systems
+                 + Electoral Systems: Majoritarian vs Proportional Representation (PR)
+                 + Party Systems
+
+4.  Review quizzes
+
+5.  Review lecture materials
+
+                 + Bold, italic, and capitalized words reflect major concepts 
+                 + Repeated items are important
+                 + Know the broad categories basic definitions 
+
+6.  Know key distinctions - how do they differ?
+
+                 + Political Science vs Political Theory (Postive/Empirical versus Normative/Philosophy)
+                 + Types of goods - rival vs nonrival, excludable vs non-excludable
+                 + Proportional Representation vs Majoritarian
+                 + Closed list vs Open list
+                 + Democracy vs Non-democracy
+                 + Presidential vs Parliamentary

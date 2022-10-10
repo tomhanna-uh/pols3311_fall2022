@@ -50,10 +50,11 @@ Proportional Representation
                 + Closed list - vote by party, party chooses specific members
                 + Open list - vote by party, voters choose specific members
                 
+
 ## Centrist vs Extremist
 
 **In a democratic context** - nondemocratic actions (kidnapping, political prisoners, terrorism, etc.) are not considered. They make the election flawed in any case.
- 
+
                 + "...it should be emphasized that the notions of "center" and "extreme" are defined relative to the particular electorate in question, rather than to any absolute or broader standard. Thus, the extremism of a particular candidate is determined not by describing the content of his ideology (Marxist, liberal, etc.), but rather by describing what percentage of the electorate holds views further to the left (or further to the right). In an electorate in which 50% of the voters are to the left of Marx, and 50% to the right, Marx would be considered centrist." (Cox 1990)
                 + In 1850 in the United States House of Representatives, the Fugitive Slave Act passed by 48-7 with 14 abstentions (10% opposed). Opposing the Fugitive Slave Act in 1850 was relatively extremist.  
                 
@@ -82,25 +83,25 @@ V = total votes received by party; s = number of seats party received so far; La
 
 Election outcome
 
-+ Orange 221 votes 
-+ Green  123 votes 
-+ Yellow 97 votes 
+-   Orange 221 votes
 
-+ Total Votes: 441
+-   Green 123 votes
 
-+ Total seats: 25 
+-   Yellow 97 votes
 
+-   Total Votes: 441
+
+-   Total seats: 25
 
 ## Party systems
+
 Which are democratic? Flawed democracy? Nondemocratic?
 
 -   Nonpartisan - party participation not allowed
--   One Party - opposition parties banned 
+-   One Party - opposition parties banned
 -   Dominant Party - opposition parties allowed but no prospect of success
 -   Two Party - minor parties have no prospect of succcess
 -   Multiple party - multiple parties allowed with some prospect of success
-
-
 
 ## Party systems
 
@@ -119,32 +120,28 @@ Which are democratic? Flawed democracy? Nondemocratic?
 
 ## Discussion
 
-1. General questions
-2. Latin America and Britain articles
-3. The US system 
+1.  General questions
+2.  Latin America and Britain articles
+3.  The US system
 
 ## Discussion - General questions
 
-1. Which system, majoritarian or PR, is most likely to lead to broad consensus building? Which is most likely to lead to stark partisan splits? Why?
+1.  Which system, majoritarian or PR, is most likely to lead to broad consensus building? Which is most likely to lead to stark partisan splits? Why?
 
-2. Which system, majoritarian or PR, is most likely to have broadly accepted legitimacy among the population? 
-
-
+2.  Which system, majoritarian or PR, is most likely to have broadly accepted legitimacy among the population?
 
 ## Discussion - Latin America and Britain articles
 
-Latin America - Presidential system (has to be  majoritarian vote) but with proportional representation in the legislature?
+Latin America - Presidential system (has to be majoritarian vote) but with proportional representation in the legislature?
 
-- Linz idea about competing claims to democratic legitimacy vs Bello claims about consensus building?
+-   Linz idea about competing claims to democratic legitimacy vs Bello claims about consensus building?
 
 Britain - First Past the Post System: Advantages and disadvantages?
 
-
-
 ## Discussion - The US System
 
-3. The US system: Broad representation or centrism? Median voter theorem? 
+3.  The US system: Broad representation or centrism? Median voter theorem?
 
-        + Primary elections
-        + Electoral college
-        + Gerrymandering
+         + Primary elections
+         + Electoral college
+         + Gerrymandering

@@ -6,43 +6,43 @@ editor: visual
 
 ## Cause and effect
 
-In cause and effect, the effect is the result that would not happen without the cause, everything else being equal. 
+In cause and effect, the effect is the result that would not happen without the cause, everything else being equal.
 
 ## Collective action
 
-Joint action. One or more individuals acting together to achieve a goal. 
+Joint action. One or more individuals acting together to achieve a goal.
 
 ## Collective action problems
 
 A situation where cooperation would be the best solution for all parties, but incentives exist which discourage cooperation between individuals.
 
-## Comparative Methhod 
+## Comparative Methhod
 
-The comparative method involves the study of a variable's causes or effects across two or more similar political entities, or the same entity at two or more points in time. Countries are compared to countries, states/provinces to states/provinces, cities to cities. 
+The comparative method involves the study of a variable's causes or effects across two or more similar political entities, or the same entity at two or more points in time. Countries are compared to countries, states/provinces to states/provinces, cities to cities.
 
 The comparative method is one of four approaches - experimental, statistical, comparative, and case study
 
 ## Dependent Variable
 
-In science the dependent variable is the outcome, result, or effect. 
+In science the dependent variable is the outcome, result, or effect.
 
 ## Externality
 
-A side effect of a transaction that affects third parties and whose cost or benefit is not included in the transaction, so the full social value of the transaction is not included in the price. Negative example: live music on a bar patio causes noise in the neighborhood. Positive example: A beekeeper keeps bees for honey and they pollinate plants on surrounding farms. 
+A side effect of a transaction that affects third parties and whose cost or benefit is not included in the transaction, so the full social value of the transaction is not included in the price. Negative example: live music on a bar patio causes noise in the neighborhood. Positive example: A beekeeper keeps bees for honey and they pollinate plants on surrounding farms.
 
 ## Falsifiable
 
-A falsifiable hypothesis is one which is sufficiently measurable and precisely defined that it can be tested and potentially disproven. 
+A falsifiable hypothesis is one which is sufficiently measurable and precisely defined that it can be tested and potentially disproven.
 
-Testing falsifiable hypotheses is core to the scientific method. 
+Testing falsifiable hypotheses is core to the scientific method.
 
-Falsifiabilty was described by Karl Popper (1902-1994) as part of  critical rationalism
+Falsifiabilty was described by Karl Popper (1902-1994) as part of critical rationalism
 
-## Hypothesis 
+## Hypothesis
 
 plural - hypotheses
 
-A testable proposition to determine if a theory is true or false. If the hypothesis is disproven, the theory is incorrect as written. If the hypothesis is not disproven, it and the theory are  *confirmed as approximately true* given the current data.
+A testable proposition to determine if a theory is true or false. If the hypothesis is disproven, the theory is incorrect as written. If the hypothesis is not disproven, it and the theory are *confirmed as approximately true* given the current data.
 
 ## Incentive
 
@@ -50,12 +50,11 @@ Things that motivate or encourage/discourage behavior. Incentives may be positiv
 
 ## Independent Variable
 
-In science, the independent variable is the potential cause, the input, whose value is independent of other variables in the study. 
+In science, the independent variable is the potential cause, the input, whose value is independent of other variables in the study.
 
 ## Method of Difference
 
 Starts with states that differ in the result (dependent variable/outcome) and have many similarities
-               
 
 From John Stuart Mill (1806-1873)
 
@@ -75,19 +74,19 @@ Ostrom: behavior involving collective action
 
 ## Power
 
-*For purposes of the study of politics*, power is the coercive use of physical force. 
+*For purposes of the study of politics*, power is the coercive use of physical force.
 
-## Rational 
+## Rational
 
-A person or group of people (including a state) is considered rational if it behaves to maximize its utility given its beliefs. 
+A person or group of people (including a state) is considered rational if it behaves to maximize its utility given its beliefs.
 
 In this context, the beliefs refer specifically to the beliefs about the likelihood of outcomes based on actions.
 
-Utility refers to worth, value, pleasure, or happiness for the person or group. It is subjective. 
+Utility refers to worth, value, pleasure, or happiness for the person or group. It is subjective.
 
 ## Scientific Method
 
-The study of causes and effects based on empirical proof using the scientific method. Core elements of science are skepticism and falsifiability. 
+The study of causes and effects based on empirical proof using the scientific method. Core elements of science are skepticism and falsifiability.
 
                 + Define a research question
                 + Make predictions - hypotheses
@@ -95,10 +94,9 @@ The study of causes and effects based on empirical proof using the scientific me
                 + Analyze the data to test the hypothesis
                 + Draw conclusions
 
-## State 
+## State
 
-The entity that engages in the organized, coercive use of physical force commonly accepted as legitimate. 
-
+The entity that engages in the organized, coercive use of physical force commonly accepted as legitimate.
 
 ## Utility
 
@@ -106,5 +104,4 @@ Utility refers to the subjective worth, value, pleasure, or happiness derived fr
 
 ## Variable
 
-In science a variable is any factor that can vary in amount or type. 
-
+In science a variable is any factor that can vary in amount or type.
