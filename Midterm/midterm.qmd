@@ -168,7 +168,7 @@ editor: visual
 
 Bonus 1. Military Dispute Equilibrium:
 
-Country A and Country B have a dispute over a resource rich area on their border. Country A currently controls it and Country B has demanded that Country A give it up. If war occurs, the country which attacks first will have a major advantage. The value of the resource and both the human and material costs of war have been computed in financial terms for both countries using standard methods. If war occurs, Country A will suffer a loss of 200 billion if it atacks first and 500 billion if it attacks second. If war occurs, Country B will suffer a loss of 100 billion if it attacks first and 300 billion if it attacks second. If war does not occur, neither country suffers a loss. What is the equilibrium outcome? (Use the Prisoner's Dilemma as a guide to your thinking.)
+Country A and Country B have a dispute over a resource rich area on their border. Country A currently controls it and Country B has demanded that Country A give it up. If war occurs, the country which attacks first will have a major advantage. The value of the resource and both the human and material costs of war have been computed in financial terms for both countries using standard methods. If war does not occur (both parties only defend), neither country suffers a gain or  loss. If war occurs, Country A will suffer a loss of 200 billion if it atacks first and 500 billion if it defends. If war occurs, Country B will suffer a loss of 100 billion if it attacks first and 300 billion if it defends.  What is the equilibrium outcome? (You can complete this using a Prisoner's Dilemma as a model.)
 
 <p style="margin-bottom:10cm;"></p>
 
