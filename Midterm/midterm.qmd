@@ -160,7 +160,7 @@ editor: visual
 23. <p style="margin-bottom:8cm;">Why can science alone not decide the answer policy questions?</p>
 
 
-<p style="margin-bottom:8cm;"></p>
+<p style="margin-bottom:8cm;">.</p>
 
 ## Section 3: Bonus (10 points each)
 
