@@ -153,14 +153,14 @@ editor: visual
 
 21. Briefly describe what happens if a piece of legislation proposed by the head of government fails to pass in a Parliamentary System and in a Presidential System.
 
-22. <p style="margin-bottom:8cm;">Briefly explain why failing to protect minority rights makes a country undemocratic being sure to mention the specific requirement of democratic elections that is undermined by not protecting minority rights.</p>
+22. <p style="margin-bottom:10cm;">Briefly explain why failing to protect minority rights makes a country undemocratic being sure to mention the specific requirement of democratic elections that is undermined by not protecting minority rights.</p>
 
 
 
-23. <p style="margin-bottom:8cm;">Why can science alone not decide the answer policy questions?</p>
+23. <p style="margin-bottom:10cm;">Why can science alone not decide the answer policy questions?</p>
 
 
-<p style="margin-bottom:8cm;">.</p>
+<p style="margin-bottom:10cm;">.</p>
 
 ## Section 3: Bonus (10 points each)
 
