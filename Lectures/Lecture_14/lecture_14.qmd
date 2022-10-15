@@ -1,0 +1,121 @@
+---
+title: "Lecture 14: Varieties of Non-Democratic Institutions"
+format: revealjs
+editor: visual
+---
+
+## Announcements
+
+1. Paper assignment
+
+                + Pay attention to due dates for first drafts and peer review - you delay other students if you are late
+                + Not submitting the peer review risks your grade on the final draft
+                
+2. Upcoming assignments based on scientific questions
+                
+                + If you received less than a B on Assignment 3, it will be very hard to do well on these
+                + Read the feedback
+                + Pick your best question
+                + Preview: literature search, popular article search, short "blog" style writing 
+                
+3. Professionalism Grade at Midterm
+
+## Previous material on dictatorships
+
++ Dictatorships are defined by a lack of what?
++ Dictatorship is a catch-all for regimes that are not democratic (Gandhi among others)
++ We also refer to autocracies and non-democracies (plus other terms)
++ This includes hybrid regimes between democracy and autocracy
+
++ Dictatorships may have elections, legislatures, judiciaries, parties, and other features expected in democracies
+
+## Types by degree
+
++ Liberal Democracies
+
+                + Liberal Democracy (VDem)
+                + Flawed Democracy 
+
++ Anocracy / Mixed regimes
+
+                + Electoral Democracy (Vdem)
+                + Electoral Autocracy (VDem)
+                + Competitive Autocracy 
+
++ Closed autocracy (VDem)
++ Hereditary Monarch (Polity)
+
+## Who defines this?
+
++ Polity (Center for Systemic Peace)
+
+                + 21- point scale
+                + hereditary monarch (-10)
+                + consolidated democracy (+10)
+                + Autocracies (-10 to -6), anocracies (-5 to +5), democracies (+6 to +10)
+                + 6 measures of executive recruitment, constraints, political competition, and institutional quality
+                
+
++ Varieties of Democracy Project 
+
+                + "Question: How can the political regime overall be classified considering the competitiveness of access to power (polyarchy) as well as liberal principles?"
+                + 0: Closed autocracy 
+                + 1: Electoral autocracy (multi-party elections)
+                + 2: Electoral democracy (free and fair, multi-party elections, lacking other features of liberal democracy)
+                + 3: Liberal democracy
+
+
+
+## Types by institution
+
++ Hereditary Monarchy
++ Military Dictatorship
++ Civilian Dictatorship
++ Oligarchy (Single party)
++ Revolutionary 
++ Theocracy
+
+
+## Selectorate Theory
+
++ Residents (full population)
++ Selectorate (S)
+
+                + Nominal selectorate - Interchangeables 
+                + Real selectorate - Influentials 
+                
++ Winning Coalition (W) - Essentials
+
++ Goal: small W and large pool of Interchangeables
+
+## Selectorates: Regime Classification
+
+Democracy - large coalition regime
+
+                + Large winning coalition
+                + Leader uses public goods to satisfy W
+
+Dictatorship - small coalition regime
+
+                + Small winning coalition
+                + Leader uses private good to satisfy W
+                
+## Dictator's Handbook: Five Rules
+
+1. Keep the Winning Coalition (W) small
+2. Keep the Interchangeables pool large.
+3. Redistribute from the masses to supporters (W)
+4. Pay W just enough. Satisfy but don't empower.
+5. Never redistribute from W to  the masses. 
+
+## Typologies by other characteristics: Geddes
+
+## Typologies by other characteristics: Weeks
+
+
+
+
+
+
+
+
