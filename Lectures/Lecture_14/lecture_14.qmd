@@ -8,13 +8,13 @@ editor: visual
 
 1. Paper assignment
 
-                + Pay attention to due dates for first drafts and peer review - you delay other students if you are late
-                + Not submitting the peer review risks your grade on the final draft
+                + Pay attention to due dates for first drafts and peer feedback - you delay other students if you are late
+                + Not submitting the peer feedback risks your grade on the final draft
                 
 2. Upcoming assignments based on scientific questions
                 
-                + If you received less than a B on Assignment 3, it will be very hard to do well on these
-                + Read the feedback
+                + If you received less than a B on Assignment 3, it will be very hard to do well on these without revising them first
+                + Read the feedback from Assignment 3
                 + Pick your best question
                 + Preview: literature search, popular article search, short "blog" style writing 
                 
@@ -112,10 +112,19 @@ Dictatorship - small coalition regime
 
 ## Typologies by other characteristics: Geddes
 
++ Military dictatorships
++ Single party rule
++ Personalist dictatorships
++ Monarchies
++ Hybrid dictatorships
+
+(Geddes 2012)(Geddes, Frantz and Wright 2014)
+
+
 ## Typologies by other characteristics: Weeks
 
 
-
+![Typology of Dictators (Weeks 2012)](weeks_typology.jpg)
 
 
 
