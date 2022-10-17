@@ -4,6 +4,10 @@ format: revealjs
 editor: visual
 ---
 
+## Guest: Myriam Shiran
+
+Update on the situation in Iran
+
 ## Announcements
 
 1. Paper assignment
