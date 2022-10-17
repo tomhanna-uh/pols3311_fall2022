@@ -43,15 +43,18 @@ Update on the situation in Iran
 -   Liberal Democracies
 
                   + Liberal Democracy (VDem)
-                  + Flawed Democracy 
+                  + Consolidated Democracy (Polity)
+                  + Flawed Democracy (general)
 
--   Anocracy / Mixed regimes
+-   Anocracy (Polity) / Mixed regimes / Hybrid Regimes
 
                   + Electoral Democracy (Vdem)
                   + Electoral Autocracy (VDem)
-                  + Competitive Autocracy 
+                  + Competitive Autocracy (general)
 
 -   Closed autocracy (VDem)
+
+-   Autocracies (Polity)
 
 -   Hereditary Monarch (Polity)
 
@@ -81,6 +84,10 @@ Update on the situation in Iran
 -   Oligarchy (Single party)
 -   Revolutionary
 -   Theocracy
+
+## Motivations of Dictators
+
+What do you think motivates dictators?
 
 ## Selectorate Theory
 
