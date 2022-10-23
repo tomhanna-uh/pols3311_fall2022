@@ -1,0 +1,145 @@
+---
+title: "Midterm: POLS 3311, Fall 2022"
+format: html
+editor: visual
+---
+
+## Section 1: Multiple Choice (4 points each)
+
+1.  When something is proved by observation or experiment rather than pure logic or theory, it is said to be proved: C - empirically
+
+                 A - theoretically
+                 B - thoroughly
+                 C - empirically
+                 D - absolutely
+
+2.  The two types of electoral systems are majoritarian and: C - proportional representation
+
+                 A - open list
+                 B - parliamentary
+                 C - proportional representation
+                 D - dictatorship
+
+3.  What is the first step in the scientific method? C - Define a research question
+
+                 A - Analyze the data
+                 B - Make predictions
+                 C - Define a research question
+                 D - Reach a conclusion
+
+4.  The comparative method is one of four major methods of scientific or empirical political research. Which of the following is not one of the other three: A - theoretical
+
+                 A - theoretical
+                 B - statistical
+                 C - Case study
+                 D - Experimental
+
+5.  Which of the following can potentially be answered by science **alone**: C - cause and effect
+
+                 A - right and wrong
+                 B - good and bad
+                 C - cause and effect
+                 D - correct policy and incorrect policy
+
+6.  Distinguishing democratic from nondemocratic (dictatorial/autocratic) regimes is based primarily on what concept? D - Contestation or contestability
+
+                 A - Elections
+                 B - Voting
+                 C - Legal opposition parties
+                 D - Contestation or contestability
+
+7.  The core feature of contestability is the non-trivial (significant) chance that the governing party will: C - Lose the election
+
+                 A - Allow opposition in the election
+                 B - Allow elections
+                 C - Lose the election
+                 D - Appoint opposition members to the government
+
+8.  Other features necessary for true contestability include irreversibility, repeatability, and: B - protection of minority rights
+
+                 A - majority rule
+                 B - protection of minority rights
+                 C - international observers
+                 D - direct democracy
+
+9.  In checking for real contestability, four rules help us. Which of these is NOT a rule we use to test for democracy? C - Judges must be elected
+
+                 A - There must be more than one party
+                 B - The chief executive must be elected directly or indirectly
+                 C - Judges must be elected
+                 D - The legislature must be elected
+                 E - There must have been an alternation in power
+
+10. The type of proportional system where the voters choose the party, but have no influence over specific candidates is: C - Closed list
+
+                A - Open list
+                B - Democracy
+                C - Closed list
+                D - Primary
+
+11. The form of democratic government where the executive power is located in the parliament (or other legislature) is: C - Parliamentary
+
+                A - Presidential
+                B - Ministerial
+                C - Parliamentary
+                D - Majoritarian
+
+12. Country A has a democratic constitution which calls for an elected President who calls elections and attends diplomatic functions, a Prime Minister elected by the Parliament, and a Cabinet selected by the PM from the Parliament. This system is: B - Parliamentary
+
+                A - Presidential
+                B - Parliamentary
+                C - Flawed democracy
+                D - Proportional Representation
+
+13. Country B has a democratic constitution with a President and a legislature called a Congress. This is all we know about this country. True or false: It must be a Presidential System, because it does not have a body called Parliament? B - False
+
+                A - True
+                B - False
+
+14. The major distinction between Parliamentary and Presidential Systems is: C - The location of executive power
+
+               A - An official called a President
+               B - A body called Parliament
+               C - The location of executive power
+               D - Judicial independence
+
+15. A situation in which all parties would benefit from cooperation, but incentives exist which discourage individuals from cooperating is a:  C - collective action problem
+
+               A - flawed incentive problem
+               B - public choice problem
+               C - collective action problem
+               D - majority rules
+
+16. The Method of \_\_\_\_\_\_ starts with states that differ in the result (dependent variable/outcome) and have many similarities, and looks for the other major difference as the cause.  C - Method of Difference
+
+               A - Comparative method
+               B - Case study
+               C - Method of Difference
+               D - Method of Similarity
+
+17. The entity which has commonly accepted legitimacy for the coercive use of physical force is:  C - the state
+
+                A - the army
+                B - the police
+                C - the state
+                D - the court system
+
+18. True or false: All countries with multiple legal political parties are democracies? B - False
+
+                A - True
+                B - False
+
+19. A simple interpretation of Duverger's Law is that First Past the Post election rules result in this: C - two party systems
+
+                A - flawed democracy
+                B - democratic backsliding
+                C - two party systems
+                D - proportional representation
+
+20. The Prisoner's Dilemma is an example of a \_\_\_\_\_\_\_\_ action problem that may be solved by enforcement or repeated interaction.  C - collective
+
+               A - coercive
+               B - police
+               C - collective
+               D - dictatorship
+
