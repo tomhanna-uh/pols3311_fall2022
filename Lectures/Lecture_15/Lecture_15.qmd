@@ -13,13 +13,16 @@ editor: visual
                   + Everyone should come to class prepared to discuss the questions with consideration to the readings
                   + Remember - coming with questions based on the readings is GOOD
                   + Those writing on the topics should come to class with questions and with thoughts on possible answers to the questions given
-                  
-+ Readings are moving to Course Reserves in Blackboard
 
-                + Accessibility issue with journal articles
-                + New readings will only be there
-                + Other readings will be moved there soon
+-   Readings are moving to Course Reserves in Blackboard
+
+                  + Accessibility issue with journal articles
+                  + New readings will only be there
+                  + Other readings will be moved there soon
                   
+- New Extra Credit Assignment
+- All Extra Credit due November 30 or earlier
+
 ## Quiz
 
                 1. Selectorate theory is concerned with the relative size of the selectorate and the ________ _______? (Two words, only one right answer)
