@@ -1,0 +1,304 @@
+---
+title: "Readings List"
+format: html
+editor: visual
+---
+
+Readings List Introduction to Comparative Politics: POLS 3311 Fall 2022
+.
+Summary
+The following are required, recommended, and additional readings on the various course topics,
+arranged by topic. Inclued are notes on relevance, pages of interest, relationships between the
+readings, and selections from the readings or abstracts, etc. I have renamed the files as much
+as possible to match the titles listed here. You may find the notes on the readings useful in
+reviewing the topics for the midterm and final exam.
+Background Material
+This section includes background material on topics including definitions of core concepts
+(politics, the state, rationality, science), examples of comparative studies (case studies, small-n, and
+large-n), material on studying comparative politics, etc.
+Background and definitions
+Shepsle, Kenneth. "Rationality: The Model of Choice." Analyzing Politics: Rationality, Behavior, and
+Institutions. This oers a an explanation of what is meant by rationality in the context of rational
+choice models, and this course. It is important to understand that rational has a definition that
+may not match the way that you have heard it used in casual conversation. Specifically, rationality
+as defined by Shepsle means that the behavior of the actor is in keeping with his preferences and
+beliefs. In casual conversation we may judge someone’s beliefs or preferences as irrational, but
+that kind of value judgement is not relevant in this definition of rationality. Instead the question is
+does their behavior make sense given what they prefer and believe. (shepsle analyzing politics.pdf)
+Riker and Ordeshook. "Introduction: The Meaning of Politics." Introduction to Positive Political
+Theory. Riker and Ordeshook. Examining the question, "what is politics?" Riker and Ordeshook
+arrive at a definition of political science based on how collective choice is derived from individual
+preferences.
+Examples
+Acmoglu, Daron and James Robinson. "So Close and Yet So Dierent." from Why Nations Fail.
+This is an excellent example of a narrative comparative study of two cities separated only by a
+national border: Nogales, Arizona, USA and Nogales, Sonora, Mexico. The chapter describes their
+similarities and dierences. This is an excellent example of what you should do if you choose to
+write a paper comparing two political entities, though on a smaller scale. (acemoglu why nations
+fail.pdf)
+1
+Readings List Introduction to Comparative Politics: POLS 3311 Fall 2022
+1 Collective Choice
+These papers are primarily for the Collective Choice section, but the recommended readings
+especially will have relevance to other topics throughout the semester.
+Collective Choice: Required
+Introduction to: A Behavioral Approach to the Rational Choice Theory of Collective Action, Elinor
+Ostrom 1997 Presidential Address to the American Political Science Association.
+Collective Choice: Recommended
+• F.A. Hayek - The Pretense of Knowledge. (1974 Nobel Prize Lecture)
+– Introduction, look for headings/keywords and phrases
+– Hayek was the a Nobel prize winning economist who worked in multiple disciplines
+including political economy, institutional politics, history, and law. Here Hayek argues
+that economists specifically, and social and life scientists generally, err in assuming
+that they can be as successful in making precise mathematical predictions as the
+physical sciences. He argues that social phenomena are "essentially complex." That
+is, there are so many variables at play, often with intricate feedback mechanisms, that
+while we can build excellent elegant models for explaining general cause and eect,
+we can’t be so arrogant as to oer absolute powers of prediction for specific policies.
+(One important eect of this is that it is quite likely that there will be unpredictable
+unintended consequences to particular policies.) He emphasizes the importance of
+Karl Popper’s idea of falsifiability as being particularly important in the face of this
+essential complexity.
+• Ostrom - Beyond Markets and States: Polycentric Systems of Governance of complex economic
+systems (2009 Nobel Lecture)
+– Introduction, headings of interest, conclusion, figures and notes
+– This lecture/article builds on the APSA lecture by Ostrom. Without getting too deep in
+the technical aspects a few key points are worth mentioning. Ostrom emphasizes the
+increasing complexity of descriptions. For example in "Doubling the type of goods," she
+describes the addition of club goods and using more precise terminology than "rivalry
+of consumption." This is a good example of Hayek’s idea of essential complexity. For
+those with questions about the typology we discussed in class, some of this may give
+further insight. Bear in mind that for some purposes the simpler model serves well,
+while the more complicated model can explain the outlier cases. Our goal in science
+typically is to use the simplest model that explains the observed facts. Ostrom and
+Hayek both argue that, in specific cases, either that more complex models serve better
+or that suciently complex models are not possible. Ostrom’s analysis of complexity
+goes beyond types of goods to institutional structures and, especially, to alternate
+modes of collective action.
+2
+Readings List Introduction to Comparative Politics: POLS 3311 Fall 2022
+• Collective Choice - Schwartz.
+– page 151, remainder as useful
+– A relatively simple narrative explanation of Arrow’s Impossibility Theorem. Provided
+as background material for those who want additional information or want to address
+these sorts of problems in papers. Page 151 describes the theorem. The explanation is
+decent, but the wording is the same technical jargon used by Arrow so is intimidating.
+For those covering this topic, understanding the basics on page 151 would be especially
+useful (and may require looking for further reading using this as a base).
+Collective Choice: Potential readings for papers:
+• The choice of institutions to solve cooperation problems: a survey of experimental research.
+– Experimental research into collective choice cooperation problems involving prisoners’
+dilemmas, public goods games, and common pool resource games.
+• Building local institutions for national conservation programs: lessons for developing Reducing
+Emissions from Deforestation and Forest Degradation (REDD+) programs
+– Article examing REDD+ (Reducing Emissions from Deforestation and Forest Degradation)
+programs using the Ostrom principles.
+• Collaborative Governance of Climate Change Adaptation Across Spatial and Institutional
+Scales
+– Examines how joint participation in policy forums translates into policy actions, but
+are more likely to result in collaboration if the forums sponsor lower level operational
+coordination rather than higher level collective action.
+• Collective Action and Systemic Corruption - Marquette and Peifer
+– Two presentations by same authors - two files
+– Authors examine the supposed failure of collective choice theory to expain systemic
+corruption, arguing that collective choice theory is appropriate as an adjunct rather
+than alternative to principal-agent theory subject to consideration of available resources.
+– In the "DLP" file piece, they address "The problem with viewing corruption as only a
+‘problem’"
+• Decentralization Can Increase Cooperation among Public Ocials
+– This research uses a natural experiment to address cooperation among public ocials.
+One of the findings of Ostrom’s research was that so-called "cheap talk," which is
+generally viewed as ineective by formal theorists (game theorists), can be eective
+in generating cooperation even absent higher authority. This research has similar
+findings as communication combined with decentralization of authority results in
+3
+Readings List Introduction to Comparative Politics: POLS 3311 Fall 2022
+increased cooperation. "When they are able to communicate, health sector workers
+in decentralized municipalities contribute more to a public good than their centrallyadministered
+counterparts."
+• Encounters with the Moral Economy of Water: Convergent Evolution in Valencia
+– An examination of the success of voluntary locally governed water cooperatives in
+allocating irrigation water in a way that assures full share distribution and low to
+non-existent levels of theft (cheating) without bureaucratic (state) intervention.
+• FOUR-WAY STOPS
+– Might be of interest for this or future topics
+– This is a formal theory or game theory piece, but could produce testable results.
+– How would you propose testing the authors’ conclusions?
+– "This paper investigates mechanisms for ensuring orderly passing at crossroads. We
+challenge the familiar practice of electing four stop signs in each direction by showing
+that it is not a Nash equilibrium for all drivers to abide by. Alternatively, we prove that
+electing only three stop signs at each four-way crossroad induces universal abidance as
+a unique symmetric equilibrium. This equilibrium enjoys significant savings in drivers’
+time, infrastructure costs, carbon emissions, and police expenditure. For example, for
+carbon emission reduction alone, the new mechanism is estimated to save at least 2.7
+days of gas consumption annually."
+• HOW "FREE" IS FREE RIDING IN CIVIL WARS? Violence, Insurgency, and the Collective Action
+Problem
+– The authors use data from Vietnam and the Greek Civil War to illustrate that "free
+riding" in civil wars may not be costless, that it may in fact be as costly not to
+participate as it is to participate. This explains the apparently high ability of insurgents
+to generate and maintain the risky collective action of rebellion.
+• Managing the socio-ecology of very large rivers: Collective choice rules in IWRM narratives
+– Good example of a two country (two system) comparative approach
+– Uses the Q methodology and Ostrom’s IAD framework to evaluate integrated water
+resources management in China’s Yellow River and the Ganges in India, and finds
+fundamental similarities in approaches.
+Democracy and Dictatorship
+Required
+Przeworski, et al. "Chapter one: Democracies and Dictatorship." Democracies aand Development:
+Political Institutions and Well Being in the World, 1950-1990. pages 13-30. The authors present a
+model of democracy defined primarily by contested elections or contestation. While dictatorships
+4
+Readings List Introduction to Comparative Politics: POLS 3311 Fall 2022
+and hybrid regimes may hold elections, the distinction is the degree of contestation - that is, are
+the elections truly competitive. They propose rules for determining if there is true contestation.
+Przeworski defines democracy as "a system in which parties lose elections." More importantly
+in terms of their rules, democracy is a system in which the sitting government sometimes loses
+elections. Their three rules are, essentially, election outcomes have some degree of uncertainty
+before the election with some nontrivial chance the governing party will lose, elections can not
+be overturned after the fact to prevent the winner from assuming oce, and oceholders must
+not prevent new elections.
+Gandhi, Jennifer. "The World of Dictatorial Institutions: Introduction". Political Institutions Under
+Dictatorship. In the introduction to Political Institutions Under Dictatorship, Jennifer Gandhi addresses
+the core question of defining the term. Ultimately, after analyzing the historical background
+and other attempts at definition, like Przeworski et al, she settles on contested elections as the
+defining dierence between dictatorships and democracies. Democracies have them; dictatorships
+don’t. Page 9’s comparison between the Lockean view of democracy and the current (scientifically
+validated) view of dictatorship is important to those wishing to compare the economic outcomes
+of the two types of government.
+Bueno de Mesquita, Bruce and Alastair Smith. "The Rules of Politics." The Dictator’s Handbook.
+pages 1-3. De Mesquita and Smith argue against the notion that dictators are monolithic, unaccountable
+rulers with absolute power and argue that instead dictators hold power through the
+assistance of a "winning coalition" drawn from the "selectorate," or the subset of citizens with the
+power to change rulers.
+Recommended
+Boix, Carles. The Roots of Democracy. pages 1-20. Boix examines the waves of democratization and
+their underlying causes. He notes that inequality of wealth/income makes democracy less likely
+as wealthy minorities are likely to oppose attempts by poor majorities to create a democracy for
+redistributive purposes.
+*
+2 Presidentialism and Parliamentarism
+2.1 Presidentialism and Parliamentarism: Required
+Linz, Juan J. "The Perils of Presidentialism." 1990. Linz makes the case that Presidential systems
+are more likely to experience breakdowns in democracy or lapses in constitutional continuity.
+Shugart and Mainwaring. "Presidentialism, and Democracy: A Critical Appraisal." 1997. Shugart
+and Mainwaring oer a response to the ideas in the Linz paper and generally find that the perils
+Linz attributes to Presidentialism are better explained by other specifics of the Presidential and
+Parliamentary systems examined.
+2.2 Presidentialism and Parliamentarism: Recommended
+Cheibub, Jose. "Presidential, Parliamentary, and Mixed Democracies" Chapter 2 in Presidentialism,
+Parliamentarism, and Democracy. Excellent resource for questions about dierences between
+5
+Readings List Introduction to Comparative Politics: POLS 3311 Fall 2022
+Presidential and Parliamentary Systems.
+Siaro. "Comparative presidencies: The inadequacy of the presidential, semi-presidential and parliamentary
+distinction." Siaro argues that issues with the Parliamentary-Presidential distinction,
+particularly with regard to the semi-presidential cases are partly responsible for the lack of consensus
+on the Linz vs Shugart and Mainwaring debate. He suggests a new breakdown with four
+types to help provide clearer definition.
+Ganghof. "Designing Democratic Constitutions: The Search for Optimality." Ganghof explores
+the trade-os in dierent locations of executive and legislative power especially with regard to
+producing clear election alternatives and stable cabinet governments.
+3 Electoral and Party Systems
+3.1 Electoral and Party Systems: Required
+Bello. "Cleaning Up Latin American Democracy." The Economist. 2015. Interesting take on the
+interaction between the parliamentary/presidential institutional design and the electoral systems
+in Latin America, where strong presidents combined with PR electoral systems that work well in
+parliamentary systems lead to lack of consensus building and generally poor, unrepresentative
+governance.
+Powell, G. Bingham, Jr. "Majoritarian and Proportional Visions." Chapter 1. Elections as Instruments
+of Democracy. pages 3-19. Provides a good grounding in the distinctions between majoritarian
+and proportional representation. Figure 1.1 provides a good typology of specific desired outcomes.
+Figure 1.2 provides an understanding of the operation of PR and majoritarian systems that can tie
+to those desired results. At its simplest, majoritarian systems are good for producing stable and
+strong but accountable governments, while PR systems deliver a higher degree of representation,
+especially for small minorities, at the expense of less accountability and more instability. The
+author provides more depth and nuance.
+3.2 Electoral and Party Systems: Recommended
+If you are writing on this topic, this article is STRONGLY recommended Anonymous. "Democratic
+Deficit." The Economist. 1995. This article raises some interesting points in favor of changing
+the British system from an FPTP system to a proportional representation system. Beware - it is
+thoroughly one-sided focusing on the weakness of an electoral system that has served the UK
+well in many respects, notably both political and economic stability. Still, it does a good job of
+explaining the basic dierences between the systems, provides some specific arguments in favor
+of a change in the British case, and most importantly is thought provoking and may provide
+good questions for further research.
+Schuster, et al. "Seat biases of apportionment methods for proportional representation." The
+introduction to this paper gives a good background on the types of seat assignment methods
+in proportional representation systems (d’Hondt/Jeerson, Hamilton/Hare, Webster/Sainte-Legue in
+particular). Later in the paper, some of the actual formulas are provided which may be useful for
+reference.
+6
+Readings List Introduction to Comparative Politics: POLS 3311 Fall 2022
+3.3 Electoral and Party Systems: Potential Readings for Papers
+For these, you will want to focus on the abstract, conclusion, and introduction. The explanation
+in other parts of the paper may be useful in places, but without the mathematical game theory
+background may not mean much. Cox is relatively good at plain language explanations in the
+abstract, intro and conclusion.
+Cox, Gary W. "SNTV and d’Hondt are equivalent." 1991. Cox argues, and presents a formal model
+showing mathematically, that the single non-transferable vote plurality rule system produces the
+same outcomes as the d’Hondt system of proportional representation, holding other key items
+constant. This has two points. As stated by Cox, this one simple illustration focusing on very
+specific systems at opposite extremes demonstrates the confusion around core concepts. In
+particular, the dierences between majoritarian and PR systems are often about other elements
+than the core PR/majoritarian distinction.
+Cox, Gary W. "Centripetal and Centrifugal Incentives in Electoral Systems." 1990. Cox examines
+some of the specific elements that produce dierent tendencies toward centrist (centripetal)
+and extremist (centrifugal) tendencies in electoral systems. Unsurprisingly given the "SNTV and
+d’Hondt are equivalent" piece, he finds that dierences in district magnitude, number of votes per
+voter, and treatment of partial abstention are important determinants of the results.
+Varieties of Dictatorship
+3.4 Varieties of Dictatorship: Required
+Polity 5 Manual, pages 13-14 from 2. Indicators of Democracy and Autocracy (Composite Indices)
+to 2.1 DEMOC (all versions) Polity 5 Manual, pages 15-16 2.2 AUTOC (all versions)
+Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staan I. Lindberg, Jan Teorell, David
+Altman, et al. VDem Codebook V11.1. Varieties of Democracy (V-Dem) Project, 2021. https://www.vdem.
+net/en/data/reference-material-v11/:
+5.1 Regimes of the World (RoW)
+5.1.1 Regimes of the world – the RoW measure (D) (v2x_regime)
+Project Manager(s): Anna Lührmann, Marcus Tannenberg, Staffan I Lindberg
+Question: How can the political regime overall be classified considering the competitiveness Responses:
+0: Closed autocracy: No multiparty elections for the chief executive or the legislature.
+1: Electoral autocracy: De-jure multiparty elections for the chief executive and the 2: Electoral democracy: De-facto free and fair multiparty elections and a minimum level 3: Liberal democracy: De-facto free and fair multiparty elections and a minimum level The pages from the Polity Score Manual and the material above from the VDem Project’s Regimes
+of the World classification reflect how regimes are classified as specific types of democratic or
+non-democratic regime according to well-defined, measurable characteristics.
+Gandhi - Political Institutions Under Dictatorship. Chapter 1 - The World of Dictatorial Institutions,
+pages 1 to 3, ending at: 1.2.1 Historical Usage Full chapter strongly recommended for
+anyone writing on the topic and for study for the final exam!
+7
+Readings List Introduction to Comparative Politics: POLS 3311 Fall 2022
+Gandhi describes the breadth of institutional variation among non-democracies, including specific
+institutions often considered democratic such as legislatures, elections, and opposition parties.
+Geddes. "What do we know about democratization after twenty years." pages 121-122 material
+on classification of regimes.
+Geddes basic typology of dictatorial regimes as personalist, military, single party, or a combination.
+Geddes, Wright, and Frantz. "Autocratic Breakdown and Regime Transitions: A New Data
+Set" . p. 314 Central Concepts - 315 and p. 317 Measuring Autocratic Regimes ending at "To define
+regime start dates."
+An expanded typology of regimes based on Geddes earlier work.
+Weeks, Jessica. Dictators at War and Peace. Chapter 1 - The focus in on her typology of
+dictators in Table 1.1: Typology of Authoritarian Regimes. You need to read enough to understand
+what the table means and get the definitions of constraints and audiences. This book is available
+as an ebook with unlimited access through the University Library. https://libraries.uh.edu/ search:
+Dictators at War and Peace Jessica L. P. Weeks
+Weeks provides a two-dimensional typology of autocratic leader types based on the level of
+constraints on the executive and military versus civilian rule.
+3.5 Varieties of Dictatorship: Recommended
+Gandhi - Political Institutions Under Dictatorship. Chapter 1 - The World of Dictatorial Institutions
+de Mesquita and Smith - The Dictator’s Handbook. Chapter 1
+Weeks, Jessica. Dictators at War and Peace. Chapter 1 - The focus in on her typology of
+dictators in Table 1.1: Typology of Authoritarian Regimes. You need to read enough to understand
+what the table means and get the definitions of constraints and audiences. This book is available
+as an ebook with unlimited access through the University Library. https://libraries.uh.edu/ search:
+Dictators at War and Peace Jessica L. P. Weeks
+Geddes, Wright, and Frantz. Autocratic Breakdown and Regime Transitions: A New Data
+Set . p. 314 Central Concepts - 315 and p. 317 Measuring Autocratic Regimes ending at "To define
+regime start dates."
+Varieties of Dictatorship: Potential Readings for Papers: Additional Readings
+for papers
+CARL Henrik Knutsen, HÅvard Mokleiv Nyg Ård, and Tore Wig*, "Autocratic Elections:
+Stabilizing Tool of Force for Change"
+Kavasoglu, Berker. "Opposition party organizational features,ideological orientations, and
+elite co-optation in electoral autocracies"
+Wilson and Wright. "Autocratic Legislatures and Expropriation Risk"
+8

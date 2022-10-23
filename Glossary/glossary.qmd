@@ -22,6 +22,10 @@ The comparative method involves the study of a variable's causes or effects acro
 
 The comparative method is one of four approaches - experimental, statistical, comparative, and case study
 
+## Constraints on the executive
+
+Constraints are limits. Constraints on the executive are institutional limitations on executive action or power. That is, these are limits on the head of government embedded in the rules of the particular political system. These may be formal institutional constraints, such as legislative or judicial override of executive actions. They may be informal constraints, such as observance of a tradition of serving a limited number of terms. Enforcement may be formal and legal, or informal through tradition, norms, or civil society.
+
 ## Dependent Variable
 
 In science the dependent variable is the outcome, result, or effect.
