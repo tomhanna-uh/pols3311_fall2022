@@ -44,12 +44,12 @@ Modernization theory: economic security allows people to consider nonmaterial de
                         
                 1. Physical needs
                 2. Security needs
-<<<<<<< HEAD
+
                 3m. Maslow: Love and belonging, Self-esteem, self-actualization
                 3p. Politics: Civil society belonging, participation, self-determination, freedom
 =======
                 3. Other needs: Freedom, self-determination, self-government
->>>>>>> 8563d110e48df14ac0a590fd3c279e22a8438cd0
+
         
 + Political participation has costs
 
