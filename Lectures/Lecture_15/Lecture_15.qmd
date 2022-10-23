@@ -1,0 +1,80 @@
+---
+title: "Lecture_15"
+format: revealjs
+editor: visual
+---
+
+## Recap
+
++ There are a wide variety of nondemocracies
++ Categorizing nondemocracies can be done many ways
+
+                + traditional terms - oligarchy, monarchy
+                + by relative size of winning coalitions (selectorate theory)
+                + By specific institutions (Geddes et al)
+                + By domestic audiences and executive constraints (Weeks)
+                + Other categories are possible including...
+
++ Nondemocracies vary widely in their use of elections, party systems, legislatures, and judges
+
+## Why do nondemocracies hold elections?
+
+## Why do nondemocracies hold elections?
+
+<p style = "background-color: #f1f1f1; color: crimson; font-weight: bold; font-size: 80px">To preserve the power of the regime leadership!</p>
+
+## Why do nondemocracies hold elections?
+
+<p style = "background-color: #f1f1f1; color: crimson; font-weight: bold; font-size: 30px">To consolidate and preserve the power of the regime</p>
+
+
++ Signaling - high percentage = power and legitimacy
++ Outlet for opposition - appease or coopt (better than repression)
++ To gauge internal public opinion
++ To elect multiparty legislatures 
+
+                + Tightly controlled entrance
+                + Degree of "free and fair" varies
+                + Why allow legislative opposition? How much?
+
+## Why do nondemocracies allow legislative opposition?
+
+
+## Why do nondemocracies allow legislative opposition?
+
+<p style = "background-color: #f1f1f1; color: crimson; font-weight: bold; font-size: 80px">To consolidate and preserve the power of the regime leadership!</p>
+
+## Why do nondemocracies allow legislative opposition?
+
+<p style = "background-color: #f1f1f1; color: crimson; font-weight: bold; font-size: 30px">To preserve the power of the regime</p>
+
++ Signaling
++ Outlet for opposition 
++ Actual legislation
+                
+                + Leadership has narrow concerns
+                + Allow actual debate 
+                + Create binding enforceable laws
+                + Dictator can choose which to enforce
+                + Dictator probably will enforce some
+                
+## Other institutions
+
++ Formal
+
+                + Judiciary
+                + Central Banks
+                + Electoral commissions ??
+                + Lower level governments (federal / confederal)
+                + Treaty commitments
+                
++ Informal
+
+                + Traditional constraints (such as unwritten ethnic or religious selection rules)
+                + International investors
+                + Opposition Press
+                + Civil society groups - religious
+                + Civil society groups -schools and universities
+                + Civil society groups - cultural institutions
+                + Civil society groups - professional associations
+                + Other civil society groups
