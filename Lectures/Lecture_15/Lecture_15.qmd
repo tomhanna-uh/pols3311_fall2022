@@ -6,14 +6,20 @@ editor: visual
 
 ## Announcements
 
-+ For the rest of the semester, heavy discussion
+-   For the rest of the semester, heavy discussion
 
-                + Each class session will have some posted questions
-                + These questions will be the basis for paper topics/prompts
-                + Everyone should come to class prepared to discuss the questions with consideration to the readings
-                + Remember - coming with questions based on the readings is GOOD
-                + Those writing on the topics should come to class with questions and with thoughts on possible answers to the questions given
+                  + Each class session will have some posted questions
+                  + These questions will be the basis for paper topics/prompts
+                  + Everyone should come to class prepared to discuss the questions with consideration to the readings
+                  + Remember - coming with questions based on the readings is GOOD
+                  + Those writing on the topics should come to class with questions and with thoughts on possible answers to the questions given
+                  
++ Readings are moving to Course Reserves in Blackboard
 
+                + Accessibility issue with journal articles
+                + New readings will only be there
+                + Other readings will be moved there soon
+                  
 ## Quiz
 
                 1. Selectorate theory is concerned with the relative size of the selectorate and the ________ _______? (Two words, only one right answer)
@@ -118,16 +124,14 @@ To preserve the power of the regime
                   + Civil society groups - cultural institutions
                   + Civil society groups - professional associations
                   + Other civil society groups
-                  
+
 ## Questions for next three classes
 
-+ Why are economic development and political development correlated? That is, why are richer countries more likely to be democratic. (Wednesday)
-                
-                
-                + Why might democracy cause economic growth?
-                + Why might economic development cause democracy?
-               
-+ What cultural / historical factors can help explain both higher levels of political and economic development?
+-   Why are economic development and political development correlated? That is, why are richer countries more likely to be democratic. (Wednesday)
 
-+ What geographic factors might influence economic and political development and why?
-                
+                  + Why might democracy cause economic growth?
+                  + Why might economic development cause democracy?
+
+-   What cultural / historical factors can help explain both higher levels of political and economic development?
+
+-   What geographic factors might influence economic and political development and why?
