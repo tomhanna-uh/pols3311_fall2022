@@ -8,92 +8,105 @@ editor: visual
 
 Update on the situation in Iran
 
-
 ## Announcements
 
-1. Paper assignment
+1.  Paper assignment
 
-                + Pay attention to due dates for first drafts and peer feedback - you delay other students if you are late
-                + Not submitting the peer feedback risks your grade on the final draft
-                
-2. Upcoming assignments based on scientific questions
-                
-                + If you received less than a B on Assignment 3, it will be very hard to do well on these without revising them first
-                + Read the feedback from Assignment 3
-                + Pick your best question
-                + Preview: literature search, popular article search, short "blog" style writing 
-                
-3. Professionalism Grade at Midterm
+                 + Pay attention to due dates for first drafts and peer feedback - you delay other students if you are late
+                 + Not submitting the peer feedback risks your grade on the final draft
 
-4. Extra credit assignments
+2.  Upcoming assignments based on scientific questions
+
+                 + If you received less than a B on Assignment 3, it will be very hard to do well on these without revising them first
+                 + Read the feedback from Assignment 3
+                 + Pick your best question
+                 + Preview: literature search, popular article search, short "blog" style writing 
+
+3.  Professionalism Grade at Midterm
+
+4.  Extra credit assignments
 
 ## Previous material on dictatorships
 
-+ Dictatorships are defined by a lack of what?
-+ Dictatorship is a catch-all for regimes that are not democratic (Gandhi among others)
-+ We also refer to autocracies and non-democracies (plus other terms)
-+ This includes hybrid regimes between democracy and autocracy
+-   Dictatorships are defined by a lack of what?
 
-+ Dictatorships may have elections, legislatures, judiciaries, parties, and other features expected in democracies
+-   Dictatorship is a catch-all for regimes that are not democratic (Gandhi among others)
+
+-   We also refer to autocracies and non-democracies (plus other terms)
+
+-   This includes hybrid regimes between democracy and autocracy
+
+-   **Dictatorships may have elections, legislatures, judiciaries, parties, and other features expected in democracies**
 
 ## Types by degree
 
-+ Liberal Democracies
+-   Liberal Democracies
 
-                + Liberal Democracy (VDem)
-                + Flawed Democracy 
+                  + Liberal Democracy (VDem)
+                  + Consolidated Democracy (Polity)
+                  + Flawed Democracy (general)
 
-+ Anocracy / Mixed regimes
+-   Anocracy (Polity) / Mixed regimes / Hybrid Regimes
 
-                + Electoral Democracy (Vdem)
-                + Electoral Autocracy (VDem)
-                + Competitive Autocracy 
+                  + Electoral Democracy (Vdem)
+                  + Electoral Autocracy (VDem)
+                  + Competitive Autocracy (general)
 
-+ Closed autocracy (VDem)
-+ Hereditary Monarch (Polity)
+-   Closed autocracy (VDem)
+
+-   Autocracies (Polity)
+
+-   Hereditary Monarch (Polity)
 
 ## Who defines this?
 
-+ Polity (Center for Systemic Peace)
+-   Polity (Center for Systemic Peace)
 
-                + 21- point scale
-                + hereditary monarch (-10)
-                + consolidated democracy (+10)
-                + Autocracies (-10 to -6), anocracies (-5 to +5), democracies (+6 to +10)
-                + 6 measures of executive recruitment, constraints, political competition, and institutional quality
-                
+                  + 21- point scale
+                  + hereditary monarch (-10)
+                  + consolidated democracy (+10)
+                  + Autocracies (-10 to -6), anocracies (-5 to +5), democracies (+6 to +10)
+                  + 6 measures of executive recruitment, constraints, political competition, and institutional quality
 
-+ Varieties of Democracy Project 
+-   Varieties of Democracy Project
 
-                + "Question: How can the political regime overall be classified considering the competitiveness of access to power (polyarchy) as well as liberal principles?"
-                + 0: Closed autocracy 
-                + 1: Electoral autocracy (multi-party elections)
-                + 2: Electoral democracy (free and fair, multi-party elections, lacking other features of liberal democracy)
-                + 3: Liberal democracy
-
-
+                  + "Question: How can the political regime overall be classified considering the competitiveness of access to power (polyarchy) as well as liberal principles?"
+                  + 0: Closed autocracy 
+                  + 1: Electoral autocracy (multi-party elections)
+                  + 2: Electoral democracy (free and fair, multi-party elections, lacking other features of liberal democracy)
+                  + 3: Liberal democracy
 
 ## Types by institution
 
-+ Hereditary Monarchy
-+ Military Dictatorship
-+ Civilian Dictatorship
-+ Oligarchy (Single party)
-+ Revolutionary 
-+ Theocracy
+-   Hereditary Monarchy
+-   Military Dictatorship
+-   Civilian Dictatorship
+-   Oligarchy (Single party)
+-   Revolutionary
+-   Theocracy
 
+## Motivations of Dictators
+
+What do you think motivates dictators?
+
+## Motivations of Dictators
+
+What do you think motivates dictators?
+
+The main motivation of dictators is to gain power and once in power retain that power.
 
 ## Selectorate Theory
 
-+ Residents (full population)
-+ Selectorate (S)
+-   Residents (full population)
 
-                + Nominal selectorate - Interchangeables 
-                + Real selectorate - Influentials 
-                
-+ Winning Coalition (W) - Essentials
+-   Selectorate (S)
 
-+ Goal: small W and large pool of Interchangeables
+                  + Nominal selectorate - Interchangeables 
+                  + Real selectorate - Influentials 
+
+-   Winning Coalition (W) - Essentials
+
+-   Goal: small W and large pool of Interchangeables
 
 ## Selectorates: Regime Classification
 
@@ -107,31 +120,25 @@ Dictatorship - small coalition regime
                 + Small winning coalition
                 + Leader uses private good to satisfy W
                 
+
 ## Dictator's Handbook: Five Rules
 
-1. Keep the Winning Coalition (W) small
-2. Keep the Interchangeables pool large.
-3. Redistribute from the masses to supporters (W)
-4. Pay W just enough. Satisfy but don't empower.
-5. Never redistribute from W to  the masses. 
+1.  Keep the Winning Coalition (W) small
+2.  Keep the Interchangeables pool large.
+3.  Redistribute from the masses to supporters (W)
+4.  Pay W just enough. Satisfy but don't empower.
+5.  Never redistribute from W to the masses.
 
 ## Typologies by other characteristics: Geddes
 
-+ Military dictatorships
-+ Single party rule
-+ Personalist dictatorships
-+ Monarchies
-+ Hybrid dictatorships
+-   Military dictatorships
+-   Single party rule
+-   Personalist dictatorships
+-   Monarchies
+-   Hybrid dictatorships
 
 (Geddes 2012)(Geddes, Frantz and Wright 2014)
 
-
 ## Typologies by other characteristics: Weeks
 
-
 ![Typology of Dictators (Weeks 2012)](weeks_typology.jpg)
-
-
-
-
-
