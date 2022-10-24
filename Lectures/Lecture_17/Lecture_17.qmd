@@ -1,0 +1,57 @@
+---
+title: "Lecture 17"
+format: revealjs
+editor: visual
+---
+
+## Why are economic development and political development correlated?
+
+Richer[^1] countries are more likely to be democratic.
+
+[^1]: Defining rich as higher total national income (GDP) or as higher median income
+
+Democratic countries are more likely to be rich.
+
+Why?
+
+## Why are economic development and political development correlated?
+
+General Possibilities:
+
+Democracy leads to economic development.
+
+Economic development leads to democratization.
+
+Something else leads to both.
+
+## Why might democracy cause economic growth?
+
+## Why might democracy cause economic growth?
+
+1.  Constraining the executive secures investment
+2.  Political stability secures investment
+3.  Democratic focus on public goods (selectorate theory) improves investment climate
+
+## Why might economic growth lead to democratization?
+
+## Why might economic growth lead to democratization?
+
+Modernization theory: economic security allows people to consider nonmaterial desires
+
+-   Similar to Maslow's hierarchy of needs from psychology
+
+                  1. Physical needs
+                  2. Security needs
+
+                  3m. Maslow: Love and belonging, Self-esteem, self-actualization
+                  3p. Politics: Civil society belonging, participation, self-determination, freedom
+
+    ======= 3. Other needs: Freedom, self-determination, self-government
+
+-   Political participation has costs
+
+                  + Dictator's Handbook rules
+
+## What other factors might contribute to both?
+
+Next week!

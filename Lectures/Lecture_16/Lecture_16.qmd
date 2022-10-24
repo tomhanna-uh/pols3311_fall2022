@@ -1,57 +1,140 @@
 ---
-title: "Lecture 16"
+title: "Lecture_15"
 format: revealjs
 editor: visual
 ---
 
-## Why are economic development and political development correlated?
+## Announcements
 
-Richer[^1] countries are more likely to be democratic.
+-   For the rest of the semester, heavy discussion
 
-[^1]: Defining rich as higher total national income (GDP) or as higher median income
+                  + Each class session will have some posted questions
+                  + These questions will be the basis for paper topics/prompts
+                  + Everyone should come to class prepared to discuss the questions with consideration to the readings
+                  + Remember - coming with questions based on the readings is GOOD
+                  + Those writing on the topics should come to class with questions and with thoughts on possible answers to the questions given
 
-Democratic countries are more likely to be rich.
+-   Readings are moving to Course Reserves in Blackboard
 
-Why?
+                  + Accessibility issue with journal articles
+                  + New readings will only be there
+                  + Other readings will be moved there soon
+                  
+- New Extra Credit Assignment
+- All Extra Credit due November 30 or earlier
 
-## Why are economic development and political development correlated?
+## Quiz
 
-General Possibilities:
+                1. Selectorate theory is concerned with the relative size of the selectorate and the ________ _______? (Two words, only one right answer)
+                2. The main motivation of nondemocratic leaders (and democratic leaders as well), is ________. (This is fill in the blank - a single word or two will work.)
+                3. Jessica Weeks typology of dictators is based on two dimensions, both commonly used in analyzing leader behavior. One is the leader's domestic audience. The other is ___________ _________. (One or two words.)             
+                4. An important modern version of oligarchy is _______ ______ rule.
+                5. Geddes, Frantz, and Wright an important means of classifying autocracies. Under her system, a regime in which the "control over policy, leadership selection, and the military apparatus" is in the hands of the military as an institution is a ___________ dictatorship. If the control is in the hands of a royal family the dictatorship is a ________. (Geddes et al, p.318, 2014)
+                
+                
 
-Democracy leads to economic development.
+## Recap
 
-Economic development leads to democratization.
+-   There are a wide variety of nondemocracies
 
-Something else leads to both.
+-   Categorizing nondemocracies can be done many ways
 
-## Why might democracy cause economic growth?
+                  + traditional terms - oligarchy, monarchy
+                  + by relative size of winning coalitions (selectorate theory)
+                  + By specific institutions (Geddes et al)
+                  + By domestic audiences and executive constraints (Weeks)
+                  + Other categories are possible including...
 
-## Why might democracy cause economic growth?
+-   Nondemocracies vary widely in their use of elections, party systems, legislatures, and judges
 
-1.  Constraining the executive secures investment
-2.  Political stability secures investment
-3.  Democratic focus on public goods (selectorate theory) improves investment climate
+## Why do nondemocracies hold elections?
 
-## Why might economic growth lead to democratization?
+## Why do nondemocracies hold elections?
 
-## Why might economic growth lead to democratization?
+<p style="background-color: #f1f1f1; color: crimson; font-weight: bold; font-size: 80px">
 
-Modernization theory: economic security allows people to consider nonmaterial desires
+To preserve the power of the regime leadership!
 
--   Similar to Maslow's hierarchy of needs from psychology
+</p>
 
-                  1. Physical needs
-                  2. Security needs
+## Why do nondemocracies hold elections?
 
-                  3m. Maslow: Love and belonging, Self-esteem, self-actualization
-                  3p. Politics: Civil society belonging, participation, self-determination, freedom
+<p style="background-color: #f1f1f1; color: crimson; font-weight: bold; font-size: 30px">
 
-    ======= 3. Other needs: Freedom, self-determination, self-government
+To consolidate and preserve the power of the regime
 
--   Political participation has costs
+</p>
 
-                  + Dictator's Handbook rules
+-   Signaling - high percentage = power and legitimacy
 
-## What other factors might contribute to both?
+-   Outlet for opposition - appease or coopt (better than repression)
 
-Next week!
+-   To gauge internal public opinion
+
+-   To elect multiparty legislatures
+
+                  + Tightly controlled entrance
+                  + Degree of "free and fair" varies
+                  + Why allow legislative opposition? How much?
+
+## Why do nondemocracies allow legislative opposition?
+
+## Why do nondemocracies allow legislative opposition?
+
+<p style="background-color: #f1f1f1; color: crimson; font-weight: bold; font-size: 80px">
+
+To consolidate and preserve the power of the regime leadership!
+
+</p>
+
+## Why do nondemocracies allow legislative opposition?
+
+<p style="background-color: #f1f1f1; color: crimson; font-weight: bold; font-size: 30px">
+
+To preserve the power of the regime
+
+</p>
+
+-   Signaling
+
+-   Outlet for opposition
+
+-   Actual legislation
+
+                  + Leadership has narrow concerns
+                  + Allow actual debate 
+                  + Create binding enforceable laws
+                  + Dictator can choose which to enforce
+                  + Dictator probably will enforce some
+
+## Other institutions
+
+-   Formal
+
+                  + Judiciary
+                  + Central Banks
+                  + Electoral commissions ??
+                  + Lower level governments (federal / confederal)
+                  + Treaty commitments
+
+-   Informal
+
+                  + Traditional constraints (such as unwritten ethnic or religious selection rules)
+                  + International investors
+                  + Opposition Press
+                  + Civil society groups - religious
+                  + Civil society groups -schools and universities
+                  + Civil society groups - cultural institutions
+                  + Civil society groups - professional associations
+                  + Other civil society groups
+
+## Questions for next three classes
+
+-   Why are economic development and political development correlated? That is, why are richer countries more likely to be democratic. (Wednesday)
+
+                  + Why might democracy cause economic growth?
+                  + Why might economic development cause democracy?
+
+-   What cultural / historical factors can help explain both higher levels of political and economic development?
+
+-   What geographic factors might influence economic and political development and why?
