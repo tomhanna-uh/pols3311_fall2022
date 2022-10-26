@@ -28,9 +28,29 @@ Something else leads to both.
 
 ## Why might democracy cause economic growth?
 
-1.  Constraining the executive secures investment
-2.  Political stability secures investment
-3.  Democratic focus on public goods (selectorate theory) improves investment climate
+1. Security for investment^[It is important to understand that investment doesn't just include business investment. Personal investment in education and skill building are affected by the same incentives and disincentives.]
+        
+        1. Constraining the executive creates security against the state
+        2.  Political stability - democracy reduces civil strife
+        
+2.  Selectorate theory
+3.  Stationary bandit incentives
+
+## Selectorate Theory
+
+1. Democratic leaders satisfy W with public goods
+2. Reduce costs of private production - improvements in public goods 
+2. Improves investment security - security as public good 
+3. Both - shifting from redistribution of private goods from S to W, to general investment in public goods 
+
+## Stationary Bandit incentives
+
+"democratic political leaders are just as self-interested as the stationary bandit and will use any expedient to obtain majority support"^[(Olson 1993, p.570)]
+
+Making the electorate better off improves re-election chances^[ibid.]
+
+1. Leaders have incentive to invest in public goods to ensure future growth
+2. Protection creates incentives for citizens to invest more 
 
 ## Why might economic growth lead to democratization?
 
