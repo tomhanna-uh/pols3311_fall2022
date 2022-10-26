@@ -4,6 +4,14 @@ format: revealjs
 editor: visual
 ---
 
+## Quiz Answers
+
+                1. Selectorate theory is concerned with the relative size of the selectorate and the ________ _______? (Two words, only one right answer) WINNING COALITION
+                2. The main motivation of nondemocratic leaders (and democratic leaders as well), is ________. (This is fill in the blank - a single word or two will work.) POWER
+                3. Jessica Weeks typology of dictators is based on two dimensions, both commonly used in analyzing leader behavior. One is the leader's domestic audience. The other is ___________ _________. (One or two words.)    EXECUTIVE CONSTRAINTS (CONSTRAINT(S) is the key word)         
+                4. An important modern version of oligarchy is _______ ______ rule. SINGLE PARTY
+                5. Geddes, Frantz, and Wright an important means of classifying autocracies. Under her system, a regime in which the "control over policy, leadership selection, and the military apparatus" is in the hands of the military as an institution is a ___________ dictatorship. If the control is in the hands of a royal family the dictatorship is a ________. (Geddes et al, p.318, 2014)  MILITARY,MONARCHY or HEREDITARY MONARCHY
+
 ## Why are economic development and political development correlated?
 
 Richer[^1] countries are more likely to be democratic.
