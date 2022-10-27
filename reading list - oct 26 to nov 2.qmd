@@ -4,35 +4,70 @@ format: html
 editor: visual
 ---
 
-## Required (Oct 26)
-
-Geddes, Barbara. "What Causes Democratization." from the Oxford Handbook of Comparative Politics. (In Course Reserves)
-
-                + Pages 1 through 4 are required
-                +You do not need to read this word for word, but should be familiar with major ideas throughout the paper. That is, each of the major headings is worth familiarizing yourself with.
-                
-Treisman, Daniel. "Economic Development and Democracy: Predispositions
-and Triggers." 
-
-                + Abstract, introduction, and conclusion minimum 
-                + Look at the tables, charts, and graphics, and their explanations throughout.
-                + Read Treisman's explanations of traditional modernization theory and understand his alternative, "conditional modernization theory." 
-                + What is Treisman's major claim?
-                + This paper gives an excellent overview of existing theories and debates in the first three to four pages.It is quite readable. 
-                + If there are statistical issues you find difficult, you can skip them. 
-
 ## Required
 
+-   Geddes, Barbara. "What Causes Democratization." from the *Oxford Handbook of Comparative Politics*. (In Course Reserves)
+
+                  + Pages 1 through 4 are required
+                  +You do not need to read this word for word, but should be familiar with major ideas throughout the paper. That is, each of the major headings is worth familiarizing yourself with.
+
+-   Treisman, Daniel. "Economic Development and Democracy: Predispositions and Triggers." *Annual Review of Political Science*. Vol. 23:241-257 (Volume publication date May 2020)
+
+                  + Abstract, introduction, and conclusion minimum 
+                  + Look at the tables, charts, and graphics, and their explanations throughout.
+                  + Read Treisman's explanations of traditional modernization theory and understand his alternative, "conditional modernization theory." 
+                  + What is Treisman's major claim?
+                  + This paper gives an excellent overview of existing theories and debates in the first three to four pages.It is quite readable. 
+                  + If there are statistical issues you find difficult, you can skip them. 
+
+-   Olson, Mancur. "Dictatorship, Democracy, and Development." *The American Political Science Review*. Vol. 87, No. 3 (Sep., 1993), pp. 567-576 (10 pages)
+
+                  + The roving and stationary bandits paper.Introduction, abstract, and conclusion. We went over this paper earlier in the semester. Please revisit it.
 
 ## Recommended
 
-Weingast, Barry. "Capitalism, Democracy, and Countermajoritarian Institutions." Introduction, abstract, conclusion
+-   Abramson, Scott F. and Carles Boix. 2019. "Endogenous Parliaments: The Domestic and International Roots of Long Term Economic Growth and Executive Constraints in Europe." International Organization, 73: 793-837.
 
-Olson, Mancur. "Dictatorship, Democracy, and Development." The roving and stationary bandits paper. 
+                  + Argues that both economic and political development were the result of urbanization. As urbanization increased, artisan production and commerce led to increased literacy, urban self governance, and robust civil society groups with real power. 
 
+-   Weingast, Barry. "Capitalism, Democracy, and Countermajoritarian Institutions." Introduction, abstract, conclusion.
 
+                  + This is an important, well written piece explaining the importance of countermajoritarian institutions for the health of democracy. 
 
-## Paper and background resources
+-   Spater, Jeremy and Isak Tranvik. 019. "The Protestant Ethic Reexamined: Calvinism and Industrialization." Comparative Political Studies, 52(13-14): 1963--1994.
 
-Cox, Gary and Barry Weingast. "Executive Constraint, Political Stability, and Economic Growth". Background material on executive constraints and democracy. Cox and Weingast find that executive accountability to the legislature is more important for stability during leader turnover than is direct accountability to the people through elections. 
+                  + This research examines the idea of Protestant economic success by comparing Protestant and Catholic cantons of Switzerland and, using some newer statistical techniques to control for other differences, find that Protestant cantons outperformed Catholic ones during the industrial revolution.
 
+-   Tabellini, Guido. 2010. "Culture and Institutions: Economic Development in the Regions of Europe." Journal of the European Economic Association, 8(4): 677-716.
+
+                  +This article presents another look at differences in European regions based on culture and find that the medieval historical legacy of culture  has a strong effect even after controlling for factors like literacy rates  in the 1800s and more recent political institutions. 
+
+-   Alesina, Alberto and Paola Giuliano. 2015. "Culture and Instutitons." Journal of Economic Literature 53(4): 898-944.
+
+                  + While recognizing the effects of culture on development, Alesina and Giuliano place the causal mechanism in institutions. The reason for culture's effects is the way it shapes institutions. 
+
+## For paper writers and future reading
+
+-   *The Narrow Corridor: States, Societies, and the Fate of Liberty* Acemoglu, Daron, and James Robinson. 2020. New York: Penguin Press.
+
+                  + In this book, A&R argue that the path to a liberal economic and political order is narrow, requiring a tension between a strong state and a strong civil society. A strong state without strong civil society is unconstrained and becomes a tyranny. A weak state with strong civil society leads to a "cage of norms," where cultural norms become a non-state tyranny. Weakness on both fronts leads to failed states that can't protect against violence. A strong state, strong civil society combination produces a state capable of reducing violence and protecting rights while constrained enough to avoid tyranny that *may* become a liberal society.
+
+-   "Violence and the Rise of Open-Access Orders" (North, Wallis, and Weingast 2009).
+
+                  + In this and a series of other papers, North, Wallis, and Weingast develop a system for analyzing the development of human society based on the role of the state in limiting violence. They argue that early, autocratic suppression of violence was done with "limited access order" which monopolized legitimate force in a hierarchical system where only the elite had access to privileges and governance. Limited access orders were highly personalized, with elite status in the hierarchy based on individual identity. Open access orders arose in the 19th century and were impersonal, with legal and economic rights less and less dependent on individual identity and more on impersonal characteristics such as ability or resources and impersonal systems of rights and laws. Economically these systems generally outcompete limited access orders, encouraging both economic growth and the evolution of even more open access.  
+
+*Law, Legislation and Liberty, Vol. 1 Rules & Order*. Hayek, F. A., 1978. "Law, Legislation and Liberty, Volume 1," University of Chicago Press Economics Books, University of Chicago Press, number 9780226320861, December.
+
+                + In this first volume of Hayek's Law, Legislation and Liberty, he analyzes the concept of spontaneous order, using the English common law as an example. Hayek argues that that the creation of legal systems is an evolutionary process, subject to natural selection. He argues that in the early common law system judges found laws from the pattern of existing private arrangements rather than legislating. This bottom up, spontaneous approach led to evolutionary advantage for common law countries compared to more rigid top down systems based on civil law. 
+
+-   *Making Democracy Work: Civic Traditions in Modern Italy*. Putnam RD, Leonardi R, Nanetti R. Making Democracy Work: Civic Traditions in Modern Italy. Princeton: Princeton University Press; 1993.
+
+                  + In this book, Putnam analyzes the differences between North-Central and Southern Italy across 26 new government regions established in 1970. The regions share the same current institutional characteristics, but have differing historical cultures. North and Central Italy in the early middle ages were locally ruled Republics ruled by councils and with robust civil society organizations. Southern Italy was ruled by feudal overlords, often imposed from abroad, and had little self-governance or civil society tradition. Putnam found that even with similar current institutions the outcome, especially as measured economically, was more favorable in North-Central Italy.
+
+-   Cox, G. W., & Weingast, B. R. (2018). Executive Constraint, Political Stability, and Economic Growth. Comparative Political Studies, 51(3), 279--303. https://doi.org/10.1177/0010414017710254
+
+                  + Background material on executive constraints and democracy. Cox and Weingast find that executive accountability to the legislature is more important for stability during leader turnover than is direct accountability to the people through elections.
+
+-   Inglehart, Ronald F. 2018. Cultural Evolution: People's Motivations are Changing and Reshaping the World. New York: Cambridge University Press.
+
+                  + Most recent work by a senior scholar of modernization theory. Argues that postmodern values - environmentalism, gender equality, and  acceptance of same sex marriage, for example - are driven by the same dynamic that drove political modernization to democracy. 

@@ -1,0 +1,145 @@
+---
+title: "Lecture_18"
+format: revealjs
+editor: visual
+---
+
+## Recap
+
++ Democracies tend to be richer compared to autocracies
++ Poor countries are less likely to become democratic
++ Explanation 1: Democracy contributes to economic growth by
+
+                + Helping secure investment, broadly defined
+                + Shifting from redistribution to public goods
+                + Self-limiting expropriation: The "stationary bandit" of government has to worry about re-election 
+                
++ Economic growth contributes to democratization because:
+
+                + Physical needs have to be met before higher political aspirations become serious goals
+                + Political participation takes resources
+                
++ Other factors
+
+## Other factors
+
+Other factors include:
+
++ <p style="color:red;">Entirely different explanations of each</p> 
++ <p style="color:green;">Democratization is caused by economic development conditional on another factor</p>
+
++ <p style="color:green;">Some other factor causes both</p>
+
+
+## Something else
+
+"...events during critical historical junctures can lead to divergent political–economic development paths, some leading to prosperity and democracy, others to relative poverty and non-democracy."^[Daron Acemoglu and James Robinson. "Reevaluating the Modernization Hypothesis." 2009.]
+
+What are those paths? What is the something else?
+
+## Something else
+
++ Cultural - Norms
++ Cultural - Institutions
++ Geographic / Resources
++ Evolutionary process
+
+## Something else: Cultural - Norms
+
++ Protestantism (example)
+
+                + Protestant countries/regions outperform Catholic ones on both economic and political development
+
++ This is a measurable effect, but why?
+
+## Something else: Cultural - Norms
+
++ Protestantism (example)
+
+                + Protestant countries/regions outperform Catholic ones on both economic and political development
+               
++ This is a measurable effect, but why?
+
++ Norms based explanations (better behavior)
+
+                + Work ethic 
+                + Focus on individual
+                + Importance of literarcy 
+                
+                
+Other possibilities?
+
+## Something else: Cultural - Norms
+
++ Protestantism (example)
+
+                + Protestant countries/regions outperform Catholic ones on both economic and political development
+                
++ This is a measurable effect, but why?
+
++ Norms based explanations
+
+                + Work ethic
+                + Focus on individual
+                + Importance of literarcy 
+                
+Other possibilities?
+
++ Differences in institutions
+
+
+
+## Something else: Cultural - Institutions
+
+*Making Democracy Work*. Robert Putnam 1993.
+
++ Comparative Study of North-Central and Southern Italy
++ Examines 26 regional governments established in 1970 with similar institutions
++ Northern and Central Italy had self-governance and robust civil society institutions historically
++ Southern Italy had feudal government without robust civil society
++ North-Central Italy performs better economically post-1970
+
+## Something else: Geographic/Resources
+
++ Resources have mixed effects
++ May empower dictators
++ Increase wealth directly
++ Do not improve civil society institutions
+
+## Something elce: Urbanization
+
++ People move to cities
++ More commerce
++ Literacy important for commerce
++ Trade groups important for commerce 
++ Proto-democratic town councils
++ Parallel economic and political development
+
+(Abramson and Boix 2019)
+
+
+## Something else: Evolutionary process
+
+Open access order development  (North, Wallis, and Weingast 2009)
+
+                + Autocracy develops to control violence
+                + Constraining institutions develop in autocracy
+                + Strong but constrained autocracies perform best economically
+                + The most constrained are also closest to democracy
+                + End stage is "open access social orders"
+
+The Narrow Corridor (Acemoglu and Robinson 2019)
+
+                + strong government with strong civil society constraints required to end up with a free society
+                + Strong government provides security
+                + Informal (civil society) constraints provide security against government
+                + Allows for both economic and political development
+
+Spontaneous order (Hayek 1972) - Law, Legislation and Liberty, Vol. 1 Rules & Order 
+
+                + Hayek's model is English common law
+                + Under common law, law is found not made
+                + Spontaneous development of contract into institutions
+
+
+
