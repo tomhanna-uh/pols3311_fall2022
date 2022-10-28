@@ -6,6 +6,10 @@ editor: visual
 
 ## Required
 
+- Putnam, Robert D. "What makes democracy work?" IPA Review, Vol. 47 No. 1, 1994. Pages 31-34. 
+
+                + In this article Putnam briefly explains the comparative study in his 1993 book with Leonardi and Nanetti on cultural institutions in Italy, and applies it to the concerns of revitalizing modern democracy. 
+
 -   Geddes, Barbara. "What Causes Democratization" from the *Oxford Handbook of Comparative Politics*. (In Course Reserves)
 
                    + Pages 1 through 4 are required
