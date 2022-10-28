@@ -44,6 +44,10 @@ Other factors include:
     Some other factor causes both
 
     </p>
+    
+## Other factors: Conditional Modernization
+
+![Likelihood of regime change at change of leader](treisman_figure3.png)
 
 ## Something else
 
@@ -115,12 +119,16 @@ Other possibilities?
 ## Something else: Geographic/Resources
 
 -   Resources have mixed effects
+
 -   May empower dictators
+
 -   Increase wealth directly
+
 -   Do not improve civil society institutions
 
-- Comparison of resource rich Zambia to resource poor South Korea 
-- Hong Kong and Singapore
+-   Comparison of resource rich Zambia to resource poor South Korea
+
+-   Hong Kong and Singapore
 
 ## Something elce: Urbanization
 
