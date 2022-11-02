@@ -4,6 +4,17 @@ format: revealjs
 editor: visual
 ---
 
+## Notes
+
+- Academic Honesty Policy - required
+- Next week reading and discussion
+
+        + No reading for Monday
+        + I'll be going through works on autocracy promotion to illustrate more of the research process
+        + There will be an extra credit assignment related to this using your scientific research questions
+        + Reading for Wednesday posted this weekend
+        + Discussion questions posted same time as readings
+
 ## Recap
 
 + Democracy and national income are highly correlated
