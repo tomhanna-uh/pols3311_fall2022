@@ -1,9 +1,14 @@
 ---
+<<<<<<< HEAD
 title: "Lecture 19 - November 9"
+=======
+title: "Lecture 19"
+>>>>>>> 75ff4cddd94763984d4a77f39eb019f90ff83e5e
 format: revealjs
 editor: visual
 ---
 
+<<<<<<< HEAD
 ## Assignments
 
 + Academic honesty policy Blackboard test is two points which counta as extra credit but WAS REQUIRED. If you did not complete it, these are the options:
@@ -64,4 +69,58 @@ Autocracy Promotion
 + Venezuela
 + Turkey
 + Malawi and Zambia
+=======
+## Notes
+
+- Academic Honesty Policy - required
+- Next week reading and discussion
+
+        + No reading for Monday
+        + I'll be going through works on autocracy promotion to illustrate more of the research process
+        + There will be an extra credit assignment related to this using your scientific research questions
+        + Reading for Wednesday posted this weekend
+        + Discussion questions posted same time as readings
+
+## Recap
+
++ Democracy and national income are highly correlated
+        
+                + Some theories suggest democracy leads to economic development  - security of investment
+                + Some theories suggest economic development leads to democracy - notably Modernization Theory
+                + Other theories suggest something else causes both - urbanization, culture, historical path dependence 
+                
++ Cultural factors example was Puritanism with its emphasis on the individual
+
+## Recap 2
+
++ Other ideas - Some process protects and expands individual liberty in an evolutionary, parallel process
+
+        + North, Wallis and Weingast - Controlling violence and open access social orders
+        + Acemoglu and Robinson's - Narrow Corridor
+        + Mokyr - depersonalization, freedom to innovate economically
+        + McCloskey - Bourgeois Dignity, freedom to innovate economically and politically
+
+        
+## Discussion: Brazil election
+
+## Daron Acemoglu on The Narrow Corridor
+
+[Interview with Daron Acemoğlu on “The Narrow Corridor: States, Societies and the Fate of Liberty”](https://www.youtube.com/watch?v=vGbYbx_aKK8 )   
+
+## Joel Mokyr 1
+
+[Joel Mokyr on the importance of non-conformism and freedom of thought](https://www.youtube.com/watch?v=SxEV2JSmfrc) 
+
+## Deirdre McCloskey
+
+[McCloskey Explaining the Great Enrichment](https://www.youtube.com/watch?v=4x1uZESt5n0)
+
+## Joel Mokyr 2
+
+[Joel Mokyr "Every act of innovation is by definition an act of rebellion..."](https://www.youtube.com/watch?v=HNc5FQ2z4YU)
+
+
+
+
+>>>>>>> 75ff4cddd94763984d4a77f39eb019f90ff83e5e
 
