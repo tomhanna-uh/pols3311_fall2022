@@ -4,14 +4,34 @@ format: revealjs
 editor: visual
 ---
 
+## Recap
+
+Two points on the material from last Wednesday.
+
+1. These videos summarized the author's conclusions. 
+
+                + Anyone can make a video and make claims
+                + Their studies have the detailed theories and actual scientific evidence
+                + The evidence is in their hypotheses, data and methods not a video
+                + Mokyr - extensive studies of economic history
+                + McCloskey - case studies and quantitative analysis
+                + Acemoglu and Robinson - multiple rigorous, cross-national, quantitative studies
+
+2. Different approaches, different conclusions
+                
+                + Mokyr - technology and the attitude of innovation
+                + McCloskey - individual liberty
+                + Acemoglu and Robinson - strong state, strong civil society, competing and cooperating
+
 ## Assignments
 
-+ Academic honesty policy Blackboard test is two points which counta as extra credit but WAS REQUIRED. If you did not complete it:
++ Academic honesty policy Blackboard test is two points which counta as extra credit but agreeing to the Academic Honesty Policy is required. Today's quiz is a second chance. After that, the options will be:
 
-                1. Write a paragraph on why academic honesty matters. State that you have read the academic honesty policy. Sign a statement in your own words agreeing to abide by the policy. Turn this in, on paper before November 16.
-                2. This is required to receive a grade on the final. 
-                3. This possibility was addressed in the syllabus.
-                4. Drop deadline is November 16, 2022
+                + An essay on why Academic Honesty is still important in the Age of Google Search.
+                + A written statement in your own words agreeing to follow the Policy, signed. 
+                + Both of the above in writing, on paper, handed to me personally on a day you attend class. 
+
+
                 
 ## Quiz
 

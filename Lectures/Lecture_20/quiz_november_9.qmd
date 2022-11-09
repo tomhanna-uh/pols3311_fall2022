@@ -4,40 +4,44 @@ format: html
 editor: visual
 ---
 
-## Your name _______________
+## Your name \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1. In Susan Hyde's article "Democracy’s backsliding in the international environment," she had a figure which showed the total number of "elections with government harassment of opposition and/or media bias in favor of the incumbent" ________________ after 2010, while the total number of elections began to level off in the same period. (one word)
+1.  In Susan Hyde's article "Democracy's backsliding in the international environment," she had a figure which showed the total number of "elections with government harassment of opposition and/or media bias in favor of the incumbent" \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ after 2010, while the total number of elections began to level off in the same period. (one word)
 
-2. In recent years, according to Norris, "Millenials in Anglo-American democracies express ______________ support for democratic values, but this	is not a consistent	pattern	across Western democracies and post-industrial societies." (one word)
+2.  In recent years, according to Norris, "Millenials in Anglo-American democracies express \_\_\_\_\_\_\_\_\_\_\_\_\_\_ support for democratic values, but this is not a consistent pattern across Western democracies and post-industrial societies." (one word)
 
-3. Norris says the data from Freedom  House shows that "the quality of institutions	protecting	political rights and civil liberties deteriorated" from 1972 to 2016, with the greatest erosion happening in:
+3.  Norris says the data from Freedom House shows that "the quality of institutions protecting political rights and civil liberties deteriorated" from 1972 to 2016, with the greatest erosion happening in:
 
-                a. democracices
-                b. hybrid regimes
-                c. closed autocracies
-                d. hereditary monarchies
+                 a. democracices
+                 b. hybrid regimes
+                 c. closed autocracies
+                 d. hereditary monarchies
 
-4. Norris claims two related trends are the greatest threat to democracies. First are "sporadic and random terrorist attacks on domestic soil, which damage feelings of security," and second is "the rise of _____________________ forces, which feed upon these fears." (two words)
+4.  Norris claims two related trends are the greatest threat to democracies. First are "sporadic and random terrorist attacks on domestic soil, which damage feelings of security," and second is "the rise of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ forces, which feed upon these fears." (two words)
 
-5. In laying out the conditions for democractic backsliding, Norris draws on Linz and Stepan's *Problems of Democratic Transition and Consolidation*, which proposes three conditions for democratic consolidation. Which of these is NOT one of the conditions:
+5.  In laying out the conditions for democractic backsliding, Norris draws on Linz and Stepan's *Problems of Democratic Transition and Consolidation*, which proposes three conditions for democratic consolidation. Which of these is NOT one of the conditions:
 
-                a. Cultural
-                b. Economic
-                c. Constitutional
-                d. Behavioral
+                 a. Cultural
+                 b. Economic
+                 c. Constitutional
+                 d. Behavioral
 
-6. Which of the following is an example of an informal institution?
+6.  Which of the following is an example of an informal institution?
 
-                a. Opposition press
-                b. central banks
-                c. the judiciary
-                d. treaty commitments
+                 a. Opposition press
+                 b. central banks
+                 c. the judiciary
+                 d. treaty commitments
 
-7. In analyzing behavior, what is the primary motivation that overwhelmingly explains the behavior of politicians in both democratic and non-democratic societies?
+7.  In analyzing behavior, what is the primary motivation that overwhelmingly explains the behavior of politicians in both democratic and non-democratic societies?
 
-                a. the greater good
-                b. power
-                c. nationalism
-                d. ideology
+                 a. the greater good
+                 b. power
+                 c. nationalism
+                 d. ideology
+                 
 
++ I agree to abide by the University of Houston Academic Policy. https://uh.edu/provost/policies-resources/honesty/ I further agree that actually lying to the instructor, including in an email, about matters relevant to the course falls under the category of "Any other conduct which a reasonable person in the same or similar circumstances would recognize as dishonest or improper in an academic setting."
 
+                + Sign _________________________
+                + Date _________________________
