@@ -17,7 +17,31 @@ editor: visual
 
 ## Theory and hypothesis formation
 
-Autocracy Promotion
+Scientific method:
+
+1. Define a research question
+2. Make predictions - hypothesis
+3. Gather data
+
+         + Experiments
+         + Observations 
+4. Analyze the data to test the hypothesis
+5. Draw conclusions
+
+## Theory and hypothesis formation
+
+2. Make predictions - hypothesis
+
+We draw on existing work
+
+                + Literature search
+
+Formulate a theory to explain the question
+
+Build hypothesis that, if false, show the theory to be false^[at least the theory as stated is false. It may be that it needs modified or there are conditions. If so, the theory can be restated, new hypotheses made, and tested **with new data**.]
+
+
+Example: Autocracy Promotion
 
 
 
