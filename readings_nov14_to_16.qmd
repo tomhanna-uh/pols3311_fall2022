@@ -1,0 +1,58 @@
+---
+title: "Conflict, Globalization, and Trade"
+format: html
+editor: visual
+---
+
+## Required
+
+Democratic peace. (2011). In T. Diez, I. Bode, & Aleksandra Fernandes (Eds.), SAGE key concepts series: key concepts in international relations. Sage UK. Credo Reference: https://search-credoreference-com.ezproxy.lib.uh.edu/content/entry/sageukkcinre/democratic_peace/0
+
+This explanation of the key concepts of the democratic peace is available in the UH Library Search. Key things to understand: Democratic Peace Theory does not say that democracies don't fight wars. It does not say that democracies don't start wars. It does not even say that they start less wars. It says they don't start wars *with other democracies*. 
+
+Falvey, R. (2002). Comparative advantage. In B. Snowdon, & H. R. Vane (Eds.), An encyclopedia of macroeconomics. Edward Elgar Publishing. Credo Reference: https://search-credoreference-com.ezproxy.lib.uh.edu/content/entry/elgarme/comparative_advantage/0
+
+(Same source as above, available through UH library search)
+
+Explains the concept of comparative advantage developed by 19th century economist David Ricardo. The concept is that even when a country can produce every good at lower cost than importing the good, differences in the ability to produce specific goods can make it more efficient to produce some goods and import others. If a country is more efficient at producing one good than another, it can increase its total welfare by concentrating resources where they are more efficiently used even if it requires importing goods where the country holds an absolute advantage. 
+
+Mousseau, Michael. “The Contractualist Peace Supersedes the Democratic Peace.” Conflict Management and Peace Science 35, no. 2 (2018): 175–92. https://www.jstor.org/stable/26391022
+
+Abstract. Pages 175-first half of 177; Conclusion 187-189. Argues that it is "contractualist economy" that explains the democratic peace, not the political nature of democracy.
+
+Gartzke, Erik. “The Capitalist Peace.” American Journal of Political Science 51, no. 1 (January 2007): 166–91. https://doi.org/10.1111/j.1540-5907.2007.00244.x
+
+Abstract, conclusion. Argues that the Liberal Peace is not a Democratic Peace but in fact a Capitalist Peace. By aligning the interests of states, global capital and trading markets remove the incentive for war and create disincentives for war. 
+
+
+Dollar, D. “Globalization, Poverty, and Inequality since 1980.” The World Bank Research Observer 20, no. 2 (August 11, 2005): 145–75. https://doi.org/10.1093/wbro/lki008
+
+Abstract, conclusion. Examines the record of globalization in reducing poverty and inequality from 1980 to the early 2000s. 
+
+Comparative Advantage: https://en.wikipedia.org/wiki/Comparative_advantage
+
+
+Recommended: 
+
+James Meernik. “United States Military Intervention and the Promotion of Democracy.” Journal of Peace Research 33, no. 4 (1996): 391–402. http://www.jstor.org/stable/424565
+
+Abstract, page 391-392 and conclusion. Democratic peace maintains that democracies don't fight other democracies. On the other hand, the promotion of democracy has been a powerful cause of US military intervention abroad. But is it effective at promoting democracy?
+
+Prakash, Aseem, and Matthew Potoski. “Racing to the Bottom? Trade, Environmental Governance, and ISO 14001.” American Journal of Political Science 50, no. 2 (April 2006): 350–64. https://doi.org/10.1111/j.1540-5907.2006.00188.x
+
+Examines the idea that there is a global race to the bottom in environmental regulation encouraged by globalization. The authors find that, in the case of a specific set of environmental regulations, the effect is the opposite - with developing economies adopting the regulations to satisfy major trading partners. 
+
+Hainmueller, Jens, and Michael J. Hiscox. “Learning to Love Globalization: Education and Individual Attitudes toward International Trade.” International Organization 60, no. 02 (April 2006): 469–98. https://doi.org/10.1017/s0020818306060140
+
+The authors examine the reasons for the correlation between education levels and support for freer international trade. They argue that it is the exposure to economic ideas at college that causes the college educated to support international trade. 
+
+Baker, Andy. “Why Is Trade Reform So Popular in Latin America?: A Consumption-Based Theory of Trade Policy Preferences.” World Politics 55, no. 3 (April 2003): 423–55. https://doi.org/10.1353/wp.2003.0014
+
+Uses the case of Latin America to argue that support for free trade may come less from increased earning power than from increased consumption power. 
+
+
+Timmer, Ashley S., and Jeffrey G. Williams. “Immigration Policy Prior to the 1930s : Labor Markets , Policy Interactions , and Globalization Backlash.” Population and Development Review 24, no. 4 (1998): 739–71. https://www.jstor.org/stable/2808023%0AJSTOR
+
+Chatagnier, J. Tyson, and Emanuele Castelli. “A Modern Peace? Schumpeter, the Decline of Conflict, and the Investment–War Trade-Off.” Political Research Quarterly 69, no. 4 (December 1, 2016): 852–64. https://doi.org/10.1177/1065912916670270
+
+
