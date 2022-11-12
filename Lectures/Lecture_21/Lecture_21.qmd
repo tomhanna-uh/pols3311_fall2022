@@ -10,12 +10,11 @@ editor: visual
 
 -   Interplay between domestic and international politics
 
-                  1. Democratic peace is interesting in comparative politics as a consistent difference between democratic and non-democratic regimes, a tangible outcome of democratization.
+                  1. Democratic peace is a consistent difference between democratic and non-democratic regimes.
                   2. Trade and globalization policies affect international relations. Trade and globalization have domestic effects
+                  3. Globalization/trade may play a role in the DP.
 
 -   Comparative politics is a method of examining politics - IR uses the method.
-
-
 
 ## What is the Democratic Peace?
 
@@ -23,14 +22,12 @@ Democratic Peace has been called "the closest thing to a law in the field of int
 
 What is this law?
 
-
 ## What is the Democratic Peace? What it is not
 
-+ Democratic Peace does not claim democracies are peaceful.
-+ Democratic Peace does not claim democracies are less likely to start wars.
-+ Democratic peace does not claim dictatorships are more aggressive.
-+ Democratic Peace makes no claims about justifications for war.
-
+-   Democratic Peace does not claim democracies are peaceful.
+-   Democratic Peace does not claim democracies are less likely to start wars.
+-   Democratic peace does not claim dictatorships are more aggressive.
+-   Democratic Peace makes no claims about justifications for war.
 
 ## What is the Democratic Peace?
 
@@ -50,52 +47,52 @@ There is no example of a large scale war between democracies
                 + India vs Pakistan
                 + World War I
 
-                
 ## What is the Democratic Peace? Not really exceptions
 
-+ Disputes negotiated short of war
-+ Example: Alaska boundary dispute
-                
-                + US vs Canada
-                + 1897-1898 Klondike Gold Rush
-                + Canada deployed RCMP
-                + American gold rushers forced RCMP retreat
-                + Canada deployed 200 army troops
-                + British-US arbitration: Hay-Herbert treaty of 1903
+-   Disputes negotiated short of war
+
+-   Example: Alaska boundary dispute
+
+                  + US vs Canada
+                  + 1897-1898 Klondike Gold Rush
+                  + Canada deployed RCMP
+                  + American gold rushers forced RCMP retreat
+                  + Canada deployed 200 army troops
+                  + British-US arbitration: Hay-Herbert treaty of 1903
 
 ## What is the Democratic Peace? Not really exceptions - War of 1812
 
-+ Not really democracies
-                
-                + Americans considered Britain a monarchy
-                + Is that true? Is it the full story?
-                
-                
+-   Not really democracies
+
+                  + Americans considered Britain a monarchy
+                  + Is that true? Is it the full story?
+
 ## What is the Democratic Peace? Not really exceptions - India vs Pakistan
 
 ![India Pakistan Timeline https://armscontrolcenter.org/](India-Pakistan-Timeline.jpg)
 
 ## What is the Democratic Peace? Not really exceptions - India vs Pakistan
 
-+ Not really democracies
-                
-                + Electoral autocracies
+-   Not really democracies
+
+                  + Electoral autocracies
 
 ![Pakistan Polity - Center for Systemic Peace](pakistan_polity.jpg)
 
-
 ## What is the Democratic Peace? Not really exceptions - US Civil War
 
-![US Civil War - African American Registry](American-Civil-War-Battle.jpg)
-**The North did not consider the South a democracy^[The South excluded roughly 30% of its adult male population from participation, not only in voting but in normal cultural, social, and economic partication. 30% of the population were considered property.]**
+![US Civil War - African American Registry](American-Civil-War-Battle.jpg) **The North did not consider the South a democracy**[^1]
+
+[^1]: **The South excluded roughly 30% of its adult male population from participation, not only in voting but in normal cultural, social, and economic partication. 30% of the population were considered property.**
 
 ## What is the Democratic Peace? Not really exceptions
 
-+ Disputes negotiated short of war
-+ Not really democracies
-                
-                + Electoral autocracies
-                + Slavery
+-   Disputes negotiated short of war
+
+-   Not really democracies
+
+                  + Electoral autocracies
+                  + Slavery
 
 ## What is the Democratic Peace? Not really exceptions - World War I
 
@@ -106,10 +103,8 @@ Were the Central Powers democracies?
                 + Kingdom of Bulgaria - militaristic from inception 
                 + Ottoman Empire - Single party regime, monarchy
                 
+
 Alliances complicated things further
-                
-
-
 
 ## What is the Democratic Peace? Not really exceptions
 
@@ -119,27 +114,24 @@ Alliances complicated things further
 
 There is no example of a large scale war between democracies
 
-+ Small incidents - unapproved by government
-+ Not democracies
-                + Electoral autocracies
-                + Slavery
-                + Women's suffrage
-                
+-   Small incidents - unapproved by government
+-   Not democracies + Electoral autocracies + Slavery + Women's suffrage
+
 ## Why is there a Democratic Peace?
 
-+ Democratic norms
-+ Democracies win the wars they fight
-+ Democratic leaders are answerable to the electorate
-+ Transparency improves bargaining
+-   Democratic norms
+-   Democracies win the wars they fight
+-   Democratic leaders are answerable to the electorate
+-   Transparency improves bargaining
 
-                
 ## Is democracy coincidental or essential?
 
-
-
-                
 ## Is democracy coincidental or essential?
 
-"democratic peace remains one of the most robust empirical associations in [International Relations]."^[Allan Dafoe, "Statistical Critiques of the Democratic Peace: Caveat Emptor"]
+"democratic peace remains one of the most robust empirical associations in \[International Relations\]."[^2]
 
-"...the resilience of the democratic peace...is important support for the view that democracy is an essential component  of the liberal peace. As the number of studies supporting the descriptive inference of the democratic peace continues to grow, the probability of a future study overturning this finding becomes increasingly less likely." ^[ibid.]
+[^2]: Allan Dafoe, "Statistical Critiques of the Democratic Peace: Caveat Emptor"
+
+"...the resilience of the democratic peace...is important support for the view that democracy is an essential component of the liberal peace. As the number of studies supporting the descriptive inference of the democratic peace continues to grow, the probability of a future study overturning this finding becomes increasingly less likely." [^3]
+
+[^3]: ibid.
