@@ -1,0 +1,17 @@
+---
+title: "Lecture_21"
+format: revealjs
+editor: visual
+---
+
+## Why international topics?
+
++ Comparative politics and international relations are two separate fields of political science. So, why examine international topics?
+
++ Interplay between domestic and international politics
+
+                1. Democratic peace is interesting in comparative politics as a consistent difference between democratic and non-democratic regimes, a tangible outcome of democratization.
+                2. Trade and globalization policies affect international relations. Trade and globalization have domestic effects
+                
++ Comparative politics is a method of examining politics - IR uses the method. 
+
