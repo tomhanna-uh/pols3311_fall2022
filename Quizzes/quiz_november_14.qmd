@@ -4,30 +4,47 @@ format: html
 editor: visual
 ---
 
-## Your Name _____________
+## Your Name \_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1. Democratic peace theory claims that:
+1.  Democratic peace theory claims that:
 
-a. Democracies are more peaceful than nondemocracies.
-b. Democracies are less likely to attack other countries than nondemocracies.
-c. Democracies do not attack other democracies.
-d. Democracies are less likely to be involved in interstate conflict, all else equal. 
+```{=html}
+<!-- -->
+```
+a.  Democracies are more peaceful than nondemocracies.
+b.  Democracies are less likely to attack other countries than nondemocracies.
+c.  Democracies do not attack other democracies.
+d.  Democracies are less likely to be involved in interstate conflict, all else equal.
 
-2. The following have all been put forward as part of the explanation for Democratic Peace except one:
+```{=html}
+<!-- -->
+```
+2.  The following have all been put forward as part of the explanation for Democratic Peace except one:
 
-a. Transparency improves the bargaining process
-b. Democracies are more likely to win wars they fight
-c. In democracies voters have to approve wars
-d. War is too costly to powerful business interests
+```{=html}
+<!-- -->
+```
+a.  Transparency improves the bargaining process
+b.  Democracies are more likely to win wars they fight
+c.  In democracies voters have to vote to approve wars
+d.  War is too costly to powerful business interests
 
+```{=html}
+<!-- -->
+```
+3.  Various scholars have claimed that the democratic peace is really a liberal peace, capitalist peace, industrialist peace, or contractualist peace. These notions argue that the relationship identified in the democratic peace is a \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ of democracies relationship with economic development and international trade.
 
-3. Various scholars have claimed that the democratic peace is really a liberal peace, capitalist peace, industrialist peace, or contractualist peace. These notions argue that the relationship identified in the democratic peace is a __________________ of democracies relationship with economic development and international trade.
+4.  A major motivation, or at least public justification, for many American military engagements has been the promotion of democracy. This \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ the Democratic Peace.
 
-4. A major motivation, or at least public justification, for many American military engagements has been the promotion of democracy. This _________________ the Democratic Peace.
+```{=html}
+<!-- -->
+```
+a.  disproves
+b.  proves
+c.  is not relevant to
+d.  is a requirement of
 
-a. disproves
-b. proves
-c. is not relevant to
-d. is a requirement of
-
-5. Several 19th century (1800s) engagements appear to have been between democracies, noteably the War of 1812. Name reasons these DO NOT conflict with the Democratic Peace. **Short phrases or single words only, no sentences or paragraphs.** Each reason is worth 1 point. 
+```{=html}
+<!-- -->
+```
+5.  Several 19th century (1800s) engagements appear to have been between democracies, noteably the War of 1812. Name reasons these DO NOT conflict with the Democratic Peace. **Short phrases or single words only, no sentences or paragraphs.** Each reason is worth 1 point up to 3.
