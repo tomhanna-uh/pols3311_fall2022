@@ -39,9 +39,8 @@ editor: visual
                  b. power
                  c. nationalism
                  d. ideology
-                 
 
-+ I agree to abide by the University of Houston Academic Policy. https://uh.edu/provost/policies-resources/honesty/ I further agree that actually lying to the instructor, including in an email, about matters relevant to the course falls under the category of "Any other conduct which a reasonable person in the same or similar circumstances would recognize as dishonest or improper in an academic setting."
+-   I agree to abide by the University of Houston Academic Policy. https://uh.edu/provost/policies-resources/honesty/ I further agree that actually lying to the instructor, including in an email, about matters relevant to the course falls under the category of "Any other conduct which a reasonable person in the same or similar circumstances would recognize as dishonest or improper in an academic setting."
 
-                + Sign _________________________
-                + Date _________________________
+                  + Sign _________________________
+                  + Date _________________________
