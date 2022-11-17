@@ -11,9 +11,18 @@ editor: visual
 -   Capitalist peace makes the benefit of trade to powerful elites central
 -   Both rely on wealth produced through trade outweighing wealth from war...
 
+## Simple answers
+
+![Simple Answers](simple.jpg)
+
 ## Gains from trade
 
--   Absolute advantage - one country is better able to produce a good than another country https://www.investopedia.com/terms/a/absoluteadvantage.asp
+- Mercantilism - sell stuff, get gold, don't buy stuff (except for the elite)
+
+-   Absolute advantage - one country is better able to produce a 
+good than another country
+
+[Absolute Advantage](https://www.investopedia.com/terms/a/absoluteadvantage.asp)
 
 -   Competitive advantage - different countries specialize to optimize absolute advantage
 
@@ -21,7 +30,9 @@ What if one country has absolute advantage in all goods?
 
 ## Comparative Advantage
 
-https://www.investopedia.com/terms/c/comparativeadvantage.asp
+[Comparative advantage](https://www.investopedia.com/terms/c/comparativeadvantage.asp)
+
+What if the countries have the same comparative advantage?
 
 ## New Trade Theory
 
@@ -48,7 +59,7 @@ This is the core of the economic case made by advocates of globalization.
 
 Trade is good for the general welfare, but it is claimed that:
 
--   Trade increases conflict 
+-   Trade increases conflict
 -   Trade only benefits the wealthy / Trade increases inequality
 -   Trade increases environmental problems
 
@@ -56,10 +67,10 @@ Trade is good for the general welfare, but it is claimed that:
 
 Trade is good for the general welfare, but it is claimed that:
 
-+ Trade increases conflict (mixed)
+-   Trade increases conflict (mixed)
 
-                + "The vast majority of the extant literature on trade and conflict focuses on bilateral trade to determine whether commerce has a pacifying effect upon pairs of states. We argue that this focus neglects a critical role of international trade: creating tension between states that sell similar goods to the global market."^[Chatagnier, & Kavaklı, K. C. (2017). From Economic Competition to Military Combat: Export Similarity and International Conflict. The Journal of Conflict Resolution, 61(7), 1510–1536.]
-                + "Using commodity-level trade data from 1962 to 2000, we show that countries that produce and sell similar goods are generally more likely to fight..." 
+                  + "The vast majority of the extant literature on trade and conflict focuses on bilateral trade to determine whether commerce has a pacifying effect upon pairs of states. We argue that this focus neglects a critical role of international trade: creating tension between states that sell similar goods to the global market."^[Chatagnier, & Kavaklı, K. C. (2017). From Economic Competition to Military Combat: Export Similarity and International Conflict. The Journal of Conflict Resolution, 61(7), 1510–1536.]
+                  + "Using commodity-level trade data from 1962 to 2000, we show that countries that produce and sell similar goods are generally more likely to fight..." 
 
 ## Globalization issues: Conflict
 
@@ -85,7 +96,7 @@ Trade is good for the general welfare, but it is claimed that:
           + Lots of solid evidence over years of research. 
           + Massive increases in consumer choice and prices.
 
--   Trade creates inequality - Sort of. 
+-   Trade creates inequality - Sort of.
 
         + Mathematical effect of growth - if real income doubles for everyone at all levels, the gap still doubles. Who benefits most? 
         + When trade is combined with bad domestic policies, the benefits can be poorly distributed. Trade works best when combined with domestic liberalization.^[Topalova. (2010). Factor Immobility and Regional Impacts of Trade Liberalization Evidence on Poverty from India. American Economic Journal. Applied Economics, 2(4), 1–41. https://doi.org/10.1257/app.2.4.1] 
