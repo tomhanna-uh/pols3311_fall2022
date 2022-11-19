@@ -1,0 +1,38 @@
+---
+title: "Reading List Nov 22 and Nov 28"
+format: html
+editor: visual
+---
+
+## Required
+
+- refamiliarize yourself with the materials addressed in the discussion questions
+
+## Recommended Reading - repression
+
+
++ Davenport. (2007). State repression and the domestic democratic peace. Cambridge University Press. *Available online from UH Library search* 
+
+                + This book provides an excellent starting place and reference for anyone interested in political repression in the context of democracies. Read relevant pages - use the index and table of contents.
+                
++ Ballard-Rosa, Cameron. “Hungry for change: Urban bias and autocratic sovereign default.”
+International Organization 70.2 (2016): 313-346.
+
+                + Examines the effect of leaders choosing not to engage in repression. Specifically, the authors show that states which have large urban populations have incentives not to engage in repression. If these countries rely on food imports, that incentive makes it more costly to limit food imports and repress the urban population than to suffer the financial costs of defaulting on the sovereign debt. 
+
++ Ritter, Emily Hencken, and Courtenay R. Conrad. “Preventing and responding to dissent:
+The observational challenges of explaining strategic repression.” American Political Science
+Review 110.1 (2016): 85-99.
+
+                + Great basic resource on repression. This is somewhat intense methodologically, but has a lot of useful background on "preventive" repression used to prevent dissent versus  repression imposed on dissenters after the fact. 
+
++ Gohdes, Anita R., and Sabine C. Carey. “Canaries in a coal-mine? What the killings of
+journalists tell us about future repression.” Journal of peace research 54.2 (2017): 157-174.
+                
+                + Good, empircal information on the role of a specific informal institution - the press. Empirically tests the effect of killing of journalists by government and non-state actors. Killing of journalists is often followed by deterioration of human rights. Where other conditions would indicate that human rights should improve, it does not when journalists are killed. 
+                
+                
+## Recommended Reading - corruption
+
+
+
