@@ -93,8 +93,7 @@ Trade is good for the general welfare, but it is claimed that:
 
           + Empirically not the case. 
           + Lots of solid evidence over years of research. 
-          + Massive increases in consumer choice and prices.^[United Nations. "Globalization meets the Millennium Development Goals." World Economic and Social Survey 2017 , pp 73-95. https://doi.org/10.18356/b16f4c86-en]
-
+          + Massive increases in consumer choice and prices.^[United Nations. "Globalization meets the Millennium Development Goals." World Economic and Social Survey 2017 , pp 73-95. https://doi.org/10.18356/b16f4c86-en]^[Dollar, D. "Globalization, Poverty, and Inequality since 1980."]
 -   Trade creates inequality - Sort of.
 
         + Mathematical effect of growth - if real income doubles for everyone at all levels, the gap still doubles. Who benefits most? 
@@ -112,8 +111,10 @@ Trade causes environmental problems?
 
 -   Race to the bottom in environmental regulations - mixed evidence, more positive
 
-          + California effect and race to the top
+          + California effect and race to the top ^[Prakash, Aseem, and Matthew Potoski. "Racing to the Bottom? Trade, Environmental Governance, and ISO 14001." American Journal of Political Science 50, no. 2 (April 2006): 350--64. https://doi.org/10.1111/j.1540-5907.2006.00188.x]
 
 -   Increased production and pollution
+
+                + ^[Yi, Li, Y., & Qi, J. (2021). Impact of Sino-US Trade Liberalization on China’s Carbon Emissions and Future Works on Fractional Phenomenon. Discrete Dynamics in Nature and Society, 2021, 1–10. https://doi.org/10.1155/2021/9961382]
 
           + Increased production generally - increased economic activity, but more efficient technology
