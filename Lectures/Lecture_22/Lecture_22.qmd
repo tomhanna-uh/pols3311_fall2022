@@ -4,21 +4,117 @@ format: revealjs
 editor: visual
 ---
 
-## Quarto
+## Conflict, Trade, and Globalization
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+-   Several explanations of democratic peace focus on the role of international markets
+-   Liberal peace makes the benefits of trade to common people central
+-   Capitalist peace makes the benefit of trade to powerful elites central
+-   Both rely on wealth produced through trade outweighing wealth from war...
 
-## Bullets
+## Simple answers
 
-When you click the **Render** button a document will be generated that includes:
+![Simple Answers](simple.jpg)
 
--   Content authored with markdown
--   Output from executable code
+## Gains from trade
 
-## Code
+- Mercantilism - sell stuff, get gold, don't buy stuff (except for the elite)
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+-   Absolute advantage - one country is better able to produce a 
+good than another country
 
-```{r}
-1 + 1
-```
+[Absolute Advantage](https://www.investopedia.com/terms/a/absoluteadvantage.asp)
+
+-   Competitive advantage - different countries specialize to optimize absolute advantage
+
+What if one country has absolute advantage in all goods?
+
+## Comparative Advantage
+
+[Comparative advantage](https://www.investopedia.com/terms/c/comparativeadvantage.asp)
+
+What if the countries have the same comparative advantage?
+
+## New Trade Theory
+
+-   Paul Krugman 2008 Nobel Prize in Economics for New Trade Theory
+
+-   Countries with the same comparative advantages can gain from trade because:
+
+          + Economies of scale
+          + Consumer preferences
+
+## The case for trade
+
+-   Comparative advantage is regularly observed in operation. Large scale empirical evidence.
+-   Some producers lose - the pie makers in one country and the chocolate cake makers in the other
+-   But there is overall benefit First issue - what about those producers?
+
+## What about the losers from trade?
+
+Given comparative advantage, it is economically more efficient to maintain free trade and pay the domestic producers that are harmed than to have trade barriers to protect domestic producers.
+
+This is the core of the economic case made by advocates of globalization.
+
+## Globalization issues
+
+Trade is good for the general welfare, but it is claimed that:
+
+-   Trade increases conflict
+-   Trade only benefits the wealthy / Trade increases inequality
+-   Trade increases environmental problems
+
+## Globalization issues: Conflict
+
+Trade is good for the general welfare, but it is claimed that:
+
+-   Trade increases conflict (mixed)
+
+                  + "The vast majority of the extant literature on trade and conflict focuses on bilateral trade to determine whether commerce has a pacifying effect upon pairs of states. We argue that this focus neglects a critical role of international trade: creating tension between states that sell similar goods to the global market."^[Chatagnier, & Kavaklı, K. C. (2017). From Economic Competition to Military Combat: Export Similarity and International Conflict. The Journal of Conflict Resolution, 61(7), 1510–1536.]
+                  + "Using commodity-level trade data from 1962 to 2000, we show that countries that produce and sell similar goods are generally more likely to fight..." 
+
+## Globalization issues: Conflict
+
+Trade is good for the general welfare, but it is claimed that:
+
+-   Trade increases conflict (mixed)
+
+          + Generally the evidence is consistent with the liberal/capitalist/democratic peace. 
+          + In specific cases, trade creates conditions ripe for conflict.
+          + Specifically, direct competition may create conflict
+
+## Globalization issues: Distributional issues
+
+-   Trade only benefits the wealthy
+-   Trade creates inequality
+-   Trade works best when combined with domestic liberalization
+
+## Globalization issues: Distributional issues
+
+-   Trade only benefits the wealthy
+
+          + Empirically not the case. 
+          + Lots of solid evidence over years of research. 
+          + Massive increases in consumer choice and prices.
+
+-   Trade creates inequality - Sort of.
+
+        + Mathematical effect of growth - if real income doubles for everyone at all levels, the gap still doubles. Who benefits most? 
+        + When trade is combined with bad domestic policies, the benefits can be poorly distributed. Trade works best when combined with domestic liberalization.^[Topalova. (2010). Factor Immobility and Regional Impacts of Trade Liberalization Evidence on Poverty from India. American Economic Journal. Applied Economics, 2(4), 1–41. https://doi.org/10.1257/app.2.4.1] 
+
+## Globalization issues: Environmental
+
+-   Trade causes environmental problems
+-   Race to the bottom in environmental regulations
+-   Increased production generally increases pollution
+
+## Globalization issues: Environmental
+
+Trade causes environmental problems?
+
+-   Race to the bottom in environmental regulations - mixed evidence, more positive
+
+          + California effect and race to the top
+
+-   Increased production and pollution
+
+          + Increased production generally - increased economic activity, but more efficient technology
