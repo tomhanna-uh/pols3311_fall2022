@@ -6,33 +6,65 @@ editor: visual
 
 ## Required
 
-- refamiliarize yourself with the materials addressed in the discussion questions
+-   refamiliarize yourself with the materials addressed in the discussion questions
 
 ## Recommended Reading - repression
 
+-   Davenport. (2007). State repression and the domestic democratic peace. Cambridge University Press. *Available online from UH Library search*
 
-+ Davenport. (2007). State repression and the domestic democratic peace. Cambridge University Press. *Available online from UH Library search* 
+                  + This book provides an excellent starting place and reference for anyone interested in political repression in the context of democracies. Read relevant pages - use the index and table of contents.
 
-                + This book provides an excellent starting place and reference for anyone interested in political repression in the context of democracies. Read relevant pages - use the index and table of contents.
-                
-+ Ballard-Rosa, Cameron. “Hungry for change: Urban bias and autocratic sovereign default.”
-International Organization 70.2 (2016): 313-346.
+-   Ballard-Rosa, Cameron. "Hungry for change: Urban bias and autocratic sovereign default." International Organization 70.2 (2016): 313-346.
 
-                + Examines the effect of leaders choosing not to engage in repression. Specifically, the authors show that states which have large urban populations have incentives not to engage in repression. If these countries rely on food imports, that incentive makes it more costly to limit food imports and repress the urban population than to suffer the financial costs of defaulting on the sovereign debt. 
+                  + Examines the effect of leaders choosing not to engage in repression. Specifically, the authors show that states which have large urban populations have incentives not to engage in repression. If these countries rely on food imports, that incentive makes it more costly to limit food imports and repress the urban population than to suffer the financial costs of defaulting on the sovereign debt. 
 
-+ Ritter, Emily Hencken, and Courtenay R. Conrad. “Preventing and responding to dissent:
-The observational challenges of explaining strategic repression.” American Political Science
-Review 110.1 (2016): 85-99.
+-   Ritter, Emily Hencken, and Courtenay R. Conrad. "Preventing and responding to dissent: The observational challenges of explaining strategic repression." American Political Science Review 110.1 (2016): 85-99.
 
-                + Great basic resource on repression. This is somewhat intense methodologically, but has a lot of useful background on "preventive" repression used to prevent dissent versus  repression imposed on dissenters after the fact. 
+                  + Great basic resource on repression. This is somewhat intense methodologically, but has a lot of useful background on "preventive" repression used to prevent dissent versus  repression imposed on dissenters after the fact. 
 
-+ Gohdes, Anita R., and Sabine C. Carey. “Canaries in a coal-mine? What the killings of
-journalists tell us about future repression.” Journal of peace research 54.2 (2017): 157-174.
-                
-                + Good, empircal information on the role of a specific informal institution - the press. Empirically tests the effect of killing of journalists by government and non-state actors. Killing of journalists is often followed by deterioration of human rights. Where other conditions would indicate that human rights should improve, it does not when journalists are killed. 
-                
-                
+-   Gohdes, Anita R., and Sabine C. Carey. "Canaries in a coal-mine? What the killings of journalists tell us about future repression." Journal of peace research 54.2 (2017): 157-174.
+
+                  + Good, empircal information on the role of a specific informal institution - the press. Empirically tests the effect of killing of journalists by government and non-state actors. Killing of journalists is often followed by deterioration of human rights. Where other conditions would indicate that human rights should improve, it does not when journalists are killed. 
+
 ## Recommended Reading - corruption
+
+
++ Treisman. (2007). What Have We Learned About the Causes of Corruption from Ten Years of Cross-National Empirical Research? Annual Review of Political Science, 10(1), 211–244. https://doi.org/10.1146/annurev.polisci.10.081205.095418
+
+                + This is an excellent review of ten years of comparative (cross-national) research on corruption. 
+                + Concludes (using an advanced technique called an "instrumental variable") that higher development leads to less perception of corruption.
+                + Development comes first, lower corruption comes later.
+                + Focuses on perceptions of corruption, leaving a somewhat open question whether people just perceive less corruption when they are satisfied economically.
+                
+
++  Tavits. (2007). Clarity of Responsibility and Corruption. American Journal of Political Science, 51(1), 218–229. https://doi.org/10.1111/j.1540-5907.2007.00246.x
+
+                + Makes the case that for electoral accountability to affect corruption, voters must be able to see clearly who is responsible for the corruption. 
+                + If it is not clear who is responsible, voters can not know who to hold accountable.
+                + Important theoretical explanation behind differences between electoral and party systems.
+                + How does divided government in Presidential systems affect corruption?
+                + Large bureaucracies shield elected officials from accountability for petty corruption?
+                
++ Bauhr, & Charron, N. (2018). Insider or Outsider? Grand Corruption and Electoral Accountability. Comparative Political Studies, 51(4), 415–446. https://doi.org/10.1177/0010414017710258
+
+                + Comparative (cross-national) study of electoral accountability for corruption.
+                + Finds that in cases where voters become used to high levels of grand corruption, insiders who benefit stay loyal to favored politicians while outsiders who do not benefit are apathetic.
+                + Grand corruption are cases where high level policies are decided corruptly - new laws, new regulations, new policies, large budget items. Petty corruption involves things like bribing bureaucrats to give a small contract, issue a license corruptly, or bribing police to overlook a criminal offense.
+                
++ CHANG, & GOLDEN, M. A. (2007). Electoral Systems, District Magnitude and Corruption. British Journal of Political Science, 37(1), 115–137. https://doi.org/10.1017/S0007123407000063
+
+                + Complicated model that includes both district magnitude and PR list type (closed versus open)
+                + Good background on the personal vote
+                + Good background on closed list, open list, and district magnitude
+
+
+
++ Avis, Ferraz, C., & Finan, F. (2018). Do Government Audits Reduce Corruption? Estimating the Impacts of Exposing Corrupt Politicians. The Journal of Political Economy, 126(5), 1912–1964. https://doi.org/10.1086/699209
+
+                + Examines the effectiveness of government audits, which may lead to prosecution, in reducting corruption. They find that this form of judicial accountability reduces corruption. 
+                + This is useful as a comparison to accountability through elections. If looking at effects of elections, you could ask yourself "how does this compare to the accountability through audits and prosecution?"
+                
+
 
 
 
