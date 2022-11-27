@@ -4,29 +4,45 @@ format: revealjs
 editor: visual
 ---
 
+## Question 1
+
+1. How do closed list and open list PR present different collective action problems for candidates/office holders? How does accountability differ?
+
+## Question 2
+
+2. How do the incentives differ for candidates in open and closed list systems? 
+
+## Question 3
+
+3. How do the incentives and accountability differ between PR and majoritarian systems? Between Parliamentary and Presidential systems?
+
+## Question 4
+
+4. How do informal institutions affect governance in democracies? Is this fundamentally different in dictatorships?
+
+## Question 5
+
+5. What is the most important institutional effect of democracy? For the average non-politically active citizen what is it's biggest advantage over dictatorship? What institutional effect of democracy explains that? That is, what specific institutional feature is most improved by democracy?
+
+
 ## What is repression?
 
-+ use of state force for political reasons or;
-+ tacit approval of private use of force for political reasons;
-+ suppression of dissent - not evenly applied, targets dissenting groups
-
+-   use of state force for political reasons or;
+-   tacit approval of private use of force for political reasons;
+-   suppression of dissent - not evenly applied, targets dissenting groups
 
 ## What is repression?
 
-+ Generally, distinct from use of police force to enforce laws, even controversial ones but...
-+ may include things like targeting opposition broadcasters with unequal application of licensing laws
-+ selective prosecution of political opponents for largely unenforced laws
-
-
+-   Generally, distinct from use of police force to enforce laws, even controversial ones but...
+-   may include things like targeting opposition broadcasters with unequal application of licensing laws
+-   selective prosecution of political opponents for largely unenforced laws
 
 ## Democracy and Repression
 
-+ Does repression happen in democracies?
-+ Why is repression especially problemtatic in democracies?
-
+-   Does repression happen in democracies?
+-   Why is repression especially problemtatic in democracies?
 
 ## Democracy and Repression
-
 
                 + "Does democracy decrease state repression in line with the expectations of governments, international organizations, NGOs, social movements, academics and ordinary citizens around the world? Most believe that a 'domestic democratic peace' exists, rivalling that found in the realm of interstate conflict. Investigating 137 countries from 1976 to 1996, this book seeks to shed light on this question. Specifically, three results emerge. First, while different aspects of democracy decrease repressive behaviour, not all do so to the same degree. Human rights violations are especially responsive to electoral participation and competition. Second, while different types of repression are reduced, not all are limited at comparable levels. Personal integrity violations are decreased more than civil liberties restrictions. Third, the domestic democratic peace is not bulletproof; the negative influence of democracy on repression can be overwhelmed by political conflict. This research alters our conception of repression, its analysis and its resolution." - Davenport 2007
                 
