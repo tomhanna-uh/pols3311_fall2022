@@ -6,24 +6,23 @@ editor: visual
 
 ## Question 1
 
-1. How do closed list and open list PR present different collective action problems for candidates/office holders? How does accountability differ?
+1.  How do closed list and open list PR present different collective action problems for candidates/office holders? How does accountability differ?
 
 ## Question 2
 
-2. How do the incentives differ for candidates in open and closed list systems? 
+2.  How do the incentives differ for candidates in open and closed list systems? 
 
 ## Question 3
 
-3. How do the incentives and accountability differ between PR and majoritarian systems? Between Parliamentary and Presidential systems?
+3.  How do the incentives and accountability differ between PR and majoritarian systems? Between Parliamentary and Presidential systems?
 
 ## Question 4
 
-4. How do informal institutions affect governance in democracies? Is this fundamentally different in dictatorships?
+4.  How do informal institutions affect governance in democracies? Is this fundamentally different in dictatorships?
 
 ## Question 5
 
-5. What is the most important institutional effect of democracy? For the average non-politically active citizen what is it's biggest advantage over dictatorship? What institutional effect of democracy explains that? That is, what specific institutional feature is most improved by democracy?
-
+5.  What is the most important institutional effect of democracy? For the average non-politically active citizen what is it's biggest advantage over dictatorship? What institutional effect of democracy explains that? That is, what specific institutional feature is most improved by democracy?
 
 ## What is repression?
 
