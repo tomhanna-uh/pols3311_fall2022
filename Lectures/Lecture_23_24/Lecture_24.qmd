@@ -4,115 +4,130 @@ format: revealjs
 editor: visual
 ---
 
-## 
+## Recap on Globalization, Trade, Conflict
+
+1. These are complex systems
+2. Seemingly contradictory things can go hand in hand
+3. Science can help us measure trade-offs
+4. Valid unbiased science and normative (idealistic) ideas can make good policy but...
+5. Ideological talking points that don't recognize 1 to 3 bias results.
+
+## Globalization, Trade, Conflict
+
+Example:
+
+Globalization (trade and financial liberalization) has been blamed or praised for:
+
+                1. Decreasing absolute poverty
+                2. Increasing inequality
+                3. Improving median incomes
+                4. Causing unemployment in manufacturing communities
+                5. Raising living standards of the poorest people
+                6. Increasing total employment/productivity for all trading partners
+
++ All of these *can* be true
++ All of these *are* empirically valid statements of the real world
++ None of these address other issues like conflict, the environment, or labor rights
 
 ## Causes of Corruption and Repression
 
 Today - Corruption and Repression:
 
-+ Empirical study 
-+ Comparative study
+-   Empirical study
+-   Comparative study
 
 in terms of topics from earlier in the semester:
 
-+ institutions
-+ incentives
-+ selectorate theory
+-   institutions
+-   incentives
+-   selectorate theory
 
 ## Repression
 
-+ Dictatorships
-+ Democracies
-+ Similarities?
+-   Dictatorships
+-   Democracies
+-   Similarities?
 
 ## Repression - incentives and disincentives
 
-+ incentives to repress
-+ cost of repression
+-   incentives to repress
+-   cost of repression
 
 ## Repression - incentives to repress
 
-+ incentives to repress
-
+-   incentives to repress
 
 ## Repression - incentives to repress
 
-+ incentives to repress - MAINTAIN POWER
+-   incentives to repress - MAINTAIN POWER
 
-                + appease/protect/defend elites (W)
-                + prevent revolt (election loss in democracies
-                
-                )
-                
-                
-## Repression - disincentives
+                  + appease/protect/defend elites (W)
+                  + prevent revolt (election loss in democracies
 
-+ cost of repression
+                  )
 
 ## Repression - disincentives
 
-+ cost of repression
+-   cost of repression
 
-                + machinery of repression
-                + economic disruptions
-                + lost productivity from the repressed
-                + reputational costs
+## Repression - disincentives
+
+-   cost of repression
+
+                  + machinery of repression
+                  + economic disruptions
+                  + lost productivity from the repressed
+                  + reputational costs
 
 ## Democracy vs Dictatorship
 
-+ Democracy vs dictatorship: What is the big difference?
+-   Democracy vs dictatorship: What is the big difference?
 
-+ Other difference: higher legal accountability of government
-+ Other difference: voting vs rioting (Ballard-Rosa)
+-   Other difference: higher legal accountability of government
+
+-   Other difference: voting vs rioting (Ballard-Rosa)
 
 ## Within dictatorships
 
-+ urban vs rural populations
+-   urban vs rural populations
 
-                + Urban populations easier to mobilize for rioting
-                + Urban populations more easily bought off with cheap food
-                
-+ differences in legal accountability
+                  + Urban populations easier to mobilize for rioting
+                  + Urban populations more easily bought off with cheap food
 
-                + power of legislature
-                + size and power of legal opposition
-                + power of civil society groups
-                + power and independence of judiciary
-              
-     
+-   differences in legal accountability
+
+                  + power of legislature
+                  + size and power of legal opposition
+                  + power of civil society groups
+                  + power and independence of judiciary
 
 ## Other issues
 
-+ Preventive repression - harder to measure
-
+-   Preventive repression - harder to measure
 
 ## Corruption - definitions
 
-+ Grand corruption
-+ petty corruption
+-   Grand corruption
+-   petty corruption
 
 ## Corruption - core issues
 
-+ incentives toward corruption
-+ accountability and responsibility
-
+-   incentives toward corruption
+-   accountability and responsibility
 
 ## Corruption - incentives
 
-+ personal wealth
-+ corrupt politics
+-   personal wealth
 
-                + campaign costs
-                + buying votes
-                + other corrupt costs
-                
+-   corrupt politics
+
+                  + campaign costs
+                  + buying votes
+                  + other corrupt costs
+
 ## Corruption - accountability and responsibility
 
                 + Legal (punitive)
                 + Electoral
                 + Party leadership
                 
-
-
-
-
