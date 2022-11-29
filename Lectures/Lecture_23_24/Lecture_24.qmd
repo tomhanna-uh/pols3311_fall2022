@@ -4,13 +4,24 @@ format: revealjs
 editor: visual
 ---
 
-## Recap on Globalization, Trade, Conflict
+## Recap on Globalization, Trade, Conflict - and everything else
 
-1. These are complex systems
-2. Seemingly contradictory things can go hand in hand
-3. Science can help us measure trade-offs
-4. Valid unbiased science and normative (idealistic) ideas can make good policy but...
-5. Ideological talking points that don't recognize 1 to 3 bias results.
+1.  These are complex systems
+2.  Seemingly contradictory things can go hand in hand
+3.  Science can help us measure trade-offs
+4.  Valid unbiased science and normative (idealistic) ideas can make good policy but...
+5.  Ideological talking points that don't recognize 1 to 3 bias scientific results.
+
+## Full process
+
+1 - ideals give us questions
+
+                + What causes mass violence?
+                + What causes war?
+                + How can poverty be reduced?
+
+2 - apply the unbiased Scientific Method to find answers
+3 - take those answers and our ideals to make policy
 
 ## Globalization, Trade, Conflict
 
@@ -18,20 +29,20 @@ Example:
 
 Globalization (trade and financial liberalization) has been blamed or praised for:
 
-                1. Decreasing absolute poverty
-                2. Increasing inequality
-                3. Improving median incomes
-                4. Causing unemployment in manufacturing communities
-                5. Raising living standards of the poorest people
-                6. Increasing total employment/productivity for all trading partners
+                1. Decreasing absolute poverty - G
+                2. Increasing inequality - B
+                3. Improving median incomes - G
+                4. Causing unemployment in manufacturing communities - B
+                5. Raising living standards of the poorest people - G
+                6. Increasing total employment/productivity for all trading partners - G
 
-+ All of these *can* be true
-+ All of these *are* empirically valid statements of the real world
-+ None of these address other issues like conflict, the environment, or labor rights
+-   All of these *can* be true
+-   All of these *are* empirically valid statements of the real world
+-   None of these address other issues like conflict, the environment, or labor rights - potentially G or B
 
 ## Causes of Corruption and Repression
 
-Today - Corruption and Repression:
+Focus:
 
 -   Empirical study
 -   Comparative study
@@ -62,9 +73,7 @@ in terms of topics from earlier in the semester:
 -   incentives to repress - MAINTAIN POWER
 
                   + appease/protect/defend elites (W)
-                  + prevent revolt (election loss in democracies
-
-                  )
+                  + prevent revolt (election loss in democracies)
 
 ## Repression - disincentives
 
@@ -77,15 +86,20 @@ in terms of topics from earlier in the semester:
                   + machinery of repression
                   + economic disruptions
                   + lost productivity from the repressed
-                  + reputational costs
+                  + reputational costs (international)
+                  + reputational costs (domestic) - potential backfire
 
 ## Democracy vs Dictatorship
 
--   Democracy vs dictatorship: What is the big difference?
+-   Democracy vs dictatorship - what are the major differences?
 
--   Other difference: higher legal accountability of government
+## Democracy vs Dictatorship
 
--   Other difference: voting vs rioting (Ballard-Rosa)
+-   Democracy vs dictatorship - differences
+
+        + higher legal accountability of government - institutions
+        + voting vs rioting (Ballard-Rosa)
+        + Reputational costs 
 
 ## Within dictatorships
 
@@ -131,5 +145,16 @@ in terms of topics from earlier in the semester:
                 + Electoral
                 + Party leadership
                 
+
 ## Return quizzes and tests
 
++ Later this week
+
+        + Exit survey (extra credit) on Blackboard
+        + Grade questions - I'll discuss procedure on Wednesday. Do not email.
+
++ Wednesday
+
+        + Final review
+        + Evaluation
+        
