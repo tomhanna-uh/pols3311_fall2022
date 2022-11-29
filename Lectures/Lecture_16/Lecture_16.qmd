@@ -15,7 +15,7 @@ editor: visual
                   + For questions about the readings, have the specific location
                   + Those writing on the topics should come to class with questions and with thoughts on possible answers to the questions given
 
--   Readings are moving to Course Reserves in Blackboard 
+-   Readings are moving to Course Reserves in Blackboard
 
                   + Accessibility issue with journal articles
                   + New readings will only be there

@@ -8,49 +8,51 @@ editor: visual
 
 Two points on the material from last Wednesday.
 
-1. These videos summarized the author's conclusions. 
+1.  These videos summarized the author's conclusions.
 
-                + Anyone can make a video and make claims
-                + Their studies have the detailed theories and actual scientific evidence
-                + The evidence is in their hypotheses, data and methods not a video
-                + Mokyr - extensive studies of economic history
-                + McCloskey - case studies and quantitative analysis
-                + Acemoglu and Robinson - multiple rigorous, cross-national, quantitative studies
+                 + Anyone can make a video and make claims
+                 + Their studies have the detailed theories and actual scientific evidence
+                 + The evidence is in their hypotheses, data and methods not a video
+                 + Mokyr - extensive studies of economic history
+                 + McCloskey - case studies and quantitative analysis
+                 + Acemoglu and Robinson - multiple rigorous, cross-national, quantitative studies
 
-2. Different approaches, different conclusions
-                
-                + Mokyr - technology and the attitude of innovation
-                + McCloskey - individual liberty
-                + Acemoglu and Robinson - strong state, strong civil society, competing and cooperating
+2.  Different approaches, different conclusions
+
+                 + Mokyr - technology and the attitude of innovation
+                 + McCloskey - individual liberty
+                 + Acemoglu and Robinson - strong state, strong civil society, competing and cooperating
 
 ## Assignments
 
-+ Academic honesty policy Blackboard test is two points which counta as extra credit but agreeing to the Academic Honesty Policy is required. Today's quiz is a second chance. After that, the options will be:
+-   Academic honesty policy Blackboard test is two points which counta as extra credit but agreeing to the Academic Honesty Policy is required. Today's quiz is a second chance. After that, the options will be:
 
-                + An essay on why Academic Honesty is still important in the Age of Google Search.
-                + A written statement in your own words agreeing to follow the Policy, signed. 
-                + Both of the above in writing, on paper, handed to me personally on a day you attend class. 
+                  + An essay on why Academic Honesty is still important in the Age of Google Search.
+                  + A written statement in your own words agreeing to follow the Policy, signed. 
+                  + Both of the above in writing, on paper, handed to me personally on a day you attend class. 
 
-
-                
 ## Quiz
 
 ## Theory and hypothesis formation
 
 Scientific method:
 
-1. Define a research question
-2. Make predictions - hypothesis
-3. Gather data
+1.  Define a research question
 
-         + Experiments
-         + Observations 
-4. Analyze the data to test the hypothesis
-5. Draw conclusions
+2.  Make predictions - hypothesis
+
+3.  Gather data
+
+          + Experiments
+          + Observations 
+
+4.  Analyze the data to test the hypothesis
+
+5.  Draw conclusions
 
 ## Theory and hypothesis formation
 
-2. Make predictions - hypothesis
+2.  Make predictions - hypothesis
 
 We draw on existing work
 
@@ -58,21 +60,20 @@ We draw on existing work
 
 Formulate a theory to explain the question
 
-Build hypothesis that, if false, show the theory to be false^[at least the theory as stated is false. It may be that it needs modified or there are conditions. If so, the theory can be restated, new hypotheses made, and tested **with new data**.]
+Build hypothesis that, if false, show the theory to be false[^1]
 
+[^1]: at least the theory as stated is false. It may be that it needs modified or there are conditions. If so, the theory can be restated, new hypotheses made, and tested **with new data**.
 
 Example: Autocracy Promotion
 
-
-
 ## Democratic Backsliding: The international perspective
 
-+ Hyde. "Democracy’s backsliding in the international environment" 
+-   Hyde. "Democracy's backsliding in the international environment"
 
-+ Norris. "Is Western Democracy Backsliding? Diagnosing the Risks.'
+-   Norris. "Is Western Democracy Backsliding? Diagnosing the Risks.'
 
 ## Democratic Backsliding: Case Studies & Comparative Cases
 
-+ Venezuela
-+ Turkey
-+ Malawi and Zambia
+-   Venezuela
+-   Turkey
+-   Malawi and Zambia

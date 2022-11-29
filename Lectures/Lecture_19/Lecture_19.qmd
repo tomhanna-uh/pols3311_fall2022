@@ -1,115 +1,112 @@
 ---
-<<<<<<< HEAD
-title: "Lecture 19 - November 9"
-=======
 title: "Lecture 19"
->>>>>>> 75ff4cddd94763984d4a77f39eb019f90ff83e5e
 format: revealjs
 editor: visual
 ---
 
-<<<<<<< HEAD
 ## Assignments
 
-+ Academic honesty policy Blackboard test is two points which counta as extra credit but WAS REQUIRED. If you did not complete it, these are the options:
+-   Academic honesty policy Blackboard test is two points which counta as extra credit but WAS REQUIRED. If you did not complete it, these are the options:
 
-                1. Write a paragraph on why academic honesty matters. State that you have read the academic honesty policy. Sign a statement in your own words agreeing to abide by the policy. Turn this in, on paper before November 16.
-                2. Drop deadline is November 16, 2022
-                
+                  1. Write a paragraph on why academic honesty matters. State that you have read the academic honesty policy. Sign a statement in your own words agreeing to abide by the policy. Turn this in, on paper before November 16.
+                  2. Drop deadline is November 16, 2022
+
 ## Quiz
 
-1. In Susan Hyde's article "Democracy’s backsliding in the international environment," she had a figure which showed the total number of "elections with government harassment of opposition and/or media bias in favor of the incumbent" ___________ after 2010, while the total number of elections began to level off in the same period. (one word)
+1.  In Susan Hyde's article "Democracy's backsliding in the international environment," she had a figure which showed the total number of "elections with government harassment of opposition and/or media bias in favor of the incumbent" \_\_\_\_\_\_\_\_\_\_\_ after 2010, while the total number of elections began to level off in the same period. (one word)
 
-2. In recent years, according to Norris, "Millenials in Anglo-American democracies express _________ support for democratic values, but this	is not a consistent	pattern	across Western democracies and post-industrial societies." (one word)
+2.  In recent years, according to Norris, "Millenials in Anglo-American democracies express \_\_\_\_\_\_\_\_\_ support for democratic values, but this is not a consistent pattern across Western democracies and post-industrial societies." (one word)
 
-3. Norris says the data from Freedom  House shows that "the quality of institutions	protecting	political rights and civil liberties deteriorated" from 1972 to 2016, with the greatest erosion happening in:
+3.  Norris says the data from Freedom House shows that "the quality of institutions protecting political rights and civil liberties deteriorated" from 1972 to 2016, with the greatest erosion happening in:
 
-                a. democracices
-                b. hybrid regimes
-                c. closed autocracies
-                d. hereditary monarchies
+                 a. democracices
+                 b. hybrid regimes
+                 c. closed autocracies
+                 d. hereditary monarchies
 
-4. Norris claims two related trends are the greatest threat to democracies. First are "sporadic and random terrorist attacks on domestic soil, which damage feelings of security," and second is "the rise of _____________________ forces, which feed upon these fears." (two words)
+4.  Norris claims two related trends are the greatest threat to democracies. First are "sporadic and random terrorist attacks on domestic soil, which damage feelings of security," and second is "the rise of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ forces, which feed upon these fears." (two words)
 
-5. In laying out the conditions for democractic backsliding, Norris draws on Linz and Stepan's *Problems of Democratic Transition and Consolidation*, which proposes three conditions for democratic consolidation. Which of these is NOT one of the conditions:
+5.  In laying out the conditions for democractic backsliding, Norris draws on Linz and Stepan's *Problems of Democratic Transition and Consolidation*, which proposes three conditions for democratic consolidation. Which of these is NOT one of the conditions:
 
-                a. Cultural
-                b. Economic
-                c. Constitutional
-                d. Behavioral
+                 a. Cultural
+                 b. Economic
+                 c. Constitutional
+                 d. Behavioral
 
-6. Which of the following is an example of an informal institution?
+6.  Which of the following is an example of an informal institution?
 
-                a. Opposition press
-                b. central banks
-                c. the judiciary
-                d. treaty commitments
+                 a. Opposition press
+                 b. central banks
+                 c. the judiciary
+                 d. treaty commitments
 
-7. In analyzing behavior, what is the primary motivation that overwhelmingly explains the behavior of politicians in both democratic and non-democratic societies?
+7.  In analyzing behavior, what is the primary motivation that overwhelmingly explains the behavior of politicians in both democratic and non-democratic societies?
 
-                a. the greater good
-                b. power
-                c. nationalism
-                d. ideology
-                
+                 a. the greater good
+                 b. power
+                 c. nationalism
+                 d. ideology
+
 ## Theory and hypothesis formation
 
 Autocracy Promotion
 
-
-
 ## Democratic Backsliding: The international perspective
 
-+ Hyde. "Democracy’s backsliding in the international environment" 
+-   Hyde. "Democracy's backsliding in the international environment"
 
-+ Norris. "Is Western Democracy Backsliding? Diagnosing the Risks.'
+-   Norris. "Is Western Democracy Backsliding? Diagnosing the Risks.'
 
 ## Democratic Backsliding: Case Studies & Comparative Cases
 
-+ Venezuela
-+ Turkey
-+ Malawi and Zambia
-=======
-## Notes
+-   Venezuela
 
-- Academic Honesty Policy - required
-- Next week reading and discussion
+-   Turkey
 
-        + No reading for Monday
-        + I'll be going through works on autocracy promotion to illustrate more of the research process
-        + There will be an extra credit assignment related to this using your scientific research questions
-        + Reading for Wednesday posted this weekend
-        + Discussion questions posted same time as readings
+-   
+
+    # Malawi and Zambia
+
+    ## Notes
+
+-   Academic Honesty Policy - required
+
+-   Next week reading and discussion
+
+          + No reading for Monday
+          + I'll be going through works on autocracy promotion to illustrate more of the research process
+          + There will be an extra credit assignment related to this using your scientific research questions
+          + Reading for Wednesday posted this weekend
+          + Discussion questions posted same time as readings
 
 ## Recap
 
-+ Democracy and national income are highly correlated
-        
-                + Some theories suggest democracy leads to economic development  - security of investment
-                + Some theories suggest economic development leads to democracy - notably Modernization Theory
-                + Other theories suggest something else causes both - urbanization, culture, historical path dependence 
-                
-+ Cultural factors example was Puritanism with its emphasis on the individual
+-   Democracy and national income are highly correlated
+
+                  + Some theories suggest democracy leads to economic development  - security of investment
+                  + Some theories suggest economic development leads to democracy - notably Modernization Theory
+                  + Other theories suggest something else causes both - urbanization, culture, historical path dependence 
+
+-   Cultural factors example was Puritanism with its emphasis on the individual
 
 ## Recap 2
 
-+ Other ideas - Some process protects and expands individual liberty in an evolutionary, parallel process
+-   Other ideas - Some process protects and expands individual liberty in an evolutionary, parallel process
 
-        + North, Wallis and Weingast - Controlling violence and open access social orders
-        + Acemoglu and Robinson's - Narrow Corridor
-        + Mokyr - depersonalization, freedom to innovate economically
-        + McCloskey - Bourgeois Dignity, freedom to innovate economically and politically
+          + North, Wallis and Weingast - Controlling violence and open access social orders
+          + Acemoglu and Robinson's - Narrow Corridor
+          + Mokyr - depersonalization, freedom to innovate economically
+          + McCloskey - Bourgeois Dignity, freedom to innovate economically and politically
 
-        
 ## Discussion: Brazil election
 
 ## Daron Acemoglu on The Narrow Corridor
 
-[Interview with Daron Acemoğlu on “The Narrow Corridor: States, Societies and the Fate of Liberty”](https://www.youtube.com/watch?v=vGbYbx_aKK8 )   
+[Interview with Daron Acemoğlu on "The Narrow Corridor: States, Societies and the Fate of Liberty"](https://www.youtube.com/watch?v=vGbYbx_aKK8)
 
 ## Joel Mokyr 1
 
-[Joel Mokyr on the importance of non-conformism and freedom of thought](https://www.youtube.com/watch?v=SxEV2JSmfrc) 
+[Joel Mokyr on the importance of non-conformism and freedom of thought](https://www.youtube.com/watch?v=SxEV2JSmfrc)
 
 ## Deirdre McCloskey
 
@@ -118,9 +115,3 @@ Autocracy Promotion
 ## Joel Mokyr 2
 
 [Joel Mokyr "Every act of innovation is by definition an act of rebellion..."](https://www.youtube.com/watch?v=HNc5FQ2z4YU)
-
-
-
-
->>>>>>> 75ff4cddd94763984d4a77f39eb019f90ff83e5e
-
