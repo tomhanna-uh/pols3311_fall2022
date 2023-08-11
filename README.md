@@ -3,7 +3,7 @@ RMarkdown/Quarto documents for lectures for Fall 2022 Introduction to Comparativ
 
 I did this as a test of the R Markdown (and at some point Quarto) presentation system. There is nothing really statistical here, interestingly enough. This is just an attempt to make presentations for lectures/discussion for a semester of Comparative Politics. 
 
-This may be used as an OER resource subject to the Creative Commons License. 
+This may be used as an OER resource subject to the Creative Commons License. Use at own risk.
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
